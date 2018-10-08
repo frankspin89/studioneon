@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class='text-base leading-normal {{if eq .Params.background "orange"}}bg-orange text-white {{ else }}text-orange{{end}}'>
+        {{- block "header" . }}{{- partial "header.html" . -}} {{ end }}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+        <script src='{{ "dist/app.bundle.js" | relURL }}?{{ now.Unix }}'></script>
+    </body>
+</html>
