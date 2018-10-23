@@ -116,3 +116,42 @@ svg:not(:root) {
 .main-content p {
     @apply mb-8
 }
+
+
+.search-input:focus + .blink
+{
+    animation: noblink 1s infinite;
+}
+
+
+.blink {
+  top: 0;
+  right: 5%;
+  position: absolute;
+  display: inline-block;
+  background-color: #fff;
+  width: 2px;
+  height: 80%;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1.0; }
+  50% { opacity: 0; }
+  100% { opacity: 1.0; }
+}
+
+@keyframes noblink {
+  0% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+::-moz-selection { background: #ff3901; color: #fff;  }
+::selection { background: #ff3901; color: #fff;  }
+
+.bg-orange ::-moz-selection { background: #fff; color: #ff3901;  }
+.bg-orange ::selection { background: #fff; color: #ff3901;  }
+
+.main-content a {
+    text-decoration: underline !important;
+}
