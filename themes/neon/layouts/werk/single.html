@@ -4,9 +4,9 @@
   <header class="w-screen h-screen mb-12">
     <img src="/images/werkhero.jpg" class="w-full h-full" style="object-fit:cover;" alt="">
   </header>
-  <div class="container px-4 pt-20">
-    <div class="px-20">
-      <div id="contentBoxToggle" class="flex items-center mb-4 cursor-pointer">
+  <div class="container px-4 pt-12 md:pt-20">
+    <div class="lg:px-20">
+      <div id="contentBoxToggle" class="flex items-baseline mb-4 cursor-pointer">
         <div class="w-4 h-4 mr-6 mb-1 relative">
           <svg id="contentBox-open" class="block absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8">
             <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
@@ -17,13 +17,13 @@
         </div>
         <h1 class="text-2xl font-medium ">{{.Title}}</h1>
       </div>
-      <div id="contentBox" class="hidden flex-row mx-auto -mx-12 mb-8">
-        <div class="w-3/5 px-12 main-content">
+      <div id="contentBox" class="hidden md:flex-row mx-auto md:-mx-12 mb-8 flex-col ">
+        <div class="md:w-3/5 md:px-12 main-content">
           {{.Content}}
         </div>
-        <div class="w-2/5 px-12 flex flex-row justify-end">
+        <div class="md:w-2/5 md:px-12 md:flex md:flex-row md:justify-end">
           <div>
-            <p class="mb-12"><strong>Atlas theater</strong></p>
+            <p class="mb-4 md:mb-12"><strong>Atlas theater</strong></p>
             <ul class="list-reset">
               <li>visuele identiteit</li>
               <li>brochure</li>
