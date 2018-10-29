@@ -8,3 +8,6 @@ fields:
   label: Hero
   config:
     maxSize: '5'
+- type: tag_list
+  name: tags
+  label: Tags
