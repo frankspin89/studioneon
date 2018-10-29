@@ -8,6 +8,8 @@ fields:
   label: Hero
   config:
     maxSize: '5'
+  description: Upload afbeeldingen in het formaat 3840x2400. Afbeeldingen worden ook
+    automatisch verkleint naar 1920x1200.
 - type: text
   name: klant
   label: Klant
@@ -17,6 +19,8 @@ fields:
 - type: image_gallery
   name: werk
   label: Werk
+  description: Upload afbeeldingen in het formaat 2200x1400. Afbeeldingen worden ook
+    automatisch verkleint naar 1100x700.
 pages:
 - content/werk/dit-is-een-test.md
 - content/werk/hoe-geef-je-smoel-aan-scheepsbouw.md
