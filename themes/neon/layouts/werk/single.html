@@ -2,7 +2,20 @@
 {{ define "main" }}
 <article class="overflow-hidden">
   <header class="w-screen h-screen mb-12">
-    <img src="/images/werkhero.jpg" class="w-full h-full" style="object-fit:cover;" alt="">
+
+    {{ with .Params.hero}}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+      {{ with $imageResource }}
+        {{ $src1x := (.Fill "1920x1200 Center") }}
+        {{ $src2x := (.Fill "3840x2400 Center") }}
+        <picture class="block w-full h-full">
+            <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full h-full" style="object-fit:cover;" />
+        </picture>
+      {{ end }}
+    {{ end }}
+
+
+
   </header>
   <div class="container px-4 pt-12 md:pt-20">
     <div class="lg:px-20">
@@ -37,9 +50,18 @@
         </div>
       </div>
       <div class="mb-16">
-        <img src="/images/werk1.jpg" class="w-full mb-2" style="object-fit:cover;" alt="">
-        <img src="/images/werk2.jpg" class="w-full mb-2" style="object-fit:cover;" alt="">
-        <img src="/images/werk3.jpg" class="w-full" style="object-fit:cover;" alt="">
+      {{ with .Params.werk }}
+        {{ range . }}
+          {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+            {{ with $imageResource }}
+              {{ $src1x := (.Fill "1100x700 Center") }}
+              {{ $src2x := (.Fill "2200x1400 Center") }}
+              <picture class="block w-full h-full mb-2">
+                  <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
+              </picture>
+            {{ end }}
+          {{ end }}
+        {{ end }}
       </div>
       <div class="flex flex-row justify-between mb-12 text-2xl">
         <a href="#" class="flex flex-col items-center">
