@@ -17,3 +17,5 @@ fields:
 - type: image_gallery
   name: werk
   label: Werk
+pages:
+- content/werk/hoe-geef-je-smoel-aan-scheepsbouw.md
