@@ -1,0 +1,10 @@
+---
+label: Werk
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: hero
+  label: Hero
+  config:
+    maxSize: '5'
