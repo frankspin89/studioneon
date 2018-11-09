@@ -1,0 +1,15 @@
+{{ define "header" }} {{- partial "header-search.html" . -}}  {{ end }}
+{{ define "main" }}
+<section class="px-4  relative">
+  <div class="md:flex md:flex-row md:flex-wrap px-4 py-32 work-items">
+    {{range .Pages }}
+      {{- partial "werk-card.html" . -}}
+    {{ end }}
+  </div>
+  <svg x="0" y="0" viewBox="0 0 902 1080" preserveAspectRatio="none" class="logo">
+    <g>
+      <polyline class="logo-inner" points="0, 1080 0, 0 902, 1080 902, 0" />
+    </g>
+  </svg>
+</section>
+{{ end }}

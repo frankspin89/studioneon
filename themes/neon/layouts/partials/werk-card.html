@@ -1,6 +1,15 @@
 
 <a href="{{.RelPermalink}}" class="bg-grey md:w-1/2 lg:w-1/3 relative no-underline block portfolio-card">
-  <img src="/images/placeholder.jpg" alt="">
+  {{ with .Params.hero}}
+    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+    {{ with $imageResource }}
+      {{ $src1x := (.Fill "620x360 Center") }}
+      {{ $src2x := (.Fill "1240x720 Center") }}
+      <picture class="block w-full h-full">
+          <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full h-full" style="object-fit:cover;" />
+      </picture>
+    {{ end }}
+  {{ end }}
   <span class="bg-orange text-white p-8 w-full h-full flex absolute z-10 flex-col justify-between portfolio-card-text">
       {{ with .Params.klant }}
       <span class="uppercase text-sm block w-full">{{.}}</span>

@@ -66,10 +66,10 @@
       <div class="text-5xl">of kies</div>
     </div>
     <nav class="uppercase flex flex-col md:flex-row justify-center z-20">
-      <a class="text-white border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="#">VISUELE IDENTITEIT</a>
-      <a class="text-white border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="#">CAMPAGNE</a>
-      <a class="text-white border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="#">PRINT</a>
-      <a class="text-white border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="#">ONLINE</a>
-      <a class="text-white border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="#">RUIMTELIJK</a>
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+          {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+            <a class="text-white text-uppercase border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="{{ .Permalink }}">{{ $name }}</a>
+          {{ end }}
+        {{ end }}
     </nav>
   </div>

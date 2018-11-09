@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Studio Neon"
 theme = "neon"
+[taxonomies]
+   tag = "tags"
+   category = "categories"

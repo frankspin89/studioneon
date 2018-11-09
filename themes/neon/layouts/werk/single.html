@@ -2,7 +2,6 @@
 {{ define "main" }}
 <article class="overflow-hidden">
   <header class="w-screen h-screen mb-12">
-
     {{ with .Params.hero}}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
       {{ with $imageResource }}
@@ -13,9 +12,6 @@
         </picture>
       {{ end }}
     {{ end }}
-
-
-
   </header>
   <div class="container px-4 pt-12 md:pt-20">
     <div class="lg:px-20">
@@ -63,20 +59,26 @@
           {{ end }}
         {{ end }}
       </div>
+
       <div class="flex flex-row justify-between mb-12 text-2xl">
-        <a href="#" class="flex flex-col items-center">
-          <span class="block mb-4">atlas</span>
+        {{ with .NextInSection }}
+        <a href="{{.RelPermalink}}" class="flex flex-col items-center">
+          <span class="block mb-4">{{.Params.klant}}</span>
           <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.2 16.6">
             <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M8.9.4,1,8.4v.7L8.9,17l1.6-1.6L4.9,9.8H22.2V7.6H4.9l5.6-5.5Z" transform="translate(-1 -0.4)"/>
           </svg>
         </a>
-        <a href="#" class="flex flex-col items-center">
-          <span class="block mb-4">dokjard</span>
+        {{ end }}
+        {{ with .PrevInSection }}
+        <a href="{{.RelPermalink}}" class="flex flex-col items-center">
+          <span class="block mb-4">{{.Params.klant}}</span>
           <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.2 16.6">
             <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M14.3,17l7.9-7.9V8.4L14.3.4,12.7,2.1l5.6,5.5H1V9.8H18.3l-5.6,5.6Z" transform="translate(-1 -0.4)"/>
           </svg>
         </a>
+        {{ end }}
       </div>
+
     </div>
   </div>
 </article>
