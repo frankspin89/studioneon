@@ -1,5 +1,5 @@
 import styles from "../css/app.css";
-
+import search from './search';
 
 
 const menu = document.getElementById('menu');

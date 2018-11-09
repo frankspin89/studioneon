@@ -57,8 +57,9 @@
     </div>
     <div class="w-full flex justify-center mb-12 z-20">
       <div class="relative">
-      <input type="text" placeholder="typ je zoekterm" class="search-input border-b-2 border-white text-center text-white text-5xl pb-2"
-        style="background: transparent;">
+        <form action="{{ "search" | absURL }}">
+          <input id="search-query" name="s"/ placeholder="type je zoekterm" class="search-input border-b-2 border-white text-center text-white text-5xl pb-2" style="background: transparent; outline: 0;">
+        </form>
         <div class="blink">&nbsp;</div>
       </div>
     </div>
