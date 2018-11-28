@@ -5,6 +5,6 @@ hero = "/uploads/HERO_02_test.jpg"
 klant = "Johan Derksen"
 tags = []
 title = "Formaat test"
-werk = []
+werk = ["/uploads/WERK_01_test.jpg"]
 
 +++
