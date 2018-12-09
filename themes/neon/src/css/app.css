@@ -155,3 +155,9 @@ svg:not(:root) {
 .main-content a {
     text-decoration: underline !important;
 }
+
+mark {
+    background-color: inherit !important;
+    color: inherit !important;
+    display: inline;
+}

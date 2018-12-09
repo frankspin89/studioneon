@@ -3912,6 +3912,12 @@ svg:not(:root) {
   text-decoration: underline !important;
 }
 
+mark {
+  background-color: inherit !important;
+  color: inherit !important;
+  display: inline;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
