@@ -38,7 +38,13 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<p>No matches found</p>");
+
+      var $newDiv = $("<div/>")   // creates a div element
+      .attr("id", "someID")  // adds the id
+      .addClass("bg-orange pin-x absolute flex flex-col items-center text-center justify-center z-20 h-full w-full text-white pin-t text-white")   // add a class
+      .html("<div><h1>Geen resultaten</h1><p>Probeer een andere zoekterm</p>");
+
+      $('#search-results').append($newDiv);
     }
   });
 }

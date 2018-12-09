@@ -20,6 +20,7 @@ const contentBoxOpenIcon = document.getElementById('contentBox-open');
 const contentBoxCloseIcon = document.getElementById('contentBox-close');
 const contentBoxToggle = document.getElementById('contentBoxToggle');
 
+if(contentBoxToggle) {
 contentBoxToggle.addEventListener('click', function(e) {
   e.preventDefault();
   contentBox.classList.toggle('flex');
@@ -28,6 +29,7 @@ contentBoxToggle.addEventListener('click', function(e) {
 
   console.log('click')
 }, false)
+}
 
 
 
@@ -56,3 +58,19 @@ function onScroll() {
 window.onload = function(){
   document.addEventListener('scroll', onScroll, false);
 }
+
+
+
+const searchQuery = document.getElementById('search-query');
+const searchOptions = document.getElementById('search-options');
+
+
+
+searchQuery.addEventListener('input', function() {
+  console.log('focus');
+  searchOptions.classList.add('opacity-50');
+  if (searchQuery.value === ""){
+    searchOptions.classList.remove('opacity-50');
+  }
+}, false)
+
