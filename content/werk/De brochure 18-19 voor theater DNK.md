@@ -1,9 +1,8 @@
 +++
 date = "2018-12-06T13:52:46+00:00"
-draft = false
 hero = "/uploads/hero_dnk.jpg"
 klant = "DNK"
-tags = ["identiteit", "brochure"]
+tags = ["identiteit", "brochure", "je moeder"]
 title = "DNK"
 werk = ["/uploads/dnk_werk4.jpg", "/uploads/dnk_werk3.jpg", "/uploads/dnk_werk2.jpg", "/uploads/dnk_werk1.jpg"]
 
