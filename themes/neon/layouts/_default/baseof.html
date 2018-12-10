@@ -2,7 +2,7 @@
 <html>
     {{- partial "head.html" . -}}
     <body class='text-base leading-normal {{if eq .Params.background "orange"}}bg-orange text-white {{ else }}text-orange{{end}}'>
-        <div style="max-width: 1920px;" class="mx-auto">
+        <div style="max-width: 1920px;" class="mx-auto overflow-hidden">
         {{- block "header" . }}{{- partial "header.html" . -}} {{ end }}
         <div id="content">
         {{- block "main" . }}{{- end }}

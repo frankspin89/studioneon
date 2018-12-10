@@ -6,6 +6,10 @@ const menu = document.getElementById('menu');
 const menuOpen = document.getElementById('menu-open');
 const menuClose = document.getElementById('menu-close');
 
+const mobilemenu = document.getElementById('mobile-menu');
+const mobilemenuOpen = document.getElementById('mobile-menu-open');
+const mobilemenuClose = document.getElementById('mobile-menu-close');
+
 
 menuOpen.addEventListener('click', function() {
   menu.classList.add('flex');
@@ -13,6 +17,15 @@ menuOpen.addEventListener('click', function() {
 
 menuClose.addEventListener('click', function() {
   menu.classList.remove('flex');
+}, false)
+
+mobilemenuOpen.addEventListener('click', function() {
+  console.log('mobile')
+  mobilemenu.classList.add('flex');
+}, false)
+
+mobilemenuClose.addEventListener('click', function() {
+  mobilemenu.classList.remove('flex');
 }, false)
 
 const contentBox = document.getElementById('contentBox');
