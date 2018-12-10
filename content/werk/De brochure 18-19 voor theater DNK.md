@@ -2,7 +2,7 @@
 date = "2018-12-06T13:52:46+00:00"
 hero = "/uploads/hero_dnk.jpg"
 klant = "DNK"
-tags = ["identiteit", "brochure", "je moeder"]
+tags = ["identiteit", "brochure", "ruimtelijk"]
 title = "DNK"
 werk = ["/uploads/dnk_werk4.jpg", "/uploads/dnk_werk3.jpg", "/uploads/dnk_werk2.jpg", "/uploads/dnk_werk1.jpg"]
 
