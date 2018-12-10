@@ -1,7 +1,6 @@
 +++
 categories = ["Online", "Visuele Identiteit", "Campagne", "Print", "Ruimtelijk"]
 date = "2018-10-29T14:23:36+00:00"
-draft = true
 hero = "/uploads/werkhero.jpg"
 klant = "Atlas theater"
 tags = ["visuele identiteit", "brochure", "gerneflyers", "photobooth"]
