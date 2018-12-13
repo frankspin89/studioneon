@@ -43,7 +43,8 @@
     <div class=" px-4 xl:py-8">
       <div class="absolute pin-t pin-x" style=" text-align:right;">
         <div class="py-12  px-4 mx-auto" style="max-width: 1920px;" >
-          <button class="text-white text-xl h-4 w-4" id="menu-close">
+            <div class="md:mx-16">
+          <button class="text-white text-xl h-4 w-4" id="menu-close" style="margin-top: 2px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.799 19.799">
               <defs>
                 <style>
@@ -53,16 +54,17 @@
       </style>
               </defs>
               <g id="kruis" transform="translate(-1274.615 -60.368)">
-                <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" width="26" height="2" transform="translate(1276.029 60.368) rotate(45)" />
-                <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="26" height="2" transform="translate(1294.414 61.783) rotate(135)" />
+                <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" width="26" height="4" transform="translate(1276.029 60.368) rotate(45)" />
+                <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="26" height="4" transform="translate(1294.414 61.783) rotate(135)" />
               </g>
             </svg>
           </button>
         </div>
+        </div>
       </div>
       <div class="w-full flex justify-center mb-12 z-20">
         <div class="relative">
-        <input type="text" placeholder="typ je zoekterm" class="search-input border-b-2 border-white text-center text-white text-5xl pb-2"
+        <input type="text" placeholder="typ je zoekterm" class="search-input border-b-3 border-white text-center text-white text-5xl pb-2"
           style="background: transparent;" autofocus>
           <div class="blink">&nbsp;</div>
         </div>
@@ -72,9 +74,14 @@
       </div>
       <nav class="uppercase flex flex-col md:flex-row justify-center z-20">
           {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
-              <a class="text-white text-uppercase border-2 border-white py-2 px-6 mx-2 mb-4 text-center" href="{{ .Permalink }}">{{ $name }}</a>
-            {{ end }}
+          {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+            <!-- <a class="text-white text-uppercase border-2 border-white py-2 px-6 mx-2 mb-4 text-center" id="{{ $name }}" href="{{ .Permalink }}">{{ $name }}</a> -->
           {{ end }}
+        {{ end }}
+        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/visuele-identiteit/" | absURL }}">visuele identiteit</a>
+        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/campagne" | absURL }}">campagne</a>
+        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/print" | absURL }}">print</a>
+        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/online" | absURL }}">online</a>
+        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center" href="{{ "categories/ruimtelijk" | absURL }}">ruimtelijk</a>
       </nav>
     </div>

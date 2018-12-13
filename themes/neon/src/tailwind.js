@@ -318,6 +318,7 @@ module.exports = {
     default: '1px',
     '0': '0',
     '2': '2px',
+    '3': '3px',
     '4': '4px',
     '8': '8px',
   },
@@ -515,7 +516,7 @@ module.exports = {
   */
 
   maxWidth: {
-    'xs': '20rem',
+    'xs': '25rem',
     'sm': '30rem',
     'md': '40rem',
     'lg': '50rem',

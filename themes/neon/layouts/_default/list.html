@@ -1,6 +1,7 @@
 {{ define "header" }} {{- partial "header-search.html" . -}}  {{ end }}
 {{ define "main" }}
-<section class="px-4  relative">
+<div class="mx-auto" style="max-width: 1920px;">
+<section class="px-4  relative md:mx-16">
   <div class="md:flex md:flex-row md:flex-wrap px-4 py-32 work-items">
     {{range .Pages }}
       {{- partial "werk-card.html" . -}}
@@ -12,4 +13,5 @@
     </g>
   </svg>
 </section>
+</div>
 {{ end }}

@@ -20,8 +20,8 @@
           <svg id="contentBox-open" class="block absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8">
             <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
           </svg>
-          <svg class="hidden absolute" id="contentBox-close"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8">
-            <path style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(9.192 -1.556) rotate(45)"/>
+          <svg class="hidden absolute" id="contentBox-close"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8" style="transform: rotate(45deg);">
+            <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
           </svg>
         </div>
         <h1 class="text-2xl font-medium ">{{.Title}}</h1>
@@ -45,7 +45,7 @@
           </div>
         </div>
       </div>
-      <div class="mb-16">
+      <div class="mb-6">
       {{ with .Params.werk }}
         {{ range . }}
           {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
@@ -63,7 +63,7 @@
       <div class="flex flex-row justify-between mb-12 text-2xl">
         {{ with .NextInSection }}
         <a href="{{.RelPermalink}}" class="flex flex-col items-center">
-          <span class="block mb-4">{{.Params.klant}}</span>
+          <span class="block ">{{.Params.klant}}</span>
           <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.2 16.6">
             <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M8.9.4,1,8.4v.7L8.9,17l1.6-1.6L4.9,9.8H22.2V7.6H4.9l5.6-5.5Z" transform="translate(-1 -0.4)"/>
           </svg>
@@ -71,7 +71,7 @@
         {{ end }}
         {{ with .PrevInSection }}
         <a href="{{.RelPermalink}}" class="flex flex-col items-center">
-          <span class="block mb-4">{{.Params.klant}}</span>
+          <span class="block">{{.Params.klant}}</span>
           <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.2 16.6">
             <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M14.3,17l7.9-7.9V8.4L14.3.4,12.7,2.1l5.6,5.5H1V9.8H18.3l-5.6,5.6Z" transform="translate(-1 -0.4)"/>
           </svg>

@@ -1,16 +1,19 @@
 {{ define "main" }}
-<article class="container px-4 pt-6">
-  <div class="lg:px-20 mb-16">
-    <img src="/images/abouttemp.jpg" class="w-full" style="object-fit:cover;" alt="">
-  </div>
+<div class="lg:px-4 mb-16 mx-auto" style="max-width: 1920px; padding-left: 10%; padding-right: 10%;">
+  <img src="/images/abouttemp.jpg" class="w-full" style="object-fit:cover;" alt="">
+</div>
+<article class="px-4 pt-6">
+  <div class="container">
   <div class="w-3/4 mx-auto main-content text-xl md:text-2xl lg:text-3xl mb-16">
     {{.Content}}
   </div>
-  <div class="flex flex-row max-auto lg:px-20 mb-16">
+</div>
+<div class="mx-auto" style="max-width: 1920px; padding-left: 10%; padding-right: 10%;">
+  <div class="flex flex-row max-auto  mb-16">
     <img src="/images/ons1.jpg" alt="" class="w-1/2" style="object-fit:cover;">
     <img src="/images/ons1.jpg" alt="" class="w-1/2" style="object-fit:cover;">
   </div>
-  <div class="lg:flex lg:flex-row w-3/4 mx-auto  mb-16 lg:mb-8">
+  <div class="lg:flex lg:flex-row  mb-16 lg:mb-8">
     <div class="lg:w-1/2">
       <h2 class="text-xl md:text-2xl lg:text-3xl mb-4 font-medium leading-tight">Werkwijze</h2>
     </div>
@@ -19,7 +22,7 @@
       <p>Van begin tot het opleveren van het resultaat is het makkelijk en snel contact houden.</p>
     </div>
   </div>
-  <div class="lg:flex lg:flex-row w-3/4 mx-auto mb-8">
+  <div class="lg:flex lg:flex-row mx-auto mb-8">
     <div class="lg:w-1/2">
       <h2 class="text-xl md:text-2xl lg:text-3xl mb-4 font-medium lg:w-1/2 leading-tight">Studio Neon werkt onder andere voor</h2>
     </div>
@@ -27,9 +30,10 @@
       <p>Atlas Theater, TENT Rotterdam, <a href="#">Stimuleringsfonds Creative industrie</a>, Holland Dance Festival, Rijksakademie Amsterdam, Cultuurpakt Noord, Kunstweekend Charlois, <a href="#">Gemeente Groningen</a>, WarmteStad, Wold & Waard, Waterbedrijf Groningen, Provincie Groningen, <a href="#">Rijkswaterstaat</a>, Hein Braaksma Lambert Kamps, Noorderlicht, Noorderbreedte, WFFR, IABR</p>
     </div>
   </div>
-  <div class="lg:px-20 mb-16">
+  <div class="mb-16">
     <img src="/images/abouttemp2.jpg" class="w-full" style="object-fit:cover;" alt="">
   </div>
+</div>
 </article>
 
 {{ end }}
