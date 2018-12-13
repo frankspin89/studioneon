@@ -11,22 +11,30 @@ const mobilemenuOpen = document.getElementById('mobile-menu-open');
 const mobilemenuClose = document.getElementById('mobile-menu-close');
 
 
-menuOpen.addEventListener('click', function() {
-  menu.classList.add('flex');
-}, false)
+if(menuOpen) {
+  menuOpen.addEventListener('click', function() {
+    menu.classList.add('flex');
+  }, false)
+}
 
-menuClose.addEventListener('click', function() {
-  menu.classList.remove('flex');
-}, false)
+if(menuClose) {
+  menuClose.addEventListener('click', function() {
+    menu.classList.remove('flex');
+  }, false)
+}
 
-mobilemenuOpen.addEventListener('click', function() {
-  console.log('mobile')
-  mobilemenu.classList.add('flex');
-}, false)
+if(mobilemenuOpen) {
+  mobilemenuOpen.addEventListener('click', function() {
+    console.log('mobile')
+    mobilemenu.classList.add('flex');
+  }, false)
+}
 
-mobilemenuClose.addEventListener('click', function() {
-  mobilemenu.classList.remove('flex');
-}, false)
+if(mobilemenuClose) {
+  mobilemenuClose.addEventListener('click', function() {
+    mobilemenu.classList.remove('flex');
+  }, false)
+}
 
 const contentBox = document.getElementById('contentBox');
 const contentBoxOpenIcon = document.getElementById('contentBox-open');

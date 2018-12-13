@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section>
   <div class="mx-auto" style="max-width: 1920px;">
-    <section class="px-4  relative md:mx-16">
+    <section class="px-4 -mx-4 md:mx-0  relative md:mx-16">
       <div class="md:flex md:flex-row md:flex-wrap px-4 py-16 md:py-32 work-items" id="search-results">
       </div>
       <svg x="0" y="0" viewBox="0 0 902 1080" preserveAspectRatio="none" class="logo">
@@ -18,9 +18,9 @@
     <picture class="block w-full h-full">
         <img src="${hero}" class="block w-full h-full" style="object-fit:cover;" />
     </picture>
-    <span class="bg-orange text-white p-8 w-full h-full flex absolute z-10 flex-col justify-between portfolio-card-text">
+    <span class="bg-orange text-white p-4 md:p-8 w-full h-full flex absolute z-10 flex-col justify-between portfolio-card-text">
       <span class="uppercase text-sm block w-full">${klant}</span>
-      <span class="text-3xl xl:text-5xl leading-none">${title}</span>
+      <span class="text-2xl md:text-3xl xl:text-5xl leading-none">${title}</span>
   </span>
   </a>
 
