@@ -3842,9 +3842,15 @@ img {
 .logo-inner {
   fill: none;
   stroke: #ff3901;
-  stroke-width: 14.435;
+  stroke-width: 8.435;
   stroke-linejoin: bevel;
   vector-effect: non-scaling-stroke;
+}
+
+@media (min-width: 768px) {
+  .logo-inner {
+    stroke-width: 14.435;
+  }
 }
 
 svg:not(:root) {
@@ -3959,6 +3965,31 @@ mark {
 .search-input:-ms-input-placeholder {
   /* Internet Explorer 10-11 */
   color: #fff !important;
+}
+
+.site-wrapper {
+  padding-left: 0;
+  padding-right: 0;
+  max-width: 1920px;
+}
+
+@media (min-width: 768px) {
+  .site-wrapper {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+  }
+}
+
+.search-input {
+  max-width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  .search-input {
+    max-width: 100%;
+  }
 }
 
 @media (min-width: 576px) {

@@ -13,7 +13,7 @@
       {{ end }}
     {{ end }}
   </header>
-  <div class="container px-4 pt-12 md:pt-20">
+  <div class="container px-4 md:pt-12 md:pt-20">
     <div class="lg:px-20">
       <div id="contentBoxToggle" class="flex items-baseline mb-4 cursor-pointer">
         <div class="w-4 h-4 mr-6 mb-1 relative">
@@ -24,7 +24,7 @@
             <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
           </svg>
         </div>
-        <h1 class="text-2xl font-medium ">{{.Title}}</h1>
+        <h1 class="text-xl md:text-2xl font-medium ">{{.Title}}</h1>
       </div>
       <div id="contentBox" class="hidden md:flex-row mx-auto md:-mx-12 mb-8 flex-col ">
         <div class="md:w-3/5 md:px-12 main-content">
@@ -60,7 +60,7 @@
         {{ end }}
       </div>
 
-      <div class="flex flex-row justify-between mb-12 text-2xl">
+      <div class="md:flex md:flex-row justify-between mb-6 md:mb-12 text-xl md:text-2xl">
         {{ with .NextInSection }}
         <a href="{{.RelPermalink}}" class="flex flex-col items-center">
           <span class="block ">{{.Params.klant}}</span>
