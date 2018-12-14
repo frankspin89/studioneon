@@ -658,9 +658,9 @@ a {
   }
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 1370px) {
   .container {
-    max-width: 1300px;
+    max-width: 1370px;
   }
 }
 
@@ -13321,7 +13321,7 @@ mark {
   }
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 1370px) {
   .xl\:list-reset {
     list-style: none;
     padding: 0;
