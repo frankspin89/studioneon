@@ -60,16 +60,16 @@
       </div>
       </div>
     </div>
-    <div class="md:w-full md:flex md:justify-center items-center mb-6 md:mb-12 z-20">
+    <div class="md:w-full md:flex md:justify-center items-center mb-8 xl:mb-12 z-20">
       <div class="relative">
         <form action="{{ "search" | absURL }}" autocomplete="off" class="flex justify-center items-center" >
-          <input id="search-query" name="s"/ placeholder="Typ jouw zoekterm" class="search-input border-b-3 border-white text-center text-white text-2xl md:text-5xl pb-2" style="background: transparent; outline: 0;" autofocus>
+          <input id="search-query" name="s"/ placeholder="typ je zoekterm" class="search-input border-b-4 border-white text-center text-white text-2xl md:text-5xl pb-3" style="background: transparent; outline: 0;">
         </form>
 
       </div>
     </div>
     <div id="search-options">
-    <div class="w-full flex justify-center mb-6 md:mb-12 z-20">
+    <div class="w-full flex justify-center mb-10 xl:mb-12 z-20">
       <div class="text-3xl md:text-5xl">of kies</div>
     </div>
     <nav class="uppercase flex flex-col md:flex-row justify-center items-center z-20">
@@ -78,11 +78,11 @@
             <!-- <a class="text-white text-uppercase border-2 border-white py-2 px-6 mx-2 mb-4 text-center" id="{{ $name }}" href="{{ .Permalink }}">{{ $name }}</a> -->
           {{ end }}
         {{ end }}
-        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/visuele-identiteit/" | absURL }}">visuele identiteit</a>
-        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/campagne" | absURL }}">campagne</a>
-        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/print" | absURL }}">print</a>
-        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center"  href="{{ "categories/online" | absURL }}">online</a>
-        <a class="text-white text-uppercase border-3 border-white py-2 px-6 mx-2 mb-4 text-center" href="{{ "categories/ruimtelijk" | absURL }}">ruimtelijk</a>
+        <a class="text-white text-uppercase border-4 border-white py-2 px-4 mx-2 mb-4 text-center"  href="{{ "categories/visuele-identiteit/" | absURL }}">visuele identiteit</a>
+        <a class="text-white text-uppercase border-4 border-white py-2 px-4 mx-2 mb-4 text-center"  href="{{ "categories/campagne" | absURL }}">campagne</a>
+        <a class="text-white text-uppercase border-4 border-white py-2 px-4 mx-2 mb-4 text-center"  href="{{ "categories/print" | absURL }}">print</a>
+        <a class="text-white text-uppercase border-4 border-white py-2 px-4 mx-2 mb-4 text-center"  href="{{ "categories/online" | absURL }}">online</a>
+        <a class="text-white text-uppercase border-4 border-white py-2 px-4 mx-2 mb-4 text-center" href="{{ "categories/ruimtelijk" | absURL }}">ruimtelijk</a>
     </nav>
   </div>
 

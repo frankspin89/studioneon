@@ -1086,6 +1086,10 @@ a {
   border-width: 4px;
 }
 
+.border-6 {
+  border-width: 6px;
+}
+
 .border-8 {
   border-width: 8px;
 }
@@ -1156,6 +1160,22 @@ a {
 
 .border-l-4 {
   border-left-width: 4px;
+}
+
+.border-t-6 {
+  border-top-width: 6px;
+}
+
+.border-r-6 {
+  border-right-width: 6px;
+}
+
+.border-b-6 {
+  border-bottom-width: 6px;
+}
+
+.border-l-6 {
+  border-left-width: 6px;
 }
 
 .border-t-8 {
@@ -3439,7 +3459,7 @@ a {
 }
 
 .text-5xl {
-  font-size: 2.7rem;
+  font-size: 3.2rem;
 }
 
 .italic {
@@ -4414,6 +4434,10 @@ mark {
     border-width: 4px;
   }
 
+  .sm\:border-6 {
+    border-width: 6px;
+  }
+
   .sm\:border-8 {
     border-width: 8px;
   }
@@ -4484,6 +4508,22 @@ mark {
 
   .sm\:border-l-4 {
     border-left-width: 4px;
+  }
+
+  .sm\:border-t-6 {
+    border-top-width: 6px;
+  }
+
+  .sm\:border-r-6 {
+    border-right-width: 6px;
+  }
+
+  .sm\:border-b-6 {
+    border-bottom-width: 6px;
+  }
+
+  .sm\:border-l-6 {
+    border-left-width: 6px;
   }
 
   .sm\:border-t-8 {
@@ -6751,7 +6791,7 @@ mark {
   }
 
   .sm\:text-5xl {
-    font-size: 2.7rem;
+    font-size: 3.2rem;
   }
 
   .sm\:italic {
@@ -7513,6 +7553,10 @@ mark {
     border-width: 4px;
   }
 
+  .md\:border-6 {
+    border-width: 6px;
+  }
+
   .md\:border-8 {
     border-width: 8px;
   }
@@ -7583,6 +7627,22 @@ mark {
 
   .md\:border-l-4 {
     border-left-width: 4px;
+  }
+
+  .md\:border-t-6 {
+    border-top-width: 6px;
+  }
+
+  .md\:border-r-6 {
+    border-right-width: 6px;
+  }
+
+  .md\:border-b-6 {
+    border-bottom-width: 6px;
+  }
+
+  .md\:border-l-6 {
+    border-left-width: 6px;
   }
 
   .md\:border-t-8 {
@@ -9850,7 +9910,7 @@ mark {
   }
 
   .md\:text-5xl {
-    font-size: 2.7rem;
+    font-size: 3.2rem;
   }
 
   .md\:italic {
@@ -10612,6 +10672,10 @@ mark {
     border-width: 4px;
   }
 
+  .lg\:border-6 {
+    border-width: 6px;
+  }
+
   .lg\:border-8 {
     border-width: 8px;
   }
@@ -10682,6 +10746,22 @@ mark {
 
   .lg\:border-l-4 {
     border-left-width: 4px;
+  }
+
+  .lg\:border-t-6 {
+    border-top-width: 6px;
+  }
+
+  .lg\:border-r-6 {
+    border-right-width: 6px;
+  }
+
+  .lg\:border-b-6 {
+    border-bottom-width: 6px;
+  }
+
+  .lg\:border-l-6 {
+    border-left-width: 6px;
   }
 
   .lg\:border-t-8 {
@@ -12949,7 +13029,7 @@ mark {
   }
 
   .lg\:text-5xl {
-    font-size: 2.7rem;
+    font-size: 3.2rem;
   }
 
   .lg\:italic {
@@ -13711,6 +13791,10 @@ mark {
     border-width: 4px;
   }
 
+  .xl\:border-6 {
+    border-width: 6px;
+  }
+
   .xl\:border-8 {
     border-width: 8px;
   }
@@ -13781,6 +13865,22 @@ mark {
 
   .xl\:border-l-4 {
     border-left-width: 4px;
+  }
+
+  .xl\:border-t-6 {
+    border-top-width: 6px;
+  }
+
+  .xl\:border-r-6 {
+    border-right-width: 6px;
+  }
+
+  .xl\:border-b-6 {
+    border-bottom-width: 6px;
+  }
+
+  .xl\:border-l-6 {
+    border-left-width: 6px;
   }
 
   .xl\:border-t-8 {
@@ -16048,7 +16148,7 @@ mark {
   }
 
   .xl\:text-5xl {
-    font-size: 2.7rem;
+    font-size: 3.2rem;
   }
 
   .xl\:italic {
