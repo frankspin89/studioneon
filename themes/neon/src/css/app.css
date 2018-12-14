@@ -69,6 +69,39 @@ a {
  * @import "utilities/skew-transforms";
  */
 
+ @font-face {
+    font-family: 'Moderat';
+    src: url('../fonts/Moderat-Regular.woff2') format('woff2'),
+        url('../fonts/Moderat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Moderat';
+    src: url('../fonts/Moderat-Regular.woff2') format('woff2'),
+        url('../fonts/Moderat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Moderat-Bold';
+    src: url('../fonts/Moderat-Bold.woff2') format('woff2'),
+        url('../fonts/Moderat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Moderat-Bold';
+    src: url('../fonts/Moderat-Bold.woff2') format('woff2'),
+        url('../fonts/Moderat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
  img {
   max-width: 100%;
   vertical-align: top;

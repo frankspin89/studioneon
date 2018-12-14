@@ -1409,7 +1409,11 @@ a {
 }
 
 .font-sans {
-  font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Moderat, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.font-display {
+  font-family: Moderat-Bold, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 .font-serif {
@@ -3435,7 +3439,7 @@ a {
 }
 
 .text-5xl {
-  font-size: 3rem;
+  font-size: 2.7rem;
 }
 
 .italic {
@@ -3820,6 +3824,34 @@ a {
  * @import "utilities/background-patterns";
  * @import "utilities/skew-transforms";
  */
+
+@font-face {
+  font-family: 'Moderat';
+  src: url(fonts/Moderat-Regular.woff2) format('woff2'), url(fonts/Moderat-Regular.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Moderat';
+  src: url(fonts/Moderat-Regular.woff2) format('woff2'), url(fonts/Moderat-Regular.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Moderat-Bold';
+  src: url(fonts/Moderat-Bold.woff2) format('woff2'), url(fonts/Moderat-Bold.woff) format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Moderat-Bold';
+  src: url(fonts/Moderat-Bold.woff2) format('woff2'), url(fonts/Moderat-Bold.woff) format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
 
 img {
   max-width: 100%;
@@ -4705,7 +4737,11 @@ mark {
   }
 
   .sm\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Moderat, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  }
+
+  .sm\:font-display {
+    font-family: Moderat-Bold, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .sm\:font-serif {
@@ -6715,7 +6751,7 @@ mark {
   }
 
   .sm\:text-5xl {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 
   .sm\:italic {
@@ -7800,7 +7836,11 @@ mark {
   }
 
   .md\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Moderat, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  }
+
+  .md\:font-display {
+    font-family: Moderat-Bold, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .md\:font-serif {
@@ -9810,7 +9850,7 @@ mark {
   }
 
   .md\:text-5xl {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 
   .md\:italic {
@@ -10895,7 +10935,11 @@ mark {
   }
 
   .lg\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Moderat, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  }
+
+  .lg\:font-display {
+    font-family: Moderat-Bold, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .lg\:font-serif {
@@ -12905,7 +12949,7 @@ mark {
   }
 
   .lg\:text-5xl {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 
   .lg\:italic {
@@ -13990,7 +14034,11 @@ mark {
   }
 
   .xl\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Moderat, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  }
+
+  .xl\:font-display {
+    font-family: Moderat-Bold, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .xl\:font-serif {
@@ -16000,7 +16048,7 @@ mark {
   }
 
   .xl\:text-5xl {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 
   .xl\:italic {

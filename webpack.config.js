@@ -20,15 +20,26 @@ module.exports = {
           options: {
             // you can specify a publicPath here
             // by default it use publicPath in webpackOptions.output
-            
+
           },
         },
         "css-loader",
         'postcss-loader'
       ]
-    }]
+    },
+    {
+      test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+      use: [{
+          loader: 'file-loader',
+          options: {
+              name: '[name].[ext]',
+              outputPath: 'fonts/'
+          }
+      }]
+  }
+  ]
   },
-  
+
 	output: {
 		path: path.join(__dirname, "./themes/neon/static/dist"),
 		filename: '[name].bundle.js',

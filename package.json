@@ -23,5 +23,8 @@
     "tailwindcss": "^0.6.6",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "file-loader": "^2.0.0"
   }
 }
