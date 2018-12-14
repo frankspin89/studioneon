@@ -113,11 +113,11 @@
       </div>
     </div>
     <div>
-      <nav class="uppercase flex flex-col md:flex-row justify-center z-20">
+      <nav class="flex flex-col md:flex-row justify-center z-20">
         {{- $firstUrlElement := print "/" (index (split .URL "/") 1) "/" -}}
       {{- $background := .Params.background }}
       {{- range .Site.Menus.main -}}
-      <a class='md:ml-8  text-3xl mb-4 text-center'
+      <a class='md:ml-8  text-5xl leading-none mb-4 text-center'
         href="{{ .URL }}" title="{{ .Name }} page">
         {{ .Name | lower }}
       </a>
