@@ -5,7 +5,7 @@
     <div class="text-xl md:text-2xl lg:text-4xl xl:text-5xl leading-tight xl:pl-6">{{.Content}}</div>
   </div>
 </section>
-<section class="-mx-4 md:mx-0 px-4 md:mx-4 xl:mx-6  relative">
+<section class="-mx-4 md:mx-0 px-4 md:mx-6 xl:mx-6  relative">
   <div class="md:flex md:flex-row md:flex-wrap px-4 py-16 md:py-32 work-items">
     {{range first 999 (where (where .Site.Pages "Kind" "page") "Type" "werk") }}
       {{- partial "werk-card.html" . -}}

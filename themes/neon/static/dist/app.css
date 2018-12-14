@@ -2139,7 +2139,7 @@ a {
 }
 
 .max-w-xs {
-  max-width: 25rem;
+  max-width: 20rem;
 }
 
 .max-w-sm {
@@ -5467,7 +5467,7 @@ mark {
   }
 
   .sm\:max-w-xs {
-    max-width: 25rem;
+    max-width: 20rem;
   }
 
   .sm\:max-w-sm {
@@ -8566,7 +8566,7 @@ mark {
   }
 
   .md\:max-w-xs {
-    max-width: 25rem;
+    max-width: 20rem;
   }
 
   .md\:max-w-sm {
@@ -11665,7 +11665,7 @@ mark {
   }
 
   .lg\:max-w-xs {
-    max-width: 25rem;
+    max-width: 20rem;
   }
 
   .lg\:max-w-sm {
@@ -14764,7 +14764,7 @@ mark {
   }
 
   .xl\:max-w-xs {
-    max-width: 25rem;
+    max-width: 20rem;
   }
 
   .xl\:max-w-sm {
