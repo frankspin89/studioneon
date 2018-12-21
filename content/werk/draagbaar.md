@@ -5,7 +5,7 @@ hero = "/uploads/DraagbaarHero_Ind.jpg"
 klant = "Draagbaar"
 tags = ["website"]
 title = "Draagbaar"
-werk = ["/uploads/DraagbaarHome_Ind.jpg", "/uploads/Draagbaar_prijzen.jpg"]
+werk = ["/uploads/Draagbaar_knippen.jpg", "/uploads/DraagbaarTelefoon3.jpg", "/uploads/DraagbaarTelefoon2.jpg", "/uploads/Draagbaar_smalfoto2.jpg", "/uploads/DraagbaarTelefoon4.jpg", "/uploads/Draagbaar_smalfoto3.jpg", "/uploads/Draagbaar_smalfoto.jpg", "/uploads/Draagbaar_Over.jpg", "/uploads/DraagbaarHome_Ind.jpg"]
 
 +++
 Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek. Wat u hier leest is een voorbeeldtekst. Deze wordt later vervangen door de uiteindelijke tekst, die nu nog niet bekend is.
