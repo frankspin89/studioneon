@@ -5,7 +5,7 @@ hero = "/uploads/werk2.jpg"
 klant = "Test klant"
 tags = ["test"]
 title = "Dit is een test"
-werk = ["/uploads/WERK - header - dokjard.jpg"]
+werk = ["/uploads/test-1.jpg", "/uploads/WERK - header - dokjard.jpg"]
 
 +++
 Dit is een test
