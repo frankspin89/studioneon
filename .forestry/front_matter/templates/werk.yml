@@ -27,11 +27,11 @@ fields:
   description: Upload afbeeldingen in het formaat 2200x1400. Afbeeldingen worden ook
     automatisch verkleint naar 1100x700.
 pages:
-- content/werk/Hoe-geef-je-smoel-aan-scheepsbouw.md
 - content/werk/Dit is Dokjard.md
 - content/werk/cultuur-verbindt.md
 - content/werk/28dining.md
 - content/werk/juridisch-ingewikkeld.md
+- content/werk/Hoe-geef-je-smoel-aan-scheepsbouw.md
 - content/werk/formaat-test.md
 - content/werk/dit-is-een-test.md
 - content/werk/draagbaar.md
