@@ -1,6 +1,6 @@
 +++
 date = "2019-01-02T14:04:38+00:00"
-hero = "/uploads/HERO_ICO.jpg"
+hero = "/uploads/HERO_ICO-1.jpg"
 klant = "ICO"
 tags = ["drukwerk"]
 title = "Centrum voor de kunsten"
