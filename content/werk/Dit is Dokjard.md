@@ -1,6 +1,6 @@
 +++
 date = "2018-12-06T14:04:52+00:00"
-hero = "/uploads/hero_dokjard.jpg"
+hero = "/uploads/hero_dokjard-1.jpg"
 klant = "Dokjard"
 tags = ["identiteit", "logo", "drukwerk", "online"]
 title = "Dokjard"
