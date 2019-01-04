@@ -1,6 +1,5 @@
 +++
 date = "2019-01-02T10:44:31+00:00"
-draft = true
 hero = "/uploads/HERO_050legal.jpg"
 klant = "050legal"
 tags = ["identiteit", "strategie", "online", "print"]
