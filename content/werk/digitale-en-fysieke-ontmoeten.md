@@ -1,6 +1,5 @@
 +++
 date = "2019-01-04T15:06:30+00:00"
-draft = true
 hero = "/uploads/HERO_DAF.jpg"
 klant = "DAF"
 tags = ["visuele identiteit", "print", "online"]
