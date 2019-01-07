@@ -25,3 +25,5 @@ fields:
   - type: file
     name: afbeelding
     label: Afbeelding
+pages:
+- content/contact.md
