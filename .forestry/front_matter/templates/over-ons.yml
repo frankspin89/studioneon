@@ -3,6 +3,9 @@ label: Over ons
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
 - type: file
   name: hero
   label: Hero
@@ -22,3 +25,18 @@ fields:
 - type: file
   name: image_bottom
   label: Image bottom
+- type: text
+  name: type
+  label: type
+  hidden: true
+  default: page
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: overons
+- type: text
+  name: background
+  label: background
+  hidden: true
+  default: orange
