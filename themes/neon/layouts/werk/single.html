@@ -1,7 +1,7 @@
 {{ define "header" }} {{- partial "header-werk.html" . -}}  {{ end }}
 {{ define "main" }}
 <article class="overflow-hidden">
-  <header class="w-screen h-screen mb-12">
+  <header class="w-screen h-64 md:h-screen mb-12">
     {{ with .Params.hero}}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
       {{ with $imageResource }}
