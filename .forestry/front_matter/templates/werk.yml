@@ -30,6 +30,10 @@ fields:
   name: work
   label: Work
   fields:
+  - type: text
+    name: name
+    label: Name
+    description: "(voor eigen administratie)"
   - type: field_group
     name: single
     label: Single
