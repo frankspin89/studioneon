@@ -26,6 +26,26 @@ fields:
   label: Werk
   description: Upload afbeeldingen in het formaat 2200x1400. Afbeeldingen worden ook
     automatisch verkleint naar 1100x700.
+- type: field_group_list
+  name: work
+  label: Work
+  fields:
+  - type: field_group
+    name: single
+    label: Single
+    fields:
+    - type: file
+      name: image
+      label: Image
+    description: "(Eén liggend beeld)"
+  - type: field_group
+    name: double
+    label: Double
+    fields:
+    - type: image_gallery
+      name: image
+      label: Image
+    description: "(Twee staande beelden naast elkaar)"
 pages:
 - content/werk/cultuur-verbindt.md
 - content/werk/28dining.md
