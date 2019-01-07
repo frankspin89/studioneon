@@ -42,3 +42,4 @@ fields:
   default: orange
 pages:
 - content/_index.md
+- content/overons.md
