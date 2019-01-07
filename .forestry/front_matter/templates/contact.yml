@@ -1,0 +1,27 @@
+---
+label: Contact
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  name: contact_informatie
+  label: Contact informatie
+- type: textarea
+  name: adres_1
+  label: Adres 1
+- type: textarea
+  name: adres_2
+  label: Adres 2
+- type: field_group_list
+  name: adres_kaarten
+  label: Adres kaarten
+  fields:
+  - type: text
+    name: naam
+    label: Naam
+  - type: text
+    name: google_maps_link
+    label: Google maps link
+  - type: file
+    name: afbeelding
+    label: Afbeelding
