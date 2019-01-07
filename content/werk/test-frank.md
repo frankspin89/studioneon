@@ -7,6 +7,8 @@ tags = []
 title = "Test (frank)"
 werk = []
 [[work]]
+name = "Liggend beeld intro"
 [[work]]
+name = "Twee staande posters"
 
 +++
