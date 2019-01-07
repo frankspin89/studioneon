@@ -3,6 +3,9 @@ label: Contact
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
 - type: textarea
   name: contact_informatie
   label: Contact informatie
@@ -25,5 +28,15 @@ fields:
   - type: file
     name: afbeelding
     label: Afbeelding
+- type: text
+  name: type
+  label: type
+  hidden: true
+  default: page
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: contact
 pages:
 - content/contact.md
