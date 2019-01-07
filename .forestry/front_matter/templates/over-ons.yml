@@ -1,0 +1,24 @@
+---
+label: Over ons
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: hero
+  label: Hero
+- type: image_gallery
+  name: images_top
+  label: Images top
+- type: field_group_list
+  name: content_blokken
+  label: Content blokken
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: content
+    label: Content
+- type: file
+  name: image_bottom
+  label: Image bottom
