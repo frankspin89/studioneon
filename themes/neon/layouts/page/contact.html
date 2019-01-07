@@ -6,28 +6,39 @@
     </div>
     <div class="text-xl md:text-2xl lg:text-4xl leading-tight px-4 md:0 md:w-2/5 md:px-12 md:flex md:flex-row md:justify-end">
       <div>
-        <p class="mb-8">085 1301423<br>info@studioneon.nl</p>
-        <a href="https://www.google.nl/maps/place/Akkerstraat+95,+9717+KZ+Groningen/data=!4m2!3m1!1s0x47c9cd43e3e59385:0xfb40d8b8d98dca01?ved=2ahUKEwjbpPrpzJPfAhUFblAKHVDyAWsQ8gEwAHoECAAQAQ" target="_blank" class="block mb-8">Akkerstraat 95<br>9717 KZ Groningen</a>
-        <a href="https://www.google.nl/maps/place/Esdoornstraat+3,+8021+WB+Zwolle/@52.5206959,6.0916264,17z/data=!3m1!4b1!4m5!3m4!1s0x47c7df3722b114ff:0x94d2dcff2f7bf0ea!8m2!3d52.5206959!4d6.0938151" target="_blank" class="block">Esdoornstraat 3<br>8019 XN Zwolle</a>
-      </div>
+        {{ with .Params.contact_informatie }}
+          {{ . | markdownify }}
+        {{ end }}
+        {{ with .Params.adres_1 }}
+          {{ . | markdownify }}
+        {{ end }}
+        {{ with .Params.adres_2 }}
+          {{ . | markdownify }}
+        {{ end }}
+        </div>
     </div>
   </div>
   <div class="md:flex md:flex-row max-auto mb-16">
-    <a class="block portfolio-card w-full h-full md:w-1/2 relative overflow-hidden" href="https://www.google.nl/maps/place/Akkerstraat+95,+9717+KZ+Groningen/data=!4m2!3m1!1s0x47c9cd43e3e59385:0xfb40d8b8d98dca01?ved=2ahUKEwjbpPrpzJPfAhUFblAKHVDyAWsQ8gEwAHoECAAQAQ" target="_blank">
-      <img src="/images/ons1.jpg" alt="" class="w-full"  style="object-fit:cover;">
+
+    {{ range .Params.adres_kaarten }}
+
+    <a class="block portfolio-card w-full h-full md:w-1/2 relative overflow-hidden" href="{{ .google_maps_link }}" target="_blank">
+      {{  with .afbeelding }}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+            {{ with $imageResource }}
+              {{ $src1x := (.Fill "550x700 Center") }}
+              {{ $src2x := (.Fill "1100x1400 Center") }}
+              <picture class="block w-full h-full mb-2">
+                  <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
+              </picture>
+            {{ end }}
+            {{  end  }}
       <span class="bg-orange text-white p-8 w-full h-full flex absolute z-10 flex-col justify-between portfolio-card-text">
           <span class="uppercase">Google Maps</span>
-          <span class="text-5xl">Groningen</span>
+          <span class="text-5xl">{{ .naam }}</span>
       </span>
     </a>
-    <a class="block portfolio-card w-full h-full md:w-1/2 relative overflow-hidden" href="https://www.google.nl/maps/place/Akkerstraat+95,+9717+KZ+Groningen/data=!4m2!3m1!1s0x47c9cd43e3e59385:0xfb40d8b8d98dca01?ved=2ahUKEwjbpPrpzJPfAhUFblAKHVDyAWsQ8gEwAHoECAAQAQ" target="_blank">
-      <img src="/images/ons1.jpg" alt="" class="w-full"  style="object-fit:cover;">
-      <span class="bg-orange text-white p-8 w-full h-full flex absolute z-10 flex-col justify-between portfolio-card-text">
-        <span class="uppercase">Google Maps</span>
-        <span class="text-5xl">Zwolle</span>
-      </span>
-    </a>
-
+    {{  end  }}
   </div>
 </article>
 
