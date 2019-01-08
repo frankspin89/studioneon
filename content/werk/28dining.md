@@ -2,9 +2,8 @@
 date = "2019-01-02T10:20:03+00:00"
 hero = "/uploads/HERO_28dining-1.jpg"
 klant = "28dining"
-tags = ["identiteit", "drukwerk"]
+tags = ["print", "online"]
 title = "28dining"
-
 [[work]]
 [[work]]
 name = "WER_28dining_badjas.jpg"
@@ -44,3 +43,6 @@ name = "WERK_28dining_cadeaubon.jpg"
 image = "/uploads/WERK_28dining_cadeaubon.jpg"
 
 +++
+Voor 28dining, het restaurant van Hotel van der Valk, zijn diverse uitingen gemaakt. Langzaamaan worden ook de uitingen van het hotel omgeturnd. 
+
+Van menukaarten tot sokken. 
