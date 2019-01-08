@@ -37,6 +37,10 @@ image = "/uploads/websiteDraagbaar8.jpg"
 name = "telefoon"
 [work.double]
 image = ["/uploads/websiteDraagbaar10.jpg", "/uploads/websiteDraagbaar9.jpg"]
+[[work]]
+name = "foto bruin"
+[work.single]
+image = "/uploads/websiteDraagbaar11.jpg"
 
 +++
 Website voor Draagbaar.
