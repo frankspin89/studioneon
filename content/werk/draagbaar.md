@@ -1,5 +1,6 @@
 +++
 date = "2018-12-21T09:32:06+00:00"
+draft = true
 hero = "/uploads/websiteDraagbaar.jpg"
 klant = "Draagbaar"
 tags = ["website"]
@@ -24,6 +25,18 @@ image = "/uploads/websiteDraagbaar5.jpg"
 name = "Over draagbaar"
 [work.single]
 image = "/uploads/websiteDraagbaar6.jpg"
+[[work]]
+name = "prijzen"
+[work.single]
+image = "/uploads/websiteDraagbaar7.jpg"
+[[work]]
+name = "foto donker"
+[work.single]
+image = "/uploads/websiteDraagbaar8.jpg"
+[[work]]
+name = "telefoon"
+[work.double]
+image = ["/uploads/websiteDraagbaar10.jpg", "/uploads/websiteDraagbaar9.jpg"]
 
 +++
 Website voor Draagbaar.
