@@ -15,7 +15,7 @@ image = "/uploads/spacewinner3.jpg"
 [[work]]
 name = "Iconen"
 [work.double]
-image = ["/uploads/spacewinner4.jpg", "/uploads/spacewinner5.jpg"]
+image = ["/uploads/spacewinner4-1.jpg", "/uploads/spacewinner5.jpg"]
 [[work]]
 name = "pasje"
 [work.double]
