@@ -18,23 +18,17 @@ name = "WERK_liggend_050legal_visitekaartjes bult"
 [work.single]
 image = "/uploads/WERK_liggend_050legal_visitekaartjes bult.jpg"
 [[work]]
-name = "WERK_staand_050legal_quote-1"
+name = "Quote 1 + 2"
+[work.double]
+image = ["/uploads/WERK_staand_050legal_quote-1.jpg", "/uploads/WERK_staand_050legal_quote2-1.jpg"]
 [work.single]
 image = "/uploads/WERK_staand_050legal_quote-1.jpg"
 [[work]]
-name = "WERK_staand_050legal_quote2-1"
-[work.single]
-image = "/uploads/WERK_staand_050legal_quote2-1.jpg"
-[[work]]
-name = "WERK_staand_050legal_insta_1"
+name = "Insta 1 + 2"
+[work.double]
+image = ["/uploads/WERK_staand_050legal_insta_1.jpg", "/uploads/WERK_staand_050legal_insta_2.jpg"]
 [work.single]
 image = "/uploads/WERK_staand_050legal_insta_1.jpg"
-[[work]]
-name = "WERK_staand_050legal_insta_2"
-[work.single]
-image = "/uploads/WERK_staand_050legal_insta_2.jpg"
 
 +++
 Logo is een gif
-
-De quote's moeten naast elkaar. Tevens de insta-afbeeldingen
