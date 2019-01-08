@@ -5,6 +5,9 @@ klant = "ATLAS Theater"
 tags = ["visuele identiteit"]
 title = "ATLAS Theater"
 werk = []
-work = []
+[[work]]
+name = "Sfeerbeeld dansstudio"
+[work.single]
+image = "/uploads/test-2.jpg"
 
 +++
