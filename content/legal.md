@@ -1,5 +1,6 @@
 ---
-title: Legal
+title: Voorwaarden
+slug: voorwaarden
 layout: legal
 type: page
 ---

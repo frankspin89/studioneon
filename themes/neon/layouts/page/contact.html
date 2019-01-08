@@ -28,8 +28,8 @@
             {{ with $imageResource }}
               {{ $src1x := (.Fill "550x700 Center") }}
               {{ $src2x := (.Fill "1100x1400 Center") }}
-              <picture class="block w-full h-full mb-2">
-                  <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
+              <picture class="block w-full min-h-full">
+                  <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block min-h-full w-full" style="object-fit:cover;" />
               </picture>
             {{ end }}
             {{  end  }}
