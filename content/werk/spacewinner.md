@@ -17,17 +17,17 @@ name = "pasje"
 [work.double]
 image = ["/uploads/spacewinner7.jpg", "/uploads/spacewinner6.jpg"]
 [[work]]
-name = "Iconen"
-[work.double]
-image = ["/uploads/spacewinner4-1.jpg", "/uploads/spacewinner5.jpg"]
-[[work]]
 name = "praatwolk"
 [work.single]
 image = "/uploads/spacewinner2.jpg"
 [[work]]
+name = "Iconen"
+[work.double]
+image = ["/uploads/spacewinner4-1.jpg", "/uploads/spacewinner5.jpg"]
+[[work]]
 name = "deur"
 [work.double]
-image = ["/uploads/spacewinner9.jpg", "/uploads/spacewinner10.jpg"]
+image = ["/uploads/spacewinner10.jpg", "/uploads/spacewinner9.jpg"]
 
 +++
 Spacewinner, Helpt je met ruimte.
