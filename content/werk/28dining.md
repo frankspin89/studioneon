@@ -4,6 +4,43 @@ hero = "/uploads/HERO_28dining-1.jpg"
 klant = "28dining"
 tags = ["identiteit", "drukwerk"]
 title = "28dining"
-werk = ["/uploads/WER_28dining_badjas.jpg", "/uploads/WERK_28dining_sokken.jpg", "/uploads/WERK_28dining_restaurant.jpg", "/uploads/WERK_28dining_uitnodiging.jpg", "/uploads/WERK_staand_28dining_foto.jpg", "/uploads/WERK_staand_28dining_menu.jpg", "/uploads/WERK_28dining_menu.jpg", "/uploads/WERK_28dining_rekeningkaart.jpg", "/uploads/WERK_28dining_cadeaubon.jpg"]
+
+[[work]]
+[[work]]
+name = "WER_28dining_badjas.jpg"
+[work.single]
+image = "/uploads/WER_28dining_badjas.jpg"
+[[work]]
+name = "WERK_28dining_sokken.jpg"
+[work.single]
+image = "/uploads/WERK_28dining_sokken.jpg"
+[[work]]
+name = "WERK_28dining_restaurant.jpg"
+[work.single]
+image = "/uploads/WERK_28dining_restaurant.jpg"
+[[work]]
+name = "WERK_28dining_uitnodiging.jpg"
+[work.single]
+image = "/uploads/WERK_28dining_uitnodiging.jpg"
+[[work]]
+name = "WERK_staand_28dining_foto.jpg"
+[work.single]
+image = "/uploads/WERK_staand_28dining_foto.jpg"
+[[work]]
+name = "WERK_staand_28dining_menu.jpg"
+[work.single]
+image = "/uploads/WERK_staand_28dining_menu.jpg"
+[[work]]
+name = "WERK_28dining_menu.jpg"
+[work.single]
+image = "/uploads/WERK_28dining_menu.jpg"
+[[work]]
+name = "WERK_28dining_rekeningkaart.jpg"
+[work.single]
+image = "/uploads/WERK_28dining_rekeningkaart.jpg"
+[[work]]
+name = "WERK_28dining_cadeaubon.jpg"
+[work.single]
+image = "/uploads/WERK_28dining_cadeaubon.jpg"
 
 +++
