@@ -1,6 +1,5 @@
 +++
 date = "2019-01-08T19:22:57+00:00"
-draft = true
 hero = "/uploads/spacewinner.jpg"
 klant = "Spacewinner"
 tags = ["Print", " ruimtelijk"]
@@ -23,3 +22,8 @@ name = "pasje"
 image = ["/uploads/spacewinner7.jpg", "/uploads/spacewinner6.jpg"]
 
 +++
+Spacewinner, Helpt je met ruimte.
+
+Spacewinner staat voor: vertrouwen / vriendelijkheid / we staan altijd voor je klaar / maatwerk / lokaal / vriend / service gericht
+
+De behulpzaamheid zie je terug in het ontwerp van de verhuisdoos, waarop verschillende tips staan voor het verhuizen. 
