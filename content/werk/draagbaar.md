@@ -9,6 +9,7 @@ title = "Draagbaar"
 name = "Gift"
 [work.single]
 image = "/uploads/websiteDraagbaar2.jpg"
+[[work]]
 
 +++
 Website voor Draagbaar.
