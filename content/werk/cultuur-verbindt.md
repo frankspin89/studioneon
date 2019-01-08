@@ -58,7 +58,7 @@ name = "WERK_liggend_DNK_brochuregenrelijst"
 image = "/uploads/WERK_liggend_DNK_brochuregenrelijst.jpg"
 
 +++
-Logo is een gif. 
+Logo is een gif.
 
 Cultuur vergroot de kijk op de wereld, is een aanjager voor creativiteit en brengt in contact met nieuwe dingen. Door verbindingen te leggen, te verrijken en te inspireren, is DNK de partner voor ontwikkeling én de plek voor informatie, ontspanning, zelfreflectie, ontmoeting en vermaak. DNK is dé culturele organisatie in Assen die **verbindt**.
 
@@ -66,8 +66,12 @@ Deze **verbindende** functie vraagt om ondernemerschap, gastgerichtheid en oorsp
 
 Het logo, de huisstijl en huisstijlelementen zijn een visualisatie van waar DNK voor staat en wat zij te bieden heeft.
 
-Ontwikkeld: 
+Bioscoop, theater, bibliotheek en al haar facetten werken met elkaar samen. Door de punten van het grid met elkaar te verbinden ontstaat DNK.
+
+Het grid staat voor de verzameling van het DNK aanbod en vormt de basis voor de vormgeving. Het biedt houvast, is overzichtelijk en verbindt alles wat DNK doet.
+
+Ontwikkeld:
 
 De gehele identiteit
 
-diverse uitingen: briefpapier, visitekaartjes, tassen, brochure 
+diverse uitingen: briefpapier, visitekaartjes, tassen, brochure
