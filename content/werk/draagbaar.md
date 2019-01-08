@@ -41,8 +41,8 @@ image = ["/uploads/websiteDraagbaar10.jpg", "/uploads/websiteDraagbaar9.jpg"]
 +++
 Website voor Draagbaar.
 
-Bij de Hero foto moet de naam van de fotograaf genoemd worden chantal ehrhardt
+Bij de Hero foto moet de naam van de fotograaf genoemd worden Chantal Ehrhardt
 
-Draagbaar is een kapperszaak, waar haarstylisten een werkplek huren. Daarnaast is het een conceptstore en willen ze een platform zijn voor kunstenaars en ontwerpers. Iedere kwartaal zijn er drie nieuwe ontwerpers die exposeer en verkopen. Leuk voor klanten die wachten en inspirerend voor de hairstylisten. 
+Draagbaar is een kapperszaak, waar haarstylisten een werkplek huren. Daarnaast is het een conceptstore en willen ze een platform zijn voor kunstenaars en ontwerpers. Iedere kwartaal zijn er drie nieuwe ontwerpers die exposeer en verkopen. Leuk voor klanten die wachten en inspirerend voor de hairstylisten.
 
-Dit creatieve en inspirerende moet terug te zien zijn op de website. Mensen aan het denken zetten, verhalen verstellen, nieuwe dingen laten zien. Daarnaast moet de website vooral informatief zijn: duidelijke prijzen en contactgegevens. 
+Dit creatieve en inspirerende moet terug te zien zijn op de website. Mensen aan het denken zetten, verhalen verstellen, nieuwe dingen laten zien. Daarnaast moet de website vooral informatief zijn: duidelijke prijzen en contactgegevens.
