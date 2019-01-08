@@ -9,7 +9,6 @@ title = "Dokjard"
 name = "Tas"
 [work.double]
 image = ["/uploads/WERK_staand_dokjard_tas.jpg", "/uploads/WERK_staand_dokjard_bestek.jpg"]
-
 [[work]]
 name = "Bestek"
 [work.single]
