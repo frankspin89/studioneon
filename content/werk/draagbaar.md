@@ -14,8 +14,17 @@ name = "home"
 [work.single]
 image = "/uploads/websiteDraagbaar3.jpg"
 [[work]]
+name = "Menu"
 [work.single]
 image = "/uploads/websiteDraagbaar4.jpg"
+[[work]]
+name = "foto roze"
+[work.single]
+image = "/uploads/websiteDraagbaar5.jpg"
+[[work]]
+name = "Over draagbaar"
+[work.single]
+image = "/uploads/websiteDraagbaar6.jpg"
 
 +++
 Website voor Draagbaar.
