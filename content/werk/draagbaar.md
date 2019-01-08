@@ -36,7 +36,7 @@ image = "/uploads/websiteDraagbaar8.jpg"
 [[work]]
 name = "telefoon"
 [work.double]
-image = ["/uploads/websiteDraagbaar10.jpg", "/uploads/websiteDraagbaar9.jpg"]
+image = ["/uploads/websiteDraagbaar9.jpg", "/uploads/websiteDraagbaar10.jpg"]
 [[work]]
 name = "foto bruin"
 [work.single]
