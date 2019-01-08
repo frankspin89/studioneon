@@ -34,10 +34,6 @@ name = "Telefoon 4"
 [work.single]
 image = "/uploads/DraagbaarTelefoon4.jpg"
 [[work]]
-name = "Small foto 3"
-[work.single]
-image = "/uploads/Draagbaar_smalfoto3.jpg"
-[[work]]
 name = "Small foto"
 [work.single]
 image = "/uploads/Draagbaar_smalfoto.jpg"
