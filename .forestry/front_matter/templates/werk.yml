@@ -21,11 +21,6 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: image_gallery
-  name: werk
-  label: Werk
-  description: Upload afbeeldingen in het formaat 2200x1400. Afbeeldingen worden ook
-    automatisch verkleint naar 1100x700.
 - type: field_group_list
   name: work
   label: Work
@@ -51,13 +46,12 @@ fields:
       label: Image
     description: "(Twee staande beelden naast elkaar)"
 pages:
-- content/werk/cultuur-verbindt.md
 - content/werk/28dining.md
 - content/werk/juridisch-ingewikkeld.md
+- content/werk/atlas-theater.md
+- content/werk/Dit is Dokjard.md
+- content/werk/cultuur-verbindt.md
 - content/werk/centrum-voor-de-kunsten.md
 - content/werk/digitale-en-fysieke-ontmoeten.md
-- content/werk/Dit is Dokjard.md
-- content/werk/Hoe-geef-je-smoel-aan-scheepsbouw.md
-- content/werk/atlas-theater.md
 - content/werk/draagbaar.md
 - content/werk/bomvol-met-cultuur.md
