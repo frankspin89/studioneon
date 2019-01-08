@@ -17,6 +17,10 @@ name = "Sfeerbeeld"
 [work.single]
 image = "/uploads/WERK_28dining_restaurant.jpg"
 [[work]]
+name = "Uitnodiging"
+[work.single]
+image = "/uploads/WERK_liggend_28dining_uitnodiging.jpg"
+[[work]]
 name = "Drukwerk uitingen - cadeaubon e.d."
 [work.single]
 image = "/uploads/WERK_28dining_cadeaubon.jpg"
