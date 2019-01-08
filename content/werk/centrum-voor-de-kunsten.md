@@ -4,6 +4,61 @@ hero = "/uploads/HERO_ICO-2.jpg"
 klant = "ICO"
 tags = ["print", "brochure", "lesmateriaal", "online", "poster", "bewegwijzering"]
 title = "Centrum voor de kunsten"
-werk = ["/uploads/WERK_liggend_ICO_sfeer.jpg", "/uploads/WERK_liggend_ICO_lesmateriaal1-1.jpg", "/uploads/WERK_liggend_ICO_lesmateriaal2.jpg", "/uploads/WERK_liggend_ICO_lesmateriaal3.jpg", "/uploads/WERK_staand_ICO_poster opendag.jpg", "/uploads/WERK_staand_ICO_insta opendag-2.jpg", "/uploads/WERK_liggend_ICO_beeld opendag.jpg", "/uploads/WERK_liggend_ICO_folder opendag.jpg", "/uploads/WERK_liggend_ICO_bewegwijzering opendag.jpg", "/uploads/WERK_staand_ICO_insta-lancering.jpg", "/uploads/WERK_staand_ICO_poster lancering.jpg", "/uploads/WERK_staand_DAF_sfeer.jpg", "/uploads/WERK_staand_ICO_lesmateriaal kbw.jpg", "/uploads/WERK_liggend_ICO_diploma's-1.jpg"]
+
+
+[[work]]
+[[work]]
+name = "WERK_liggend_ICO_sfeer"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_sfeer.jpg"
+[[work]]
+name = "WERK_liggend_ICO_lesmateriaal1-1"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_lesmateriaal1-1.jpg"
+[[work]]
+name = "WERK_liggend_ICO_lesmateriaal2"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_lesmateriaal2.jpg"
+[[work]]
+name = "WERK_liggend_ICO_lesmateriaal3"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_lesmateriaal3.jpg"
+[[work]]
+name = "WERK_staand_ICO_poster opendag.jpg"
+[work.single]
+image = "/uploads/WERK_staand_ICO_poster opendag.jpg"
+[[work]]
+name = "WERK_staand_ICO_insta opendag-2.jpg"
+[work.single]
+image = "/uploads/WERK_staand_ICO_insta opendag-2.jpg"
+[[work]]
+name = "WERK_liggend_ICO_beeld opendag.jpg"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_beeld opendag.jpg"
+[[work]]
+name = "WERK_liggend_ICO_folder opendag.jpg"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_folder opendag.jpg"
+[[work]]
+name = "WERK_liggend_ICO_bewegwijzering opendag.jpg"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_bewegwijzering opendag.jpg"
+[[work]]
+name = "WERK_staand_ICO_insta-lancering.jpg"
+[work.single]
+image = "/uploads/WERK_staand_ICO_insta-lancering.jpg"
+[[work]]
+name = "WERK_staand_ICO_poster lancering.jpg"
+[work.single]
+image = "/uploads/WERK_staand_ICO_poster lancering.jpg"
+[[work]]
+name = "WERK_staand_DAF_sfeer.jpg"
+[work.single]
+image = "/uploads/WERK_staand_DAF_sfeer.jpg"
+[[work]]
+name = "WERK_staand_ICO_lesmateriaal kbw.jpg"
+[work.single]
+image = "/uploads/WERK_staand_ICO_lesmateriaal kbw.jpg"
+
 
 +++
