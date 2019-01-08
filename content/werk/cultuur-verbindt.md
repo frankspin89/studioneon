@@ -2,7 +2,7 @@
 date = "2019-01-02T10:57:29+00:00"
 hero = "/uploads/HERO_dnk.jpg"
 klant = "DNK"
-tags = ["print", "visuele identiteit", "brochure", "krant", "iconen"]
+tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
 title = "Cultuur verbindt."
 [[work]]
 name = "WERK_liggend_DNK_logo"
@@ -58,4 +58,16 @@ name = "WERK_liggend_DNK_brochuregenrelijst"
 image = "/uploads/WERK_liggend_DNK_brochuregenrelijst.jpg"
 
 +++
-Logo is een gif. De staande afbeeldingen zet hij niet naast elkaar.
+Logo is een gif. 
+
+Cultuur vergroot de kijk op de wereld, is een aanjager voor creativiteit en brengt in contact met nieuwe dingen. Door verbindingen te leggen, te verrijken en te inspireren, is DNK de partner voor ontwikkeling én de plek voor informatie, ontspanning, zelfreflectie, ontmoeting en vermaak. DNK is dé culturele organisatie in Assen die **verbindt**.
+
+Deze **verbindende** functie vraagt om ondernemerschap, gastgerichtheid en oorspronkelijkheid. Met de durf om anders te denken, antennes om te ontdekken en originaliteit is DNK in staat authentieke, vindingrijke en veelzijdige producten en diensten te ontwikkelen die een stimulans zijn voor de maatschappij die bestaat uit burgers, organisaties en bedrijven.
+
+Het logo, de huisstijl en huisstijlelementen zijn een visualisatie van waar DNK voor staat en wat zij te bieden heeft.
+
+Ontwikkeld: 
+
+De gehele identiteit
+
+diverse uitingen: briefpapier, visitekaartjes, tassen, brochure 
