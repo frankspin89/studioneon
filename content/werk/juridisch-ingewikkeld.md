@@ -5,7 +5,6 @@ klant = "050legal"
 tags = ["identiteit", "strategie", "online", "print"]
 title = "Juridisch ingewikkeld?"
 [[work]]
-[[work]]
 name = "WERK_liggend_050legal_guote"
 [work.single]
 image = "/uploads/WERK_liggend_050legal_guote.jpg"
