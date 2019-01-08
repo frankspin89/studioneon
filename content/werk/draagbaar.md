@@ -10,6 +10,9 @@ name = "Gift"
 [work.single]
 image = "/uploads/websiteDraagbaar2.jpg"
 [[work]]
+name = "home"
+[work.single]
+image = "/uploads/websiteDraagbaar3.jpg"
 
 +++
 Website voor Draagbaar.
