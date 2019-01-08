@@ -4,9 +4,6 @@ hero = "/uploads/HERO_dnk.jpg"
 klant = "DNK"
 tags = ["print", "visuele identiteit", "brochure", "krant", "iconen"]
 title = "Cultuur verbindt."
-
-
-[[work]]
 [[work]]
 name = "WERK_liggend_DNK_logo"
 [work.single]
@@ -16,13 +13,11 @@ name = "WERK_liggend_DNK_font"
 [work.single]
 image = "/uploads/WERK_liggend_DNK_font.jpg"
 [[work]]
-name = "WERK_liggend_DNK_font"
+name = "Schrijfblok + icoon"
+[work.double]
+image = ["/uploads/WERK_staand_DNK_schrijfblok-1.jpg", "/uploads/WERK_staand_DNK_icoon.jpg"]
 [work.single]
 image = "/uploads/WERK_staand_DNK_schrijfblok-1.jpg"
-[[work]]
-name = "WERK_staand_DNK_icoon"
-[work.single]
-image = "/uploads/WERK_staand_DNK_icoon.jpg"
 [[work]]
 name = "WERK_liggend_DNK_briefpapier"
 [work.single]
@@ -40,13 +35,11 @@ name = "WERK_liggend_DNK_krant"
 [work.single]
 image = "/uploads/WERK_liggend_DNK_krant-1.jpg"
 [[work]]
-name = "WERK_staand_DNK_tas"
+name = "Tas + visitekaartjes"
+[work.double]
+image = ["/uploads/WERK_staand_DNK_tas.jpg", "/uploads/WERK_staand_DNK_visitakaartje-1.jpg"]
 [work.single]
 image = "/uploads/WERK_staand_DNK_tas.jpg"
-[[work]]
-name = "WERK_staand_DNK_visitakaartje"
-[work.single]
-image = "/uploads/WERK_staand_DNK_visitakaartje.jpg"
 [[work]]
 name = "WERK_liggend_DNK_brochurecover"
 [work.single]
@@ -63,7 +56,6 @@ image = "/uploads/WERK_liggend_DNK_brochurebeeldspread.jpg"
 name = "WERK_liggend_DNK_brochuregenrelijst"
 [work.single]
 image = "/uploads/WERK_liggend_DNK_brochuregenrelijst.jpg"
-
 
 +++
 Logo is een gif. De staande afbeeldingen zet hij niet naast elkaar.
