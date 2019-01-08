@@ -13,6 +13,9 @@ image = "/uploads/websiteDraagbaar2.jpg"
 name = "home"
 [work.single]
 image = "/uploads/websiteDraagbaar3.jpg"
+[[work]]
+[work.single]
+image = "/uploads/websiteDraagbaar4.jpg"
 
 +++
 Website voor Draagbaar.
