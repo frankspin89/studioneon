@@ -32,5 +32,13 @@ image = "/uploads/DeKlinker8.jpg"
 name = "stoepbord start verkoop"
 [work.single]
 image = "/uploads/DeKlinker9.jpg"
+[[work]]
+name = "poster en flyer"
+[work.double]
+image = ["/uploads/DeKlinker11.jpg", "/uploads/DeKlinker10.jpg"]
+[[work]]
+name = "wc poster"
+[work.single]
+image = "/uploads/DeKlinker12.jpg"
 
 +++
