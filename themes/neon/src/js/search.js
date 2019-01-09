@@ -38,6 +38,9 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
+
+      $('#search-query').val("");
+
       var $newDiv = $("<div/>")   // creates a div element
       .addClass("bg-orange pin-x clearfix relative min-h-screen-small flex flex-col items-center text-center justify-center z-20 w-full text-white pin-t text-white")   // add a class
       .html("<div class='px-6'><h1 class='font-medium text-2xl md:text-4xl'>Geen resultaat. Try Again.</h1>");

@@ -84,6 +84,13 @@
                {{ end }}
             {{  end  }}
 
+            {{ with .gif  }}
+                {{  range .  }}
+                  <img src="{{ . }}" class="block w-full h-full mb-2">
+                {{ end }}
+
+            {{ end  }}
+
             {{ with .single }}
                 {{ range .  }}
                 {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
