@@ -6,9 +6,6 @@ tags = ["print", "campagne"]
 title = "De Klinker"
 [[work]]
 [work.single]
-image = "/uploads/photoshop_abri_kerst.jpg"
-[[work]]
-[work.single]
 image = "/uploads/DeKlinker2.jpg"
 [[work]]
 [[work]]
