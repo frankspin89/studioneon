@@ -55,7 +55,6 @@ fields:
     description: Voor de bewegende gifjes
 pages:
 - content/werk/atlas-theater.md
-- content/werk/Dit is Dokjard.md
 - content/werk/digitale-en-fysieke-ontmoeten.md
 - content/werk/28dining.md
 - content/werk/bomvol-met-cultuur.md
@@ -68,3 +67,4 @@ pages:
 - content/werk/conversies.md
 - content/werk/uiteten-bij-atlas.md
 - content/werk/juridisch-ingewikkeld.md
+- content/werk/Dit is Dokjard.md
