@@ -6,6 +6,8 @@ tags = ["website"]
 title = "Draagbaar"
 [[work]]
 name = "Gift"
+[work.gif]
+image = "/uploads/MacBookGIF1.gif"
 [work.single]
 image = "/uploads/websiteDraagbaar2.jpg"
 [[work]]
