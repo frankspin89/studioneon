@@ -14,7 +14,7 @@
 </div>
 <article class="px-4 pt-6">
   <div class="container">
-  <div class=" mx-auto max-w-xl main-content text-xl md:text-2xl  lg:text-4xl xl:text-5xl mb-24 leading-tight">
+  <div class=" mx-auto max-w-xl main-content text-xl md:text-2xl  lg:text-4xl xl:text-4xl mb-24 leading-tight">
     {{.Content}}
   </div>
 </div>
@@ -22,7 +22,7 @@
   {{  with .Params.images_top }}
   <div class="md:flex md:flex-row max-auto  mb-16">
   {{ range . }}
-   <div class="w-1/2">
+   <div class="md:w-1/2">
      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
      {{ with $imageResource }}
        {{ $src1x := (.Fill "550x700 Center") }}
@@ -39,7 +39,7 @@
   {{ range .Params.content_blokken }}
   <div class="lg:flex lg:flex-row  mb-16 lg:mb-8">
     <div class="lg:w-1/2">
-      <h2 class="text-xl md:text-2xl lg:text-4xl mb-4 font-medium leading-tight">{{ .title | markdownify }}</h2>
+      <h2 class="text-xl md:text-2xl lg:text-4xl mb-4 font-bold leading-tight -mt-2">{{ .title | markdownify }}</h2>
     </div>
     <div class="lg:w-1/2 main-content text-xl">
       {{ .content | markdownify }}
