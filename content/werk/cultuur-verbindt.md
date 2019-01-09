@@ -79,3 +79,7 @@ Ontwikkeld:
 De gehele identiteit
 
 diverse uitingen: briefpapier, visitekaartjes, tassen, brochure
+
+Fotograaf
+
+Noord Nederlands Toneel en Club Guy & Roni - Sneeuwwitje (Marc de Groot)
