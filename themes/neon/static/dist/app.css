@@ -4062,6 +4062,26 @@ mark {
   transition: all .2s ease-in-out;
 }
 
+.legal h2 {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+@media (min-width: 768px) {
+  .legal h2 {
+    font-size: 1.75rem;
+  }
+}
+
+.legal p + h2 {
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+}
+
+.legal p + p {
+  margin-top: 1rem;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
