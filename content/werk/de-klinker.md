@@ -4,6 +4,12 @@ hero = "/uploads/DeKlinker.jpg"
 klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
-work = []
+[[work]]
+[work.single]
+image = "/uploads/photoshop_abri_kerst.jpg"
+[[work]]
+[[work]]
+[[work]]
+[[work]]
 
 +++
