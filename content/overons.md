@@ -19,7 +19,7 @@ content_blokken:
     Draagbaar, Drentse Theaters, Florijn Incasso, ICO, Internationaal Filmfestival
     Assen, Metier, MRK Media, Noorderbreedte, Het Oversticht, Preuvenement Assen,
     Quintus, Mezzosopraan Sara Klein Horsman, Spacewinner, Stottercentrum Noord, Reinout
-    Hellental, The Post, Restaurant Touché, Van Lier Catering, VolkerWessels, X-ICT
+    Hellental, The Post, Restaurant Touche, Van Lier Catering, VolkerWessels, X-ICT
 menu:
   main:
     title: Over Ons
