@@ -1,13 +1,13 @@
 +++
 date = "2019-01-02T10:57:29+00:00"
-hero = "/uploads/HERO_dnk.jpg"
+hero = "/uploads/HERO_dnk_grid.png"
 klant = "DNK"
 tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
 title = "Cultuur verbindt."
 [[work]]
-name = "Test"
-[work.double]
-image = ["/uploads/WERK_staand_DNK_icoon.jpg", "/uploads/WERK_staand_DNK_schrijfblok V2.png"]
+name = "Sfeerbeeld"
+[work.single]
+image = "/uploads/WERK_liggend_DNK_beeld_2.jpg"
 [[work]]
 name = "WERK_liggend_DNK_logo"
 [work.single]
@@ -19,7 +19,7 @@ image = "/uploads/WERK_liggend_DNK_font.png"
 [[work]]
 name = "Schrijfblok + icoon"
 [work.double]
-image = ["/uploads/WERK_staand_DNK_schrijfblok-1.jpg", "/uploads/WERK_staand_DNK_icoon.jpg"]
+image = ["/uploads/WERK_staand_DNK_schrijfblok V2.png", "/uploads/WERK_staand_DNK_icoon.png"]
 [work.single]
 image = "/uploads/WERK_staand_DNK_schrijfblok-1.jpg"
 [[work]]
@@ -43,7 +43,7 @@ name = "Tas + visitekaartjes"
 [work.double]
 image = ["/uploads/WERK_staand_DNK_tas.jpg", "/uploads/WERK_staand_DNK_visitakaartje-1.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_DNK_tas.jpg"
+image = ""
 [[work]]
 name = "WERK_liggend_DNK_brochurecover"
 [work.single]
@@ -79,3 +79,7 @@ Ontwikkeld:
 De gehele identiteit
 
 diverse uitingen: briefpapier, visitekaartjes, tassen, brochure
+
+Fotograaf
+
+Noord Nederlands Toneel en Club Guy & Roni - Sneeuwwitje (Marc de Groot)

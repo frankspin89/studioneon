@@ -11,7 +11,7 @@ image = "/uploads/spacewinner3.jpg"
 [[work]]
 name = "verhuisdoos zijkant"
 [work.single]
-image = "/uploads/spacewinner8.jpg"
+image = "/uploads/spacewinner8-1.jpg"
 [[work]]
 name = "pasje"
 [work.double]
@@ -27,11 +27,11 @@ image = ["/uploads/spacewinner11.jpg", "/uploads/spacewinner5.jpg"]
 [[work]]
 name = "deur"
 [work.double]
-image = ["/uploads/spacewinner10.jpg", "/uploads/spacewinner9.jpg"]
+image = ["/uploads/spacewinner12.jpg", "/uploads/spacewinner9.jpg"]
 
 +++
 Spacewinner, Helpt je met ruimte.
 
 Spacewinner staat voor: vertrouwen / vriendelijkheid / we staan altijd voor je klaar / maatwerk / lokaal / vriend / service gericht
 
-De behulpzaamheid en persoonlijke contact zie je terug in de praatwolkjes met tips en het gebruik van fotografie (waarvoor de eigen medewerkers worden gebruikt.)  
+De behulpzaamheid en persoonlijke contact zie je terug in de praatwolkjes met tips en het gebruik van fotografie (waarvoor de eigen medewerkers worden gebruikt.)
