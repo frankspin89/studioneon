@@ -8,6 +8,8 @@ title = "De Klinker"
 [work.single]
 image = "/uploads/photoshop_abri_kerst.jpg"
 [[work]]
+[work.single]
+image = "/uploads/photoshop_abri_kerst_max.jpg"
 [[work]]
 [[work]]
 [[work]]
