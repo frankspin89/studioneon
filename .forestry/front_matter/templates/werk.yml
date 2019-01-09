@@ -45,6 +45,14 @@ fields:
       name: image
       label: Image
     description: "(Twee staande beelden naast elkaar)"
+  - type: field_group
+    name: gif
+    label: Gif
+    fields:
+    - type: file
+      name: image
+      label: Image
+    description: Voor de bewegende gifjes
 pages:
 - content/werk/juridisch-ingewikkeld.md
 - content/werk/atlas-theater.md
