@@ -7,7 +7,7 @@ title = "Conversies"
 [[work]]
 name = "telefoon"
 [work.double]
-image = ["/uploads/Conversies3.png", "/uploads/Conversies3.jpg"]
+image = ["/uploads/tolefoon_photoshop.png", "/uploads/Conversies3.png"]
 [[work]]
 name = "poster"
 [work.single]
