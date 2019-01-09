@@ -3,10 +3,10 @@ title: Over ons
 type: page
 layout: overons
 background: orange
-hero: "/uploads/abouttemp.jpg"
+hero: "/uploads/ANOUK-MARIA-MARIJE.jpg"
 images_top:
-- "/uploads/abouttemp2.jpg"
-- "/uploads/ons1.jpg"
+- "/uploads/MARIA-BANK.jpg"
+- "/uploads/DANCE.jpg"
 image_bottom: "/uploads/abouttemp2.jpg"
 content_blokken:
 - title: Werkwijze
