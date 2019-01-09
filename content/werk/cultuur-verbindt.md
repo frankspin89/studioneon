@@ -1,6 +1,6 @@
 +++
 date = "2019-01-02T10:57:29+00:00"
-hero = "/uploads/HERO_dnk.jpg"
+hero = "/uploads/HERO_dnk_grid.png"
 klant = "DNK"
 tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
 title = "Cultuur verbindt."
