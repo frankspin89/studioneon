@@ -9,6 +9,9 @@ name = "abri kerst"
 [work.single]
 image = "/uploads/DeKlinker2.jpg"
 [[work]]
+name = "telefoon + hert"
+[work.double]
+image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
 [[work]]
 
 +++
