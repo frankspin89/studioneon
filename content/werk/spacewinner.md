@@ -27,7 +27,7 @@ image = ["/uploads/spacewinner11.jpg", "/uploads/spacewinner5.jpg"]
 [[work]]
 name = "deur"
 [work.double]
-image = ["/uploads/spacewinner12.jpg", "/uploads/spacewinner9.jpg"]
+image = ["/uploads/spacewinner12V2.jpg", "/uploads/spacewinner9.jpg"]
 
 +++
 Spacewinner, Helpt je met ruimte.
