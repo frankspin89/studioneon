@@ -4,8 +4,10 @@ hero = "/uploads/DRTH.jpg"
 klant = "Drentse Theaters"
 tags = ["visuele identiteit"]
 title = "Bomvol met cultuur"
-
 [[work]]
+name = "GIF Letters"
+[work.gif]
+image = "/uploads/ezgif.com-optimize.gif"
 [[work]]
 name = "Mobiele site"
 [work.double]
