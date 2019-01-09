@@ -7,7 +7,7 @@ hero: "/uploads/ANOUK-MARIA-MARIJE.jpg"
 images_top:
 - "/uploads/MARIA-BANK.jpg"
 - "/uploads/DANCE.jpg"
-image_bottom: "/uploads/abouttemp2.jpg"
+image_bottom: "/uploads/ANOUK-MARIJE.jpg"
 content_blokken:
 - title: Werkwijze
   content: |-
