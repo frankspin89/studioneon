@@ -1,10 +1,21 @@
 +++
 date = "2019-01-09T08:10:57+00:00"
-hero = "/uploads/Conversies.jpg"
+hero = "/uploads/ConversiesHero.jpg"
 klant = "Conversies"
 tags = ["visuele identiteit", "visitekaartjes", "social media templates", "art direction fotografie"]
 title = "Conversies"
-work = []
+[[work]]
+name = "telefoon"
+[work.double]
+image = ["/uploads/Conversies2.jpg", "/uploads/Conversies3.jpg"]
+[[work]]
+name = "poster"
+[work.single]
+image = "/uploads/Conversies4.jpg"
+[[work]]
+name = "Bart"
+[work.double]
+image = ["/uploads/Conversies5.jpg", "/uploads/Conversies6.jpg"]
 
 +++
 tekst uit tijdelijk portfolio:
