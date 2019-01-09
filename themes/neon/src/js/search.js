@@ -38,13 +38,12 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-
       var $newDiv = $("<div/>")   // creates a div element
-      .attr("id", "someID")  // adds the id
-      .addClass("bg-orange pin-x absolute flex flex-col items-center text-center justify-center z-20 h-full w-full text-white pin-t text-white")   // add a class
-      .html("<div><h1>Geen resultaten</h1><p>Probeer een andere zoekterm</p>");
+      .addClass("bg-orange pin-x clearfix relative min-h-screen-small flex flex-col items-center text-center justify-center z-20 w-full text-white pin-t text-white")   // add a class
+      .html("<div class='px-6'><h1 class='font-medium text-2xl md:text-4xl'>Geen resultaat. Try Again.</h1>");
 
-      $('#search-results').append($newDiv);
+      $('#search-results').parent().append($newDiv);
+      $('#search-results').remove();
     }
   });
 }
