@@ -2,7 +2,7 @@
 date = "2019-01-02T10:44:31+00:00"
 hero = "/uploads/HERO_050legal.jpg"
 klant = "050legal"
-tags = ["identiteit", "strategie", "online", "print"]
+tags = ["visuele identiteit", "postitionering", "print", "online"]
 title = "Juridisch ingewikkeld?"
 [[work]]
 name = "WERK_liggend_050legal_guote"
