@@ -5,6 +5,10 @@ klant = "Spacewinner"
 tags = ["Print", " ruimtelijk"]
 title = "Spacewinner"
 [[work]]
+name = "Gif testje"
+[work.gif]
+image = "/uploads/x3rJFau.gif"
+[[work]]
 name = "verhuisdoos"
 [work.single]
 image = "/uploads/spacewinner3.jpg"
