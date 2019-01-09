@@ -2,7 +2,7 @@
 date = "2018-12-06T14:04:52+00:00"
 hero = "/uploads/hero_dokjard-1.jpg"
 klant = "Dokjard"
-tags = ["identiteit", "logo", "drukwerk", "online"]
+tags = ["visuele identiteit", "print", "online"]
 title = "Dokjard"
 [[work]]
 [[work]]
@@ -60,3 +60,19 @@ image = "/uploads/werk_dokjard_shirt.jpg"
 
 +++
 Er moeten nog een aantal middelen worden gefotografeerd
+
+social media templates menukaarten
+
+cadeaubon
+
+gevelbestickering bierviltje
+
+bierfles etiketten
+
+Voor de nieuwe brouw & bistro Dokjard in Groningen zijn wij bij het hele proces aangesloten geweest. Van het brainstormen over de naam tot aan de opening van het restaurant.  
+
+De eigenaresse had een industrieel en Scandinavische stijl voor ogen. Industrieel omdat het pand vroeger werd gebruikt als scheepswerf.
+
+De scheepswerf, of beter het stuurwiel van een boot, was onze inspiratie voor het logo. Bij de uitingen is dit doorgevoerd door veel ronde middelen te gebruiken of zoals bij de menukaart dat je deze moet draaien om te kunnen lezen.  
+
+De algehele uitstraling is minimalistisch Scandinavisch gehouden.
