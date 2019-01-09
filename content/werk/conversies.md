@@ -11,15 +11,11 @@ image = ["/uploads/tolefoon_photoshop-1.png", "/uploads/telefoon2.png"]
 [[work]]
 name = "poster"
 [work.single]
-image = "/uploads/Conversies4.jpg"
+image = "/uploads/Conversies4.png"
 [[work]]
 name = "Bart"
 [work.double]
 image = ["/uploads/Conversies5.jpg", "/uploads/Conversies6.jpg"]
-[[work]]
-name = "kristen"
-[work.double]
-image = ["/uploads/Conversies8.jpg", "/uploads/Conversies7.jpg"]
 [[work]]
 name = "Jeanne"
 [work.double]
@@ -31,7 +27,7 @@ image = "/uploads/Conversies11.jpg"
 [[work]]
 name = "koelkast"
 [work.single]
-image = "/uploads/Conversies13.jpg"
+image = "/uploads/Conversies13.png"
 [[work]]
 name = "button"
 [work.double]
