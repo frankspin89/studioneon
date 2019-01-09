@@ -5,6 +5,9 @@ klant = "Conversies"
 tags = ["visuele identiteit", "visitekaartjes", "social media templates", "art direction fotografie"]
 title = "Conversies"
 [[work]]
+[work.gif]
+image = "/uploads/portretBart.gif"
+[[work]]
 name = "telefoon"
 [work.double]
 image = ["/uploads/tolefoon_photoshop-1.png", "/uploads/telefoon2.png"]
