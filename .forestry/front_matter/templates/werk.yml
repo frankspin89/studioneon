@@ -54,7 +54,6 @@ fields:
       label: Image
     description: Voor de bewegende gifjes
 pages:
-- content/werk/juridisch-ingewikkeld.md
 - content/werk/atlas-theater.md
 - content/werk/Dit is Dokjard.md
 - content/werk/digitale-en-fysieke-ontmoeten.md
@@ -68,3 +67,4 @@ pages:
 - content/werk/draagbaar.md
 - content/werk/conversies.md
 - content/werk/uiteten-bij-atlas.md
+- content/werk/juridisch-ingewikkeld.md

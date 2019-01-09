@@ -30,4 +30,6 @@ image = ["/uploads/WERK_staand_050legal_insta_1.jpg", "/uploads/WERK_staand_050l
 image = "/uploads/WERK_staand_050legal_insta_1.jpg"
 
 +++
-Logo is een gif
+Wat begon als een vraag voor het  opfrissen van de 050 Legal identiteit is geresulteerd in een heldere positionering en een nieuwe identiteit. We hebben de  klant aangespoord om te focus-sen op de inhoudelijke vragen die haar doelgroep heeft op juridisch gebied.
+
+Door dit ‘in gewone mensen taal’ te doen stelt 050 Legal zich benaderbaar op.  De heldere look and feel onderstreept nogmaals dat je als kleine ondernemer alle juridische rompslomp, samen met 050 Legal, aan kunt.
