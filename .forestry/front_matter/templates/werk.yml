@@ -47,7 +47,6 @@ fields:
     description: "(Twee staande beelden naast elkaar)"
 pages:
 - content/werk/juridisch-ingewikkeld.md
-- content/werk/cultuur-verbindt.md
 - content/werk/atlas-theater.md
 - content/werk/Dit is Dokjard.md
 - content/werk/digitale-en-fysieke-ontmoeten.md
@@ -59,3 +58,4 @@ pages:
 - content/werk/de-klinker.md
 - content/werk/conversies.md
 - content/werk/how-to-create-a-relevant-public-space.md
+- content/werk/cultuur-verbindt.md
