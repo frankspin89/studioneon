@@ -5,6 +5,7 @@ klant = "DNK"
 tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
 title = "Cultuur verbindt."
 [[work]]
+name = "Test"
 [work.double]
 image = ["/uploads/WERK_staand_DNK_icoon.jpg", "/uploads/WERK_staand_DNK_schrijfblok V2.png"]
 [[work]]
