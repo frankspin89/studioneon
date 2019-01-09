@@ -21,9 +21,13 @@ name = "cover jpeg"
 [work.single]
 image = "/uploads/DeKlinker6.jpg"
 [[work]]
-name = "cover png"
+name = "binnenwerk 1"
 [work.single]
-image = "/uploads/DeKlinker6-1.png"
+image = "/uploads/DeKlinker7.jpg"
+[[work]]
+name = "binnenwerk 2"
+[work.single]
+image = "/uploads/DeKlinker8.jpg"
 [[work]]
 name = "stoepbord start verkoop"
 [work.single]
