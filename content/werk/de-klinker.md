@@ -5,6 +5,7 @@ klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
 [[work]]
+name = "abri kerst"
 [work.single]
 image = "/uploads/DeKlinker2.jpg"
 [[work]]
