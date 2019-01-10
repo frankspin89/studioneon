@@ -42,7 +42,17 @@ name = "Gele pagina"
 [work.single]
 image = "/uploads/geelfuture.png"
 [[work]]
+name = "quote 2"
+[work.double]
+image = ["/uploads/quote2.png", "/uploads/beeldquote2.jpg"]
 [[work]]
+name = "biblio moyen"
+[work.single]
+image = "/uploads/bibliotoyen.png"
+[[work]]
+name = "foto geel rotterdam"
+[work.single]
+image = "/uploads/foto geelRotterdam.jpg"
 
 +++
 \- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
