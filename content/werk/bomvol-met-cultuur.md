@@ -5,6 +5,10 @@ klant = "Drentse Theaters"
 tags = ["visuele identiteit"]
 title = "Bomvol met cultuur"
 [[work]]
+name = "Sfeerbeeld acrobaten"
+[work.single]
+image = "/uploads/DRTH Sfeerbeeld acrobaten.jpg"
+[[work]]
 name = "Logo"
 [work.single]
 image = "/uploads/DRTH Logo.png"
