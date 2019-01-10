@@ -58,5 +58,7 @@ name = "Theaterkrant cover"
 image = "/uploads/ATLAS-Lightbrochure-cover.png"
 [[work]]
 name = "Theaterkrant binnenwerk"
+[work.single]
+image = "/uploads/ATLAS-Lightbrochure-binnenwerk.png"
 
 +++
