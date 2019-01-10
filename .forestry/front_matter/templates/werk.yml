@@ -53,6 +53,14 @@ fields:
       name: image
       label: Image
     description: Voor de bewegende gifjes
+  - type: field_group
+    name: double_gif
+    label: Double GIF
+    description: Dubbel zoveel pret
+    fields:
+    - type: image_gallery
+      name: images
+      label: Images
 pages:
 - content/werk/28dining.md
 - content/werk/bomvol-met-cultuur.md
