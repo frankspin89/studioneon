@@ -6,6 +6,8 @@ tags = ["visuele identiteit"]
 title = "ATLAS Theater"
 werk = []
 [[work]]
+name = "Brochure cover en binnenwerk"
+[[work]]
 name = "Brochure inhoudsopgave"
 [[work]]
 name = "Brochure social media"
