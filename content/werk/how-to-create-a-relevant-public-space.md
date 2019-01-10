@@ -37,6 +37,12 @@ image = ["/uploads/quote1.png", "/uploads/fotoquote1.jpg"]
 name = "Toronto"
 [work.single]
 image = "/uploads/toronto.png"
+[[work]]
+name = "Gele pagina"
+[work.single]
+image = "/uploads/geelfuture.png"
+[[work]]
+[[work]]
 
 +++
 \- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
