@@ -5,6 +5,18 @@ klant = "Drentse Theaters"
 tags = ["visuele identiteit"]
 title = "Bomvol met cultuur"
 [[work]]
+name = "Binnenwerk kids"
+[work.single]
+image = "/uploads/DRTH-krant-binnenwerk-uitgelicht.png"
+[[work]]
+name = "Cover krant"
+[work.single]
+image = "/uploads/DRTH-krant-cover.png"
+[[work]]
+name = "Quote / Sfeerbeeld"
+[work.double]
+image = ["/uploads/DRTH Quote.png", "/uploads/DRTH Sfeerbeeld Spinvis.jpg"]
+[[work]]
 name = "Covers meerdere edities"
 [work.single]
 image = "/uploads/DRTH-Edities.png"
