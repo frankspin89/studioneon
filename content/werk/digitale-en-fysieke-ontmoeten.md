@@ -3,7 +3,7 @@ date = "2019-01-04T15:06:30+00:00"
 hero = "/uploads/HERO_DAF.jpg"
 klant = "DAF"
 tags = ["visuele identiteit", "print", "online"]
-title = "Kunst en digitale techniek"
+title = "Op het snijvlak van kunst en techniek"
 weight = ""
 [[work]]
 name = "WERK_liggend_DAF_sfeer.jpg"
