@@ -40,8 +40,12 @@ name = "LED Scherm"
 image = "/uploads/ATLAS LED Scherm.jpg"
 [[work]]
 name = "WC Posters"
+[work.single]
+image = "/uploads/ATLAS-WC-Posters.png"
 [[work]]
 name = "Abri"
+[work.single]
+image = "/uploads/ATLAS-Abri.png"
 [[work]]
 name = "Photo booth foto's"
 [[work]]
@@ -50,6 +54,8 @@ name = "Sirene Sale"
 images = ["/uploads/Sirene-Sale-2.gif", "/uploads/test-3.jpg"]
 [[work]]
 name = "Theaterkrant cover"
+[work.single]
+image = "/uploads/ATLAS-Lightbrochure-cover.png"
 [[work]]
 name = "Theaterkrant binnenwerk"
 
