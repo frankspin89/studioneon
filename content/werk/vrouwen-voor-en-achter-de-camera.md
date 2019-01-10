@@ -6,20 +6,32 @@ tags = []
 title = "Vrouwen voor en achter de camera"
 [[work]]
 name = "Logo"
+[work.single]
+image = "/uploads/IFA logo.png"
 [[work]]
 name = "Technieken"
+[work.double]
+image = ["/uploads/IFA Techniek tape.jpg", "/uploads/IFA Techniek beamer.jpg"]
 [[work]]
 name = "Website programma"
+[work.single]
+image = "/uploads/IFA Site programma.png"
 [[work]]
 name = "Website film"
+[work.single]
+image = "/uploads/IFA Site film.png"
 [[work]]
 name = "Shirt"
+[work.single]
+image = "/uploads/IFA Shirt.png"
 [[work]]
 name = "Sfeerbeeld paars"
+[work.single]
+image = "/uploads/Sfeerbeeld paars 2.jpg"
 [[work]]
 name = "Brochure genderbenders"
 [work.single]
-image = "/uploads/IFA-Brochure-genderbenders.png"
+image = ""
 [[work]]
 name = "Brochure programma"
 [[work]]
