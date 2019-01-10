@@ -5,13 +5,15 @@ klant = "DNK"
 tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
 title = "Cultuur verbindt."
 [[work]]
+name = "WERK_liggend_DNK_logo"
+[work.gif]
+image = "/uploads/WERK_liggend_DNK_logo-1.gif"
+[work.single]
+image = ""
+[[work]]
 name = "Sfeerbeeld"
 [work.single]
 image = "/uploads/WERK_liggend_DNK_beeld_2.jpg"
-[[work]]
-name = "WERK_liggend_DNK_logo"
-[work.single]
-image = "/uploads/WERK_liggend_DNK_logo.gif"
 [[work]]
 name = "Font"
 [work.single]
