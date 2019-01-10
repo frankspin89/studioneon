@@ -6,6 +6,20 @@ tags = ["visuele identiteit"]
 title = "ATLAS Theater"
 werk = []
 [[work]]
+name = "Brochure inhoudsopgave"
+[[work]]
+name = "Brochure social media"
+[[work]]
+name = "Artiest in A"
+[[work]]
+name = "Website Macbook home"
+[[work]]
+name = "Website Macbook bestel"
+[[work]]
+name = "Website mobiel"
+[[work]]
+name = "LED Scherm"
+[[work]]
 name = "WC Posters"
 [[work]]
 name = "Abri"
