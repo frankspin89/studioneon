@@ -17,9 +17,9 @@ name = "foto theaterzaal"
 [work.single]
 image = "/uploads/DeKlinker5.jpg"
 [[work]]
-name = "cover png"
+name = "cover png 24"
 [work.single]
-image = "/uploads/3boeken.png"
+image = "/uploads/3boeken_24.png"
 [[work]]
 name = "binnenwerk 1"
 [work.single]
