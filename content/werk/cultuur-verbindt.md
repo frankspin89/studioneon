@@ -4,6 +4,7 @@ hero = "/uploads/HERO_dnk_grid.png"
 klant = "DNK"
 tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
 title = "Cultuur verbindt."
+weight = ""
 [[work]]
 name = "WERK_liggend_DNK_logo"
 [work.gif]
@@ -85,3 +86,11 @@ diverse uitingen: briefpapier, visitekaartjes, tassen, brochure
 Fotograaf
 
 Noord Nederlands Toneel en Club Guy & Roni - Sneeuwwitje (Marc de Groot)
+
+\--
+
+Na de fusie tussen Theater/Bioscoop De Nieuwe Kolk en 
+
+Bibliotheek Assen was er behoefte aan een nieuwe visuele identiteit waarin hun diverse aanbod - theater, bioscoop en bibliotheek - beter in naar voren kwam.  Aan ons de taak om een identiteit te ontwerpen die deze verbindingen mogelijk maakt. 
+
+Het heeft geresulteerd in een grid van stippen die je makkelijk met elkaar kunt verbinden. Het custom made letterype is eigenwijs en, naar introductie, duidelijk te herkennen als DNK.
