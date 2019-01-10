@@ -7,7 +7,7 @@ title = "De Klinker"
 [[work]]
 name = "abri kerst 2"
 [work.single]
-image = "/uploads/photoshop_abri_kerst.jpg"
+image = "/uploads/DeKlinker2.jpg"
 [[work]]
 name = "abri kerst"
 [work.single]
@@ -36,6 +36,10 @@ image = "/uploads/DeKlinker8.jpg"
 name = "stoepbord start verkoop"
 [work.single]
 image = "/uploads/DeKlinker9.jpg"
+[[work]]
+name = "stoepbord photoshop"
+[work.single]
+image = "/uploads/stoepbord_72.jpg"
 [[work]]
 name = "poster en flyer"
 [work.double]
