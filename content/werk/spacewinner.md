@@ -3,7 +3,7 @@ date = "2019-01-08T19:22:57+00:00"
 hero = "/uploads/spacewinner.jpg"
 klant = "Spacewinner"
 tags = ["Print", " ruimtelijk"]
-title = "Spacewinner"
+title = "De vriend die je helpt"
 weight = ""
 [[work]]
 name = "verhuisdoos"
