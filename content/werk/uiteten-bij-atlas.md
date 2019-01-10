@@ -3,7 +3,7 @@ date = "2019-01-09T15:46:03+00:00"
 hero = "/uploads/ATLAS Horeca HERO.jpg"
 klant = "Atlas Theater"
 tags = ["visuele identiteit"]
-title = "Theater & tournedos"
+title = "Theater&tournedos"
 weight = ""
 [[work]]
 name = "Logo / Sfeerbeeld"
