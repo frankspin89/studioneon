@@ -10,3 +10,4 @@ weight = 0
 image = "/uploads/WERK_liggend_DNK_abri.jpg"
 
 +++
+Bioscoop DNK wilde hun nieuwe product, een kaart waarmee je voordelig vijf keer naar de film kan, aan de man brengen. 
