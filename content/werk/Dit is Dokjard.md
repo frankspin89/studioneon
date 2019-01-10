@@ -5,10 +5,19 @@ klant = "Dokjard"
 tags = ["visuele identiteit", "print", "online"]
 title = "Dokjard"
 [[work]]
+name = "Visitekaartjes"
+[work.single]
+image = "/uploads/WERK_liggend_dokjard_visitekaartje-1.jpg"
+[[work]]
+name = "Drankenkaart"
+[work.single]
+image = "/uploads/WERK_liggend_dokjard_drankenkaart.jpg"
+[[work]]
+name = "Bierfiltjes"
 [work.single]
 image = "/uploads/WERK_liggend_dokjard_bierfiltjes-3.jpg"
 [[work]]
-name = "Tas"
+name = "Tas + bestek"
 [work.double]
 image = ["/uploads/WERK_staand_dokjard_tas.jpg", "/uploads/WERK_staand_dokjard_bestek.jpg"]
 [[work]]
@@ -20,7 +29,7 @@ name = "Website Laptop 2"
 [work.single]
 image = "/uploads/WERK_liggend_dokjard_web_menu-1.jpg"
 [[work]]
-name = "Foto"
+name = "Sfeerbeeld"
 [work.single]
 image = "/uploads/WERK_liggend_dokjard_sfeer.jpg"
 [[work]]
@@ -28,29 +37,19 @@ name = "Bierfles"
 [work.single]
 image = "/uploads/werk_dokjard_bieretiket.jpg"
 [[work]]
-name = "Visitekaartjes"
-[work.single]
-image = "/uploads/WERK_liggend_dokjard_visitekaartje-1.jpg"
-[[work]]
-name = "instagarm"
-[work.single]
-image = "/uploads/WERK_liggend_dokjard_visitekaartje-1.jpg"
-[[work]]
 name = "Instagram"
+[work.double]
+image = ["/uploads/WERK_staand_dokjard_insta1.jpg", "/uploads/WERK_staand_dokjard_insta2.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_dokjard_insta2.jpg"
+image = ""
 [[work]]
-name = "Menu kaart"
+name = "Menukaart"
 [work.single]
-image = "/uploads/WERK_liggend_dokjard_menukaart.jpg"
+image = "/uploads/WERK_liggend_dokjard_menukaart-1.jpg"
 [[work]]
-name = "Gevel vlagt"
+name = "Cadeaubon"
 [work.single]
-image = "/uploads/WERK_liggend_dokjard_gevelvlag.jpg"
-[[work]]
-name = "Gevel vlagt"
-[work.single]
-image = "/uploads/WERK_liggend_dokjard_cadeaubon.jpg"
+image = "/uploads/WERK_liggend_dokjard_cadeaubon-1.jpg"
 [[work]]
 name = "Shirt"
 [work.single]
