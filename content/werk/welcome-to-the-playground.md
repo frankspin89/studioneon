@@ -17,8 +17,12 @@ name = "Artiest"
 image = "/uploads/WTTP Artiest.jpg"
 [[work]]
 name = "Vlag"
+[work.double]
+image = ["/uploads/WTTP Vlag mockup.png", "/uploads/WTTP Vlag.jpg"]
 [[work]]
 name = "Kinderen"
+[work.single]
+image = "/uploads/WTTP Kinderen.jpg"
 [[work]]
 name = "Tape hout"
 [[work]]
