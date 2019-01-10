@@ -50,5 +50,7 @@ name = "Blokkenschema"
 image = "/uploads/IFA Blokkenschema.jpg"
 [[work]]
 name = "Sfeerbeeld / Vlag"
+[work.double]
+image = ["/uploads/IFA Sfeerbeeld trap.jpg", "/uploads/IFA Vlag.jpg"]
 
 +++
