@@ -27,3 +27,8 @@ name = "Voorstelling"
 image = "/uploads/SARA-Voorstelling.png"
 
 +++
+Mezzosopraan Sara Klein Horsman wilde een website en look and feel die recht doet aan hoe zij in haar vak staat. Modern in een klassieke wereld. 
+
+Wij hebben dit gerealiseerd door beeldvullende fotografie - onder onze art direction - en een functioneel, clean ontwerp.
+
+Fotografie door Sabine Metz
