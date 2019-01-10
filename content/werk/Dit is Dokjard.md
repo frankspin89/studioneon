@@ -5,6 +5,8 @@ klant = "Dokjard"
 tags = ["visuele identiteit", "print", "online"]
 title = "Dokjard"
 [[work]]
+[work.single]
+image = "/uploads/WERK_liggend_dokjard_bierfiltjes-3.jpg"
 [[work]]
 name = "Tas"
 [work.double]
