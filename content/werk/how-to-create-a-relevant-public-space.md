@@ -12,6 +12,14 @@ image = "/uploads/cover.jpg"
 name = "cover png"
 [work.single]
 image = "/uploads/cover.png"
+[[work]]
+name = "interview kristin jpeg"
+[work.single]
+image = "/uploads/InterviewKristin.jpg"
+[[work]]
+name = "interview kristin png"
+[work.single]
+image = "/uploads/InterviewKristin.png"
 
 +++
 \- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
