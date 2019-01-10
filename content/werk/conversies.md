@@ -25,6 +25,10 @@ name = "vis kaartjes"
 [work.single]
 image = "/uploads/Conversies11.jpg"
 [[work]]
+name = "feest"
+[work.single]
+image = "/uploads/Conversies16.jpg"
+[[work]]
 name = "koelkast"
 [work.single]
 image = "/uploads/Conversies13.png"
@@ -32,10 +36,6 @@ image = "/uploads/Conversies13.png"
 name = "button"
 [work.double]
 image = ["/uploads/Conversies14-1.png", "/uploads/Conversies15.png"]
-[[work]]
-name = "feest"
-[work.single]
-image = "/uploads/Conversies16.jpg"
 [[work]]
 name = "AB test"
 [work.single]
