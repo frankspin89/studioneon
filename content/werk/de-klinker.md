@@ -1,13 +1,13 @@
 +++
 date = "2019-01-09T08:21:41+00:00"
-hero = "/uploads/DeKlinker.jpg"
+hero = "/uploads/Herofoto.jpg"
 klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
 [[work]]
 name = "abri kerst"
 [work.single]
-image = "/uploads/DeKlinker2.jpg"
+image = "/uploads/Abri_max.jpg"
 [[work]]
 name = "telefoon + hert"
 [work.double]
@@ -23,11 +23,11 @@ image = "/uploads/DeKlinker6.jpg"
 [[work]]
 name = "binnenwerk 1"
 [work.single]
-image = "/uploads/DeKlinker7.jpg"
+image = "/uploads/mockupboek2.png"
 [[work]]
 name = "binnenwerk 2"
 [work.single]
-image = "/uploads/DeKlinker8.jpg"
+image = "/uploads/mockupboek1.png"
 [[work]]
 name = "stoepbord photoshop"
 [work.single]
