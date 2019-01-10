@@ -9,10 +9,6 @@ name = "abri png 8"
 [work.single]
 image = "/uploads/Abri_8.png"
 [[work]]
-name = "Abri jpeg max"
-[work.single]
-image = "/uploads/Abri_max-1.jpg"
-[[work]]
 name = "telefoon + hert"
 [work.double]
 image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
@@ -21,9 +17,9 @@ name = "foto theaterzaal"
 [work.single]
 image = "/uploads/DeKlinker5.jpg"
 [[work]]
-name = "cover jpeg"
+name = "cover png"
 [work.single]
-image = "/uploads/DeKlinker6.jpg"
+image = "/uploads/3boeken.png"
 [[work]]
 name = "binnenwerk 1"
 [work.single]
