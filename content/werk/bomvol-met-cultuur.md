@@ -5,21 +5,17 @@ klant = "Drentse Theaters"
 tags = ["visuele identiteit"]
 title = "Bomvol met cultuur"
 [[work]]
-name = "Macbook site"
+name = "Logo"
 [work.single]
-image = "/uploads/DRTH Macbook.png"
-[[work]]
-name = "Mobiele site"
-[work.double]
-image = ["/uploads/DRTH Mobiel2.png", "/uploads/DRTH Mobiel.png"]
+image = "/uploads/DRTH Logo.png"
 [[work]]
 name = "Sfeerbeeld acrobaten"
 [work.single]
 image = "/uploads/DRTH Sfeerbeeld acrobaten.jpg"
 [[work]]
-name = "Logo"
+name = "Cover krant"
 [work.single]
-image = "/uploads/DRTH Logo.png"
+image = "/uploads/DRTH-krant-cover.png"
 [[work]]
 name = "Binnenwerk uitgelicht"
 [work.single]
@@ -28,10 +24,6 @@ image = "/uploads/DRTH-krant-binnenwerk-uitgelicht-1.png"
 name = "Binnenwerk kids"
 [work.single]
 image = "/uploads/DRTH-krant-binnenwerk-uitgelicht.png"
-[[work]]
-name = "Cover krant"
-[work.single]
-image = "/uploads/DRTH-krant-cover.png"
 [[work]]
 name = "Quote / Sfeerbeeld"
 [work.double]
@@ -44,5 +36,13 @@ image = "/uploads/DRTH-Edities.png"
 name = "GIF Letters"
 [work.gif]
 image = "/uploads/ezgif.com-optimize.gif"
+[[work]]
+name = "Macbook site"
+[work.single]
+image = "/uploads/DRTH Macbook.png"
+[[work]]
+name = "Mobiele site"
+[work.double]
+image = ["/uploads/DRTH Mobiel2.png", "/uploads/DRTH Mobiel.png"]
 
 +++
