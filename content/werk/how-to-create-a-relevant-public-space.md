@@ -4,7 +4,14 @@ hero = "/uploads/Boek_AatVos.jpg"
 klant = "Aat Vos"
 tags = ["print", "online"]
 title = "How to create a relevant public space"
-work = []
+[[work]]
+name = "cover jpeg "
+[work.single]
+image = "/uploads/cover.jpg"
+[[work]]
+name = "cover png"
+[work.single]
+image = "/uploads/cover.png"
 
 +++
 \- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
