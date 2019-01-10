@@ -23,13 +23,13 @@ name = "foto roze"
 [work.single]
 image = "/uploads/websiteDraagbaar5.jpg"
 [[work]]
-name = "Over draagbaar"
+name = "Over draagbaar png"
 [work.single]
-image = "/uploads/websiteDraagbaar6.jpg"
+image = "/uploads/over.png"
 [[work]]
-name = "prijzen"
+name = "prijzen png 24"
 [work.single]
-image = "/uploads/websiteDraagbaar7.jpg"
+image = "/uploads/prijzen.png"
 [[work]]
 name = "foto bruin"
 [work.single]
