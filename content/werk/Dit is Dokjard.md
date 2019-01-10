@@ -57,10 +57,6 @@ name = "Shirt"
 image = "/uploads/werk_dokjard_shirt.jpg"
 
 +++
-Voor de nieuwe brouw & bistro Dokjard in Groningen zijn wij bij het hele proces aangesloten geweest. Van het brainstormen over de naam tot aan de opening van het restaurant.
+Bij bistro Dokjard uit Groningen zijn wij bij het hele proces aangesloten geweest. Van naamgeving tot aan de opening van het restaurant. Op de plek waar vroeger de scheepswerf was begon eigenaresse Jard haar industriele en Scandinavische brouw&bistro. 
 
-De eigenaresse had een industrieel en Scandinavische stijl voor ogen. Industrieel omdat het pand vroeger werd gebruikt als scheepswerf.
-
-De scheepswerf, of beter het stuurwiel van een boot, was onze inspiratie voor het logo. Bij de uitingen is dit doorgevoerd door veel ronde middelen te gebruiken of zoals bij de menukaart dat je deze moet draaien om te kunnen lezen.
-
-De algehele uitstraling is minimalistisch Scandinavisch gehouden.
+De scheepswerf - en daarmee het stuurwiel en kompas - is onze inspiratie geweest voor de visuele identiteit. De algehele uitstraling is minimalistisch Scandinavisch gehouden.
