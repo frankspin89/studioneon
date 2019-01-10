@@ -6,8 +6,18 @@ tags = ["visuele identiteit"]
 title = "ATLAS Theater"
 werk = []
 [[work]]
+name = "WC Posters"
+[[work]]
+name = "Abri"
+[[work]]
+name = "Photo booth foto's"
+[[work]]
 name = "Sirene Sale"
 [work.double_gif]
 images = ["/uploads/Sirene-Sale-2.gif", "/uploads/test-3.jpg"]
+[[work]]
+name = "Theaterkrant cover"
+[[work]]
+name = "Theaterkrant binnenwerk"
 
 +++
