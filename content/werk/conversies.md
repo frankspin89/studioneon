@@ -3,7 +3,7 @@ date = "2019-01-09T08:10:57+00:00"
 hero = "/uploads/ConversiesHero.jpg"
 klant = "Conversies"
 tags = ["visuele identiteit", "visitekaartjes", "social media templates", "art direction fotografie"]
-title = "Conversies"
+title = "Van bezoeker naar klant"
 weight = ""
 [[work]]
 name = "telefoon"
