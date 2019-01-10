@@ -62,6 +62,8 @@ name = "Theaterkrant binnenwerk"
 image = "/uploads/ATLAS-Lightbrochure-binnenwerk.png"
 
 +++
-Dit jonge theater uit Emmen had al een basis voor hun identiteit en vroeg aan Studio Neon om deze stijl door te ontwikkelen in een herkenbaar en bruikbaar geheel. 
+Het ATLAS Theater uit Emmen, gestart in 2016, trekt jaarlijks 55.000 bezoekers en heeft hiermee een sterke regiopositie. Het theater vroeg Studio Neon de bestaande stijl door te ontwikkelen.
 
-Wij hebben onder andere de ‘A’ geintroduceerd als herkenbaar beeldmerk dat telkens ruimtelijk wordt gecombineerd met fotografie. Alle middelen die het theater gebruikt zijn door onze handen gegaan en Atlas Theater kan zich met trots presenteren als hét theater van de regio.
+De warme kleuren en de beeldvullende fotografie belichamen 'een gezellige avond uit'. De typische A en de oranje kleur laden het merk en zorgen voor herkenbaarheid in en om Emmen. 
+
+ 
