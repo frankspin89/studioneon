@@ -31,15 +31,23 @@ image = "/uploads/Sfeerbeeld paars 2.jpg"
 [[work]]
 name = "Brochure genderbenders"
 [work.single]
-image = ""
+image = "/uploads/IFA-Brochure-genderbenders.png"
 [[work]]
 name = "Brochure programma"
+[work.single]
+image = "/uploads/IFA-Brochure-programma.png"
 [[work]]
 name = "Brochure blokkenschema"
+[work.single]
+image = "/uploads/IFA-Brochure-blokkenschema.png"
 [[work]]
 name = "Keycord"
+[work.single]
+image = "/uploads/IFA Keycord.jpg"
 [[work]]
 name = "Blokkenschema"
+[work.single]
+image = "/uploads/IFA Blokkenschema.jpg"
 [[work]]
 name = "Sfeerbeeld / Vlag"
 
