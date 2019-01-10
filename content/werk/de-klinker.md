@@ -4,6 +4,7 @@ hero = "/uploads/DeKlinker_Hero3.jpg"
 klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
+weight = ""
 [[work]]
 name = "abri png 8"
 [work.single]
@@ -42,6 +43,8 @@ name = "wc poster"
 image = "/uploads/DeKlinker12.jpg"
 
 +++
-Theater in Winschoten
+Cultuurhuis De Klinker bestaat uit het theater, kunstencentrum en filmhuis. In Winschoten. 
 
-Naast het theater ook kunstencentrum en filmhuis.
+* kerstcampagne - inspiratie gehaald uit de foute kersttrui
+* brochure met nieuw theaterseizoen + abri voor start verkoop
+* folder + poster voor het werven van 'medeklinkers'
