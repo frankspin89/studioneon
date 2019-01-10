@@ -5,17 +5,9 @@ klant = "Aat Vos"
 tags = ["print", "online"]
 title = "How to create a relevant public space"
 [[work]]
-name = "cover jpeg "
-[work.single]
-image = "/uploads/cover.jpg"
-[[work]]
 name = "cover png"
 [work.single]
 image = "/uploads/cover.png"
-[[work]]
-name = "interview kristin jpeg"
-[work.single]
-image = "/uploads/InterviewKristin.jpg"
 [[work]]
 name = "interview kristin png"
 [work.single]
