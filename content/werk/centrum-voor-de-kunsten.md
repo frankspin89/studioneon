@@ -5,10 +5,6 @@ klant = "ICO"
 tags = ["print", "brochure", "lesmateriaal", "online", "poster", "bewegwijzering"]
 title = "Centrum voor de kunsten"
 [[work]]
-name = "Sfeerbeeld kind"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_sfeer.jpg"
-[[work]]
 name = "WERK_liggend_ICO_lesmateriaal1-1"
 [work.single]
 image = "/uploads/WERK_liggend_ICO_lesmateriaal1-1.jpg"
@@ -21,11 +17,15 @@ name = "WERK_liggend_ICO_lesmateriaal3"
 [work.single]
 image = "/uploads/WERK_liggend_ICO_lesmateriaal3.jpg"
 [[work]]
+name = "Sfeerbeeld kind"
+[work.single]
+image = "/uploads/WERK_liggend_ICO_sfeer.jpg"
+[[work]]
 name = "Poster open dag + insta"
 [work.double]
 image = ["/uploads/WERK_staand_ICO_poster opendag.jpg", "/uploads/WERK_staand_ICO_insta opendag-2.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_ICO_poster opendag.jpg"
+image = ""
 [[work]]
 name = "WERK_liggend_ICO_beeld opendag.jpg"
 [work.single]
@@ -43,20 +43,19 @@ name = "Poster lancering + insta"
 [work.double]
 image = ["/uploads/WERK_staand_ICO_insta-lancering.jpg", "/uploads/WERK_staand_ICO_poster lancering.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_ICO_insta-lancering.jpg"
+image = ""
 [[work]]
 name = "Sfeer + lesmateriaal kbw"
 [work.double]
 image = ["/uploads/WERK_staand_DAF_sfeer.jpg", "/uploads/WERK_staand_ICO_lesmateriaal kbw.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_ICO_lesmateriaal kbw.jpg"
+image = ""
 [[work]]
 name = "Diploma's"
 [work.single]
 image = "/uploads/WERK_liggend_ICO_diploma's.jpg"
 
 +++
-
 Stukje over het ICO
 
 Het ICO is een advies-, project- en netwerkorganisatie voor het onderwijs en de amateurkunst in de gemeenten Assen, Aa en Hunze, Noordenveld, Midden-Drenthe en Tynaarlo. Het ICO werkt daarbij nauw samen met een groot netwerk van zelfstandige professionals. Het ICO wil in samenwerking met dit netwerk zo veel mogelijk mensen bereiken via de kunstprojecten – volwassenen, maar vooral ook kinderen en jongeren. Het ICO heeft het leren spelen en het spelend leren diep in het DNA.
@@ -65,4 +64,4 @@ Uitingen gericht op onderwijs: lesmateriaal + campagne Kinderboekenweek
 
 Open dag: bewegwijzering + aankondigingen
 
-Info voor de leraren: lesmateriaal + lesbrieven 
+Info voor de leraren: lesmateriaal + lesbrieven

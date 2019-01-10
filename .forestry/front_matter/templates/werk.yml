@@ -8,6 +8,9 @@ fields:
   label: Title
   config:
     required: true
+- type: number
+  name: weight
+  label: Weight
 - type: file
   name: hero
   label: Hero
@@ -69,6 +72,7 @@ pages:
 - content/werk/juridisch-ingewikkeld.md
 - content/werk/cultuur-verbindt.md
 - content/werk/atlas-theater.md
+- content/werk/digitale-en-fysieke-ontmoeten.md
 - content/werk/vrouwen-voor-en-achter-de-camera.md
 - content/werk/centrum-voor-de-kunsten.md
 - content/werk/draagbaar.md
@@ -77,5 +81,4 @@ pages:
 - content/werk/mezzosopraan-in-beeld.md
 - content/werk/conversies.md
 - content/werk/uiteten-bij-atlas.md
-- content/werk/digitale-en-fysieke-ontmoeten.md
 - content/werk/Dit is Dokjard.md
