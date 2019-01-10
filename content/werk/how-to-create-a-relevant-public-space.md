@@ -79,32 +79,6 @@ name = "quote 3"
 image = ["/uploads/quotefoto3-1.jpg", "/uploads/quote3-1.png"]
 
 +++
-\- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
+Het boek ‘ How to create a relevant public space’ bevat 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators. 
 
-**Inhoud:**Het boek ‘ How to create a relevant public space’ geeft antwoorden op de vragen vanuit verschillende hoeken gebaseerd op de vijf belangrijkste ontwikkelingen/pijlers van publieke ruimtes. Het boek is een initiatief van architect Aat Vos.
-
-* diepte interviews met authorities uit verschillende werkvelden: stadsontwikkeling, architectuur, design, game, sociologie, communicatie.
-* visuele reportages van inspirerende publieke ruimtes ‘third places’
-* city tours met interessante publlieke ruimtes
-
-**Briefing voor opdracht**
-
-Ontwerp maken voor een coffeetable boek.
-
-Nog geen huisstijl, maar moet aansluiten bij de stijl van Aat.
-
-**De stijl van Aat is:**
-
-* always strive for imperfection, beetje rebels
-* In het boek zie je dit terug doordat er delen van de pagina aflopen, de afwisseling van gele pagina’s met zwart wit fotografie en de pagina grote quotes.
-* huiselijk
-
-In het boek hebben we daarom een beetje een magazine stijl verwerkt: quotes, veel variatie in opmaak, veel fotografie.
-
-**Het boek heeft een duidelijke eigen stijl gekregen. Deze is doorgevoerd in verschillende middelen:**
-
-* Een website ter promotie en ondersteuning van het boek
-* folder
-* roll up banner (voor lezingen, beurten)
-* ansichtkaarten / promotiemateriaal
-* advertentie
+Het koffietafelboek bevat een prettige afwisseling tussen beeld en tekst. De visueel duidelijk te onderscheiden diepte interviews, reportages en city tours nemen je mee in het onderwerp. De initiatiefnemer van het boek, Aat Vos, heeft als motto '_always strive for imperfection_' en dit komt terug in de opmaak van het boek. 

@@ -65,7 +65,6 @@ fields:
       name: images
       label: Images
 pages:
-- content/werk/how-to-create-a-relevant-public-space.md
 - content/werk/de-klinker.md
 - content/werk/draagbaar.md
 - content/werk/juridisch-ingewikkeld.md
@@ -74,6 +73,7 @@ pages:
 - content/werk/mezzosopraan-in-beeld.md
 - content/werk/atlas-theater.md
 - content/werk/conversies.md
+- content/werk/how-to-create-a-relevant-public-space.md
 - content/werk/28dining.md
 - content/werk/spacewinner.md
 - content/werk/bomvol-met-cultuur.md
