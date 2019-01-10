@@ -11,23 +11,25 @@ image = "/uploads/WERK_liggend_050legal_guote.png"
 [[work]]
 name = "WERK_liggend_050legal_visitekaartjes"
 [work.single]
-image = "/uploads/WERK_liggend_050legal_visitekaartjes.jpg"
+image = "/uploads/WERK_liggend_050legal_visitekaartjes.png"
 [[work]]
-name = "WERK_liggend_050legal_visitekaartjes bult"
+name = "GIF — Bult kaartjes "
+[work.gif]
+image = "/uploads/WERK_liggend_Bult-visitekaartjes.gif"
 [work.single]
-image = "/uploads/WERK_liggend_050legal_visitekaartjes bult.jpg"
+image = ""
 [[work]]
 name = "Quote 1 + 2"
 [work.double]
 image = ["/uploads/WERK_staand_050legal_quote2.png", "/uploads/WERK_staand_050legal_quote.png"]
 [work.single]
-image = "/uploads/WERK_staand_050legal_quote-1.jpg"
+image = ""
 [[work]]
 name = "Insta 1 + 2"
 [work.double]
 image = ["/uploads/WERK_staand_050legal_insta_1.jpg", "/uploads/WERK_staand_050legal_insta_2.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_050legal_insta_1.jpg"
+image = ""
 
 +++
 Wat begon als een vraag voor het  opfrissen van de 050 Legal identiteit is geresulteerd in een heldere positionering en een nieuwe identiteit. We hebben de  klant aangespoord om te focus-sen op de inhoudelijke vragen die haar doelgroep heeft op juridisch gebied.
