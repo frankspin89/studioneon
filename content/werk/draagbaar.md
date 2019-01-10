@@ -11,9 +11,9 @@ image = "/uploads/MacBookGIF1.gif"
 [work.single]
 image = ""
 [[work]]
-name = "home"
+name = "home png 24"
 [work.single]
-image = "/uploads/website_home.png"
+image = "/uploads/website_home_24.png"
 [[work]]
 name = "Menu"
 [work.single]
