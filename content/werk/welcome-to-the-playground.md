@@ -29,6 +29,6 @@ name = "Tape hout"
 name = "Tape beker / pijp"
 
 +++
-Festival Welcome to the Playground vroeg aan ons om een identiteit te ontwerpen die jongeren tussen de 14 en 20 jaar zal aanspreken. Met daarbij als restrictie dat de huisstijlen van hun partners  (waaronder Kunstbende en Rabobank) moeiteloos zouden mengen. 
+Welcome to the Playground, het reizende festival dat telkens ergens anders zijn tenten opslaat, wil jongeren een speelplaats bieden. Een plek om te jammen, creatieve workshops te volgen of om los te gaan tijdens de Silent Disco. 
 
-Bij het ontwerpen van de kleurrijke identiteit hebben we ook rekening gehouden met het geringe budget. Via de social media templates kunnen de medewerkers zelf online content maken. En met de rollen tape valt elke object te branden met de festivalstijl.
+Het festival vroeg Studio Neon om een visuele identiteit te ontwerpen die de doelgroep bereikt, namelijk jongeren van 14 tot 18 jaar. De mediamix van online en fysieke middelen zorgt dat Welcome to the Playground aanwezig is op de juiste momenten. Met een set social media templates of de tape waarmee elk object te branden is in de festivalstijl.
