@@ -9,11 +9,11 @@ name = "Gift"
 [work.gif]
 image = "/uploads/MacBookGIF1.gif"
 [work.single]
-image = "/uploads/websiteDraagbaar2.jpg"
+image = ""
 [[work]]
 name = "home"
 [work.single]
-image = "/uploads/websiteDraagbaar3.jpg"
+image = "/uploads/website_home.png"
 [[work]]
 name = "Menu"
 [work.single]
