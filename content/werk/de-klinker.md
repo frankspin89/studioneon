@@ -5,10 +5,6 @@ klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
 [[work]]
-name = "abri kerst 2"
-[work.single]
-image = "/uploads/DeKlinker2.jpg"
-[[work]]
 name = "abri kerst"
 [work.single]
 image = "/uploads/DeKlinker2.jpg"
@@ -43,7 +39,7 @@ image = "/uploads/stoepbord_72.jpg"
 [[work]]
 name = "poster en flyer"
 [work.double]
-image = ["/uploads/DeKlinker11.jpg", "/uploads/DeKlinker10.jpg"]
+image = ["/uploads/poster.png", "/uploads/DeKlinker10.jpg"]
 [[work]]
 name = "wc poster"
 [work.single]
