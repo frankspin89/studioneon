@@ -29,6 +29,6 @@ name = "Tape hout"
 name = "Tape beker / pijp"
 
 +++
-Welcome to the Playground, het reizende festival dat telkens ergens anders zijn tenten opslaat, wil jongeren een speelplaats bieden. Een plek om te jammen, creatieve workshops te volgen of om los te gaan tijdens de Silent Disco. 
+Welcome to the Playground, het reizende festival dat telkens ergens anders zijn tenten opslaat, wil jongeren een speelplaats bieden. Een plek om te _jammen_, creatieve workshops te volgen of om los te gaan tijdens de Silent Disco.
 
-Het festival vroeg Studio Neon om een visuele identiteit te ontwerpen die de doelgroep bereikt, namelijk jongeren van 14 tot 18 jaar. De mediamix van online en fysieke middelen zorgt dat Welcome to the Playground aanwezig is op de juiste momenten. Met een set social media templates of de tape waarmee elk object te branden is in de festivalstijl.
+Het festival vroeg Studio Neon om een visuele identiteit te ontwerpen die de doelgroep bereikt, namelijk jongeren van 14 tot 18 jaar. De mediamix van online en fysieke middelen zorgt dat Welcome to the Playground aanwezig is op de juiste momenten. Met een set social media templates of de tape waarmee elk object te _branden_ is in de festivalstijl.
