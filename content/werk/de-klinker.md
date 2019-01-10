@@ -9,6 +9,10 @@ name = "abri kerst"
 [work.single]
 image = "/uploads/DeKlinker2.jpg"
 [[work]]
+name = "abri kerst 2"
+[work.single]
+image = "/uploads/photoshop_abri_kerst.jpg"
+[[work]]
 name = "telefoon + hert"
 [work.double]
 image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
