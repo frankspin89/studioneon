@@ -62,3 +62,6 @@ name = "Theaterkrant binnenwerk"
 image = "/uploads/ATLAS-Lightbrochure-binnenwerk.png"
 
 +++
+Dit jonge theater uit Emmen had al een basis voor hun identiteit en vroeg aan Studio Neon om deze stijl door te ontwikkelen in een herkenbaar en bruikbaar geheel. 
+
+Wij hebben onder andere de ‘A’ geintroduceerd als herkenbaar beeldmerk dat telkens ruimtelijk wordt gecombineerd met fotografie. Alle middelen die het theater gebruikt zijn door onze handen gegaan en Atlas Theater kan zich met trots presenteren als hét theater van de regio.
