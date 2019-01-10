@@ -33,6 +33,6 @@ image = ["/uploads/WERK_staand_050legal_insta_1.jpg", "/uploads/WERK_staand_050l
 image = ""
 
 +++
-Wat begon als een vraag voor het  opfrissen van de 050 Legal identiteit is geresulteerd in een heldere positionering en een nieuwe identiteit. We hebben de  klant aangespoord om te focus-sen op de inhoudelijke vragen die haar doelgroep heeft op juridisch gebied.
+Wat begon als een vraag voor het opfrissen van de 050legal identiteit is geresulteerd in een heldere positionering en een nieuwe identiteit. 
 
-Door dit ‘in gewone mensen taal’ te doen stelt 050 Legal zich benaderbaar op.  De heldere look and feel onderstreept nogmaals dat je als kleine ondernemer alle juridische rompslomp, samen met 050 Legal, aankunt.
+We hebben de klant aangespoord om te focussen op de inhoudelijke vragen die haar doelgroep heeft op juridisch gebied. Door dit in 'gewone mensen taal' te doen stelt 050legal zich benaderbaar op. De heldere _look and feel_ onderstreept nogmaals dat je als kleine ondernemer alle juridische rompslomp, samen met 050 Legal, aankunt.
