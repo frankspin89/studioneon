@@ -4,6 +4,7 @@ hero = "/uploads/spacewinner.jpg"
 klant = "Spacewinner"
 tags = ["Print", " ruimtelijk"]
 title = "Spacewinner"
+weight = ""
 [[work]]
 name = "verhuisdoos"
 [work.single]
@@ -30,8 +31,5 @@ name = "deur"
 image = ["/uploads/spacewinner12V2.jpg", "/uploads/spacewinner9.jpg"]
 
 +++
-Spacewinner, Helpt je met ruimte.
-
-Spacewinner staat voor: vertrouwen / vriendelijkheid / we staan altijd voor je klaar / maatwerk / lokaal / vriend / service gericht
-
-De behulpzaamheid en persoonlijke contact zie je terug in de praatwolkjes met tips en het gebruik van fotografie (waarvoor de eigen medewerkers worden gebruikt.)
+Spacewinner. De 'vriend' die je helpt met ruimte.   
+De hulpvaardigheid van Spacewinner hebben wij vertaald in de spreekwolkjes met tips, de heldere iconen en de \[benaderbare fotografie\]. 
