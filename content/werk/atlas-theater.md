@@ -6,18 +6,8 @@ tags = ["visuele identiteit"]
 title = "ATLAS Theater"
 werk = []
 [[work]]
-name = "Test"
-[work.double_gif]
-images = ["/uploads/test-3.jpg", "/uploads/Sirene-Sale-1.gif"]
-[[work]]
 name = "Sirene Sale"
-[work.double]
-image = ["/uploads/Sirene-Sale.gif", "/uploads/test-3.jpg"]
-[work.gif]
-image = "/uploads/Sirene-Sale-1.gif"
-[[work]]
-name = "Sfeerbeeld dansstudio"
-[work.single]
-image = "/uploads/test-2.jpg"
+[work.double_gif]
+images = ["/uploads/Sirene-Sale-2.gif", "/uploads/test-3.jpg"]
 
 +++
