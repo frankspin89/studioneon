@@ -1,13 +1,13 @@
 +++
 date = "2019-01-02T10:44:31+00:00"
-hero = "/uploads/HERO_050legal.jpg"
+hero = "/uploads/HERO_050legal.png"
 klant = "050legal"
 tags = ["visuele identiteit", "postitionering", "print", "online"]
 title = "Juridisch ingewikkeld?"
 [[work]]
 name = "WERK_liggend_050legal_guote"
 [work.single]
-image = "/uploads/WERK_liggend_050legal_guote.jpg"
+image = "/uploads/WERK_liggend_050legal_guote.png"
 [[work]]
 name = "WERK_liggend_050legal_visitekaartjes"
 [work.single]
