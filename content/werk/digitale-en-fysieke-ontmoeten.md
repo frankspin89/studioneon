@@ -4,6 +4,7 @@ hero = "/uploads/HERO_DAF.jpg"
 klant = "DAF"
 tags = ["visuele identiteit", "print", "online"]
 title = "Kunst en digitale techniek"
+weight = ""
 [[work]]
 name = "WERK_liggend_DAF_sfeer.jpg"
 [work.single]
@@ -24,4 +25,6 @@ name = "WERKliggend_DAF_toetsenbord.jpg"
 image = "/uploads/WERKliggend_DAF_toetsenbord.jpg"
 
 +++
-DAF is in 2016 opgezet door het [ICO Centrum voor Kunst & Cultuur](http://www.ico-kunstencentrum.nl/). Het ICO had de ambitie om een digitale en fysieke ontmoetings- en onderzoeksplek voor jongeren te creëren. DAF is nu een fysieke plek waar creatieve jongeren vanuit alle kunstdisciplines samen komen om elkaar te ontmoeten, te experimenteren, te onderzoeken, om ideeën en informatie uit te wisselen en om te creëren en ondernemen. DAF bevindt zich op het snijvlak van kunst en techniek.
+DAF bevindt zich op het snijvlak van kunst en techniek. Het is een fysieke plek waar creatieve jongeren vanuit alle kunstdisciplines samen komen om elkaar te ontmoeten, te experimenteren, te onderzoeken, om ideeën en informatie uit te wisselen en om te creëren en ondernemen.
+
+\[Anouk, met welke vraag zijn ze bij jou gekomen? Wat was de uitdaging van dit project?\] 
