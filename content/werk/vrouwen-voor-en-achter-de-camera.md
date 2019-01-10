@@ -55,6 +55,6 @@ name = "Sfeerbeeld / Vlag"
 image = ["/uploads/IFA Sfeerbeeld trap.jpg", "/uploads/IFA Vlag.jpg"]
 
 +++
-Het Internationaal Filmfestival Assen (IFA) uit Assen is een film-evenement met een feministisch karakter. Zij belichten dit onder-werp door films te vertonen met vrouwen voor en achter de camera. IFA kent een lange geschiedenis en afgelopen jaar vierden zij hun 38ste editie. Tijd voor een frisse wind. 
+Het Internationaal Filmfestival Assen (IFA) is een festival met een feministisch karakter. Zij belichten dit onderwerp door films te vertonen met vrouwen voor en achter de camera. 
 
-De nieuwe identiteit die we hebben ontwikkeld gedraagt zich als een ‘living brand’. Elke editie veranderd de typisch IFA vorm - de A op z’n kant - in een andere techniek. Maar altijd herkenbaar door de vorm en de kleur.
+De IFA vorm, de letter A op z'n kant, staat symbool voor lichtprojectie, de verbreding van het blikveld en het activisme (want vorm van een megafoon). De nieuwe identiteit die we hebben ontwikkeld gedraagt zich als een living brand. Elke editie veranderd de typische IFA vorm in een andere techniek. Passend bij die editie en altijd herkenbaar door de vorm en de kleur.
