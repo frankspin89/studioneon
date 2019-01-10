@@ -15,11 +15,11 @@ image = "/uploads/Conversies4.png"
 [[work]]
 name = "Bart"
 [work.double]
-image = ["/uploads/Conversies5.jpg", "/uploads/Conversies6.jpg"]
+image = []
 [work.double_gif]
 images = ["/uploads/portretBart.gif", "/uploads/portretJeanne.gif"]
 [work.gif]
-image = "/uploads/portretJeanne.gif"
+image = ""
 [[work]]
 name = "vis kaartjes"
 [work.single]
