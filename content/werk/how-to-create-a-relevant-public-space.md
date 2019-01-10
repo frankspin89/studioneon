@@ -1,17 +1,30 @@
 +++
 date = "2019-01-09T08:34:11+00:00"
-hero = "/uploads/Boek_AatVos.jpg"
+hero = "/uploads/HERO.png"
 klant = "Aat Vos"
 tags = ["print", "online"]
 title = "How to create a relevant public space"
+weight = ""
 [[work]]
 name = "cover png"
 [work.single]
 image = "/uploads/cover.png"
 [[work]]
+name = "Rio"
+[work.single]
+image = "/uploads/Rio.png"
+[[work]]
 name = "interview kristin png"
 [work.single]
-image = "/uploads/InterviewKristin.png"
+image = "/uploads/InterviewKristin-1.png"
+[[work]]
+name = "interview 2"
+[work.single]
+image = "/uploads/InterviewKristin2.png"
+[[work]]
+name = "geel people"
+[work.single]
+image = "/uploads/geelpeople.png"
 
 +++
 \- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
