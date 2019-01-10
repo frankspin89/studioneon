@@ -15,9 +15,9 @@ name = "home png 24"
 [work.single]
 image = "/uploads/website_home_24.png"
 [[work]]
-name = "Menu"
+name = "Menu png 24"
 [work.single]
-image = "/uploads/websiteDraagbaar4.jpg"
+image = "/uploads/website_menu_24.png"
 [[work]]
 name = "foto roze"
 [work.single]
@@ -35,9 +35,9 @@ name = "foto donker"
 [work.single]
 image = "/uploads/websiteDraagbaar8.jpg"
 [[work]]
-name = "telefoon"
+name = "telefoon png 24"
 [work.double]
-image = ["/uploads/websiteDraagbaar9.jpg", "/uploads/websiteDraagbaar10.jpg"]
+image = ["/uploads/telefoon_wit.png", "/uploads/telefoon_groen.png"]
 [[work]]
 name = "foto bruin"
 [work.single]
