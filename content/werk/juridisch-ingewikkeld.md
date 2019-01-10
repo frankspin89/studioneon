@@ -19,7 +19,7 @@ image = "/uploads/WERK_liggend_050legal_visitekaartjes bult.jpg"
 [[work]]
 name = "Quote 1 + 2"
 [work.double]
-image = ["/uploads/WERK_staand_050legal_quote-1.jpg", "/uploads/WERK_staand_050legal_quote2-1.jpg"]
+image = ["/uploads/WERK_staand_050legal_quote2.png", "/uploads/WERK_staand_050legal_quote.png"]
 [work.single]
 image = "/uploads/WERK_staand_050legal_quote-1.jpg"
 [[work]]
