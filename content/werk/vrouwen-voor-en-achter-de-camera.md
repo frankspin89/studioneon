@@ -4,6 +4,7 @@ hero = "/uploads/IFA-Hero.jpg"
 klant = "Internationaal Filmfestival Assen"
 tags = []
 title = "Vrouwen voor en achter de camera"
+weight = ""
 [[work]]
 name = "Logo"
 [work.single]
@@ -54,3 +55,6 @@ name = "Sfeerbeeld / Vlag"
 image = ["/uploads/IFA Sfeerbeeld trap.jpg", "/uploads/IFA Vlag.jpg"]
 
 +++
+Het Internationaal Filmfestival Assen (IFA) uit Assen is een film-evenement met een feministisch karakter. Zij belichten dit onder-werp door films te vertonen met vrouwen voor en achter de camera. IFA kent een lange geschiedenis en afgelopen jaar vierden zij hun 38ste editie. Tijd voor een frisse wind. 
+
+De nieuwe identiteit die we hebben ontwikkeld gedraagt zich als een ‘living brand’. Elke editie veranderd de typisch IFA vorm - de A op z’n kant - in een andere techniek. Maar altijd herkenbaar door de vorm en de kleur.
