@@ -5,9 +5,13 @@ klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
 [[work]]
-name = "abri kerst"
+name = "abri png 8"
 [work.single]
-image = "/uploads/Abri_max.jpg"
+image = "/uploads/Abri_8.png"
+[[work]]
+name = "Abri jpeg max"
+[work.single]
+image = "/uploads/Abri_max-1.jpg"
 [[work]]
 name = "telefoon + hert"
 [work.double]
