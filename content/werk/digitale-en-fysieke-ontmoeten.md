@@ -5,7 +5,6 @@ klant = "DAF"
 tags = ["visuele identiteit", "print", "online"]
 title = "Kunst en digitale techniek"
 [[work]]
-[[work]]
 name = "WERK_liggend_DAF_logo.jpg"
 [work.single]
 image = "/uploads/WERK_liggend_DAF_logo.jpg"
@@ -18,13 +17,11 @@ name = "WERK_liggend_DAF_kaart.jpg"
 [work.single]
 image = "/uploads/WERK_liggend_DAF_kaart.jpg"
 [[work]]
-name = "WERK_staand_DAF_insta2.jpg"
+name = "Insta"
+[work.double]
+image = ["/uploads/WERK_staand_DAF_insta1.jpg", "/uploads/WERK_staand_DAF_insta2.jpg"]
 [work.single]
-image = "/uploads/WERK_staand_DAF_insta2.jpg"
-[[work]]
-name = "WERK_staand_DAF_insta1.jpg"
-[work.single]
-image = "/uploads/WERK_staand_DAF_insta1.jpg"
+image = ""
 [[work]]
 name = "WERKliggend_DAF_toetsenbord.jpg"
 [work.single]
