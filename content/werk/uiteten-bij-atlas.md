@@ -11,7 +11,7 @@ image = ["/uploads/ATLAS Horeca_Logo.png", "/uploads/ATLAS Horeca_drankje-1.jpg"
 [[work]]
 name = "Sfeerbeeld / Social"
 [work.double]
-image = ["/uploads/ATLAS Horeca_sfeerfoto.png"]
+image = ["/uploads/ATLAS Horeca_sfeerfoto.png", "/uploads/Social mobiel ATLAS.png"]
 [[work]]
 name = "Brochure"
 [work.single]
