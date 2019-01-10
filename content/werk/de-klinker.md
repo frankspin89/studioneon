@@ -29,10 +29,6 @@ name = "binnenwerk 2"
 [work.single]
 image = "/uploads/DeKlinker8.jpg"
 [[work]]
-name = "stoepbord start verkoop"
-[work.single]
-image = "/uploads/DeKlinker9.jpg"
-[[work]]
 name = "stoepbord photoshop"
 [work.single]
 image = "/uploads/stoepbord_72.jpg"
@@ -46,3 +42,6 @@ name = "wc poster"
 image = "/uploads/DeKlinker12.jpg"
 
 +++
+Theater in Winschoten
+
+Naast het theater ook kunstencentrum en filmhuis.
