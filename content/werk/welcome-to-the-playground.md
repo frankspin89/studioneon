@@ -29,3 +29,6 @@ name = "Tape hout"
 name = "Tape beker / pijp"
 
 +++
+Festival Welcome to the Playground vroeg aan ons om een identiteit te ontwerpen die jongeren tussen de 14 en 20 jaar zal aanspreken. Met daarbij als restrictie dat de huisstijlen van hun partners  (waaronder Kunstbende en Rabobank) moeiteloos zouden mengen. 
+
+Bij het ontwerpen van de kleurrijke identiteit hebben we ook rekening gehouden met het geringe budget. Via de social media templates kunnen de medewerkers zelf online content maken. En met de rollen tape valt elke object te branden met de festivalstijl.
