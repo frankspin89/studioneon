@@ -35,7 +35,7 @@ image = "/uploads/stoepbord_72.jpg"
 [[work]]
 name = "poster en flyer"
 [work.double]
-image = ["/uploads/poster.png", "/uploads/DeKlinker10.jpg"]
+image = ["/uploads/folder.png", "/uploads/poster.png"]
 [[work]]
 name = "wc poster"
 [work.single]
