@@ -5,6 +5,10 @@ klant = "Drentse Theaters"
 tags = ["visuele identiteit"]
 title = "Bomvol met cultuur"
 [[work]]
+name = "Binnenwerk uitgelicht"
+[work.single]
+image = "/uploads/DRTH-krant-binnenwerk-uitgelicht-1.png"
+[[work]]
 name = "Binnenwerk kids"
 [work.single]
 image = "/uploads/DRTH-krant-binnenwerk-uitgelicht.png"
