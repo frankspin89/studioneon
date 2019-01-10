@@ -5,10 +5,6 @@ klant = "DAF"
 tags = ["visuele identiteit", "print", "online"]
 title = "Kunst en digitale techniek"
 [[work]]
-name = "WERK_liggend_DAF_logo.jpg"
-[work.single]
-image = "/uploads/WERK_liggend_DAF_logo.jpg"
-[[work]]
 name = "WERK_liggend_DAF_sfeer.jpg"
 [work.single]
 image = "/uploads/WERK_liggend_DAF_sfeer.jpg"
