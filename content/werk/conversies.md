@@ -5,9 +5,6 @@ klant = "Conversies"
 tags = ["visuele identiteit", "visitekaartjes", "social media templates", "art direction fotografie"]
 title = "Conversies"
 [[work]]
-[work.gif]
-image = "/uploads/portretBart.gif"
-[[work]]
 name = "telefoon"
 [work.double]
 image = ["/uploads/tolefoon_photoshop-1.png", "/uploads/telefoon2.png"]
@@ -19,10 +16,10 @@ image = "/uploads/Conversies4.png"
 name = "Bart"
 [work.double]
 image = ["/uploads/Conversies5.jpg", "/uploads/Conversies6.jpg"]
-[[work]]
-name = "Jeanne"
-[work.double]
-image = ["/uploads/Conversies10.jpg", "/uploads/Conversies9.jpg"]
+[work.double_gif]
+images = ["/uploads/portretBart.gif", "/uploads/portretJeanne.gif"]
+[work.gif]
+image = "/uploads/portretJeanne.gif"
 [[work]]
 name = "vis kaartjes"
 [work.single]
