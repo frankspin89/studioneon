@@ -57,4 +57,4 @@ name = "Diploma's"
 image = "/uploads/WERK_liggend_ICO_diploma's.jpg"
 
 +++
-Het ICO is een kunstencentrum voor onderwijs en amateurkunst in verschillende Drentse gemeenten. Gericht op kinderen, jongeren en volwassenen. Studio Neon werkt al geruime tijd samen met ICO. De projecten variëren van bewegwijzering bij festivals tot lesmateriaal voor leraren. 
+Het ICO is een kunstencentrum voor onderwijs en amateurkunst in verschillende Drentse gemeenten. Gericht op kinderen, jongeren en volwassenen. Studio Neon werkt al geruime tijd samen met ICO. De projecten variëren van bewegwijzering bij festivals tot lesmateriaal voor leraren.
