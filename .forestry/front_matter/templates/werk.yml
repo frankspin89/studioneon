@@ -65,6 +65,7 @@ fields:
       name: images
       label: Images
 pages:
+- content/werk/how-to-create-a-relevant-public-space.md
 - content/werk/28dining.md
 - content/werk/spacewinner.md
 - content/werk/de-klinker.md
@@ -76,7 +77,6 @@ pages:
 - content/werk/vrouwen-voor-en-achter-de-camera.md
 - content/werk/centrum-voor-de-kunsten.md
 - content/werk/draagbaar.md
-- content/werk/how-to-create-a-relevant-public-space.md
 - content/werk/mezzosopraan-in-beeld.md
 - content/werk/conversies.md
 - content/werk/uiteten-bij-atlas.md

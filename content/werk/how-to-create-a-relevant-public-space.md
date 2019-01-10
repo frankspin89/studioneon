@@ -25,6 +25,18 @@ image = "/uploads/InterviewKristin2.png"
 name = "geel people"
 [work.single]
 image = "/uploads/geelpeople.png"
+[[work]]
+name = "3 pagina's"
+[work.single]
+image = "/uploads/3boeken1.png"
+[[work]]
+name = "Quote1"
+[work.double]
+image = ["/uploads/quote1.png", "/uploads/fotoquote1.jpg"]
+[[work]]
+name = "Toronto"
+[work.single]
+image = "/uploads/toronto.png"
 
 +++
 \- 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
