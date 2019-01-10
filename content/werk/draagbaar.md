@@ -31,17 +31,13 @@ name = "prijzen"
 [work.single]
 image = "/uploads/websiteDraagbaar7.jpg"
 [[work]]
-name = "foto donker"
-[work.single]
-image = "/uploads/websiteDraagbaar8.jpg"
-[[work]]
-name = "telefoon png 24"
-[work.double]
-image = ["/uploads/telefoon_wit.png", "/uploads/telefoon_groen.png"]
-[[work]]
 name = "foto bruin"
 [work.single]
 image = "/uploads/websiteDraagbaar11.jpg"
+[[work]]
+name = "telefoon png 24"
+[work.double]
+image = ["/uploads/telefoon_wit.png", "/uploads/telefoon_groenV2.png"]
 
 +++
 Website voor Draagbaar.
