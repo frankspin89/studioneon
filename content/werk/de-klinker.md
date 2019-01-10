@@ -1,6 +1,6 @@
 +++
 date = "2019-01-09T08:21:41+00:00"
-hero = "/uploads/Herofoto.jpg"
+hero = "/uploads/DeKlinker_Hero2.jpg"
 klant = "De Klinker"
 tags = ["print", "campagne"]
 title = "De Klinker"
