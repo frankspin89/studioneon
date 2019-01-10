@@ -19,7 +19,7 @@ image = "/uploads/ATLAS-Horeca_brochure.png"
 [[work]]
 name = "Menukaart"
 [work.double]
-image = ["/uploads/ATLAS Horeca_drankje.jpg", "/uploads/ATLAS Horeca_Logo.png"]
+image = []
 [work.single]
 image = "/uploads/Menukaart-ATLAS.jpg"
 
