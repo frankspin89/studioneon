@@ -79,6 +79,6 @@ name = "quote 3"
 image = ["/uploads/quotefoto3-1.jpg", "/uploads/quote3-1.png"]
 
 +++
-Het boek ‘_How to create a relevant public space_’ bevat 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators. 
+Het boek _How to create a relevant public space_ bevat 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
 
-Het koffietafelboek bevat een prettige afwisseling tussen beeld en tekst. De visueel duidelijk te onderscheiden diepte interviews, reportages en city tours nemen je mee in het onderwerp. De initiatiefnemer van het boek, Aat Vos, heeft als motto '_always strive for imperfection_' en dit komt terug in de opmaak van het boek. 
+Het koffietafelboek bevat een prettige afwisseling tussen beeld en tekst. De visueel duidelijk te onderscheiden diepte interviews, reportages en city tours nemen je mee in het onderwerp. De initiatiefnemer van het boek Aat Vos heeft als motto '_always strive for imperfection_' en dit komt terug in de opmaak van het boek.
