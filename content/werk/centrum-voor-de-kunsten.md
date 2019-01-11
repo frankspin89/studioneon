@@ -3,7 +3,7 @@ date = "2019-01-02T14:04:38+00:00"
 hero = "/uploads/HERO_ICO-2.jpg"
 klant = "ICO"
 tags = ["print", "brochure", "lesmateriaal", "online", "poster", "bewegwijzering"]
-title = "Centrum voor de kunsten"
+title = "Handvatten voor het onderwijs en de amateurkunst"
 weight = ""
 [[work]]
 name = "WERK_liggend_ICO_lesmateriaal1-1"
@@ -42,7 +42,7 @@ image = "/uploads/WERK_liggend_ICO_bewegwijzering opendag.jpg"
 [[work]]
 name = "Poster lancering + insta"
 [work.double]
-image = ["/uploads/WERK_staand_ICO_insta-lancering.jpg", "/uploads/WERK_staand_ICO_poster lancering.jpg"]
+image = ["/uploads/WERK_staand_ICO_insta-lancering.jpg", "/uploads/WERK_staand_ICO_poster lancering.png"]
 [work.single]
 image = ""
 [[work]]
@@ -54,7 +54,7 @@ image = ""
 [[work]]
 name = "Diploma's"
 [work.single]
-image = "/uploads/WERK_liggend_ICO_diploma's.jpg"
+image = "/uploads/WERK_liggend_ICO_diploma's.png"
 
 +++
 Het ICO is een kunstencentrum voor onderwijs en amateurkunst in verschillende Drentse gemeenten. Gericht op kinderen, jongeren en volwassenen. Studio Neon werkt al geruime tijd samen met ICO. De projecten variëren van bewegwijzering bij festivals tot lesmateriaal voor leraren.
