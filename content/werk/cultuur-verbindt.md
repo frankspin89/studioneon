@@ -8,7 +8,7 @@ weight = ""
 [[work]]
 name = "WERK_liggend_DNK_logo"
 [work.gif]
-image = "/uploads/WERK_liggend_DNK_logo-1.gif"
+image = "/uploads/WERK_liggend_DNK_logo-2.gif"
 [work.single]
 image = ""
 [[work]]
