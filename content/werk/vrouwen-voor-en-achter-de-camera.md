@@ -3,7 +3,7 @@ date = "2019-01-10T09:48:29+00:00"
 hero = "/uploads/IFA-Hero.jpg"
 klant = "Internationaal Filmfestival Assen"
 tags = ["visuele identiteit", "print", "online", "website", "shirt", "vlag"]
-title = "Met een levend merk altijd actueel"
+title = "Met een living brand altijd actueel"
 weight = 7
 [[work]]
 name = "Logo"
