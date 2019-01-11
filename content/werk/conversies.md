@@ -45,6 +45,6 @@ image = "/uploads/Conversies17.jpg"
 +++
 Conversies.nl was toe aan verandering. Zonder dat bestaande klanten hen niet meer zouden herkennen. Studio Neon heeft de letterlijke magneet die zij eerder gebruikten als beeldmerk omgeturnd in het meer abstracte ‘aantrekken’.
 
-Het aantrekken komt terug in de omgang met fotografie en typografie. En Conversies.nl is blauw gebleven. Maar dan net even lekkerder.
+Het aantrekken komt terug in de omgang met fotografie en typografie. En Conversies.nl is blauw gebleven. Maar dan net even wat brutaler.
 
 Fotografie door Ronald Zijlstra
