@@ -8,7 +8,7 @@ weight = ""
 [[work]]
 name = "WERK_liggend_DNK_logo"
 [work.gif]
-image = "/uploads/WERK_liggend_DNK_logo-1.gif"
+image = "/uploads/WERK_liggend_DNK_logo-2.gif"
 [work.single]
 image = ""
 [[work]]
@@ -44,7 +44,7 @@ image = "/uploads/WERK_liggend_DNK_krant-1.jpg"
 [[work]]
 name = "Tas + visitekaartjes"
 [work.double]
-image = ["/uploads/WERK_staand_DNK_tas.jpg", "/uploads/WERK_staand_DNK_visitakaartje-1.jpg"]
+image = ["/uploads/WERK_staand_DNK_tas.png", "/uploads/WERK_staand_DNK_visitakaartje.png"]
 [work.single]
 image = ""
 [[work]]
@@ -65,9 +65,9 @@ name = "WERK_liggend_DNK_brochuregenrelijst"
 image = "/uploads/WERK_liggend_DNK_brochuregenrelijst.jpg"
 
 +++
-Cultuur vergroot de kijk op de wereld, is een aanjager voor creativiteit en brengt je in contact met nieuwe dingen. DNK is de culturele organisatie die verbindt, verrijkt en inspireerd.
+Cultuur vergroot de kijk op de wereld, is een aanjager voor creativiteit en brengt je in contact met nieuwe dingen. DNK is de culturele organisatie die verbindt, verrijkt en inspireert.
 
-Er was behoefte aan een visuele identiteit waarin hun diverse aanbod - theater, bioscoop en bibliotheek - goed naar voren kwam. Studio Neon heeft de identiteit ontworpen die deze verbindingen mogelijk maakt. Het heeft geresulteerd in een grid van stippen die je makkelijk met elkaar kunt verbinden. Het _custom made_ letterype is eigenwijs en, naar introductie, duidelijk te herkennen als DNK.
+Er was behoefte aan een visuele identiteit waarin hun diverse aanbod - theater, bioscoop en bibliotheek - goed naar voren kwam. Studio Neon heeft de identiteit ontworpen die deze verbindingen mogelijk maakt. Het heeft geresulteerd in een grid van stippen die je makkelijk met elkaar kunt verbinden. Het _custom made_ lettertype is eigenwijs en, naar introductie, duidelijk te herkennen als DNK.
 
 Naast het ontwikkelen van de identiteit hebben we een groot aantal online, print en ruimtelijke middelen ontworpen van DNK.
 
