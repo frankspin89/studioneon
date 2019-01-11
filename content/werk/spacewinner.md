@@ -31,5 +31,5 @@ name = "deur"
 image = ["/uploads/spacewinner12V2.jpg", "/uploads/spacewinner9.jpg"]
 
 +++
-Spacewinner. De 'vriend' die je helpt met ruimte.   
-De hulpvaardigheid van Spacewinner hebben wij vertaald in de spreekwolkjes met tips, de heldere iconen en de \[benaderbare fotografie\]. 
+Spacewinner. De 'vriend' die je helpt met ruimte.  
+De hulpvaardigheid van Spacewinner hebben wij vertaald in de spreekwolkjes met tips, de heldere iconen en persoonlijke fotografie.
