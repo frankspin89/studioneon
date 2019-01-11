@@ -2,7 +2,7 @@
 date = "2019-01-02T10:20:03+00:00"
 hero = "/uploads/HERO_28dining-1.jpg"
 klant = "Van der Valk Assen"
-tags = ["print", "online"]
+tags = ["print", "online", "menukaart", "give away"]
 title = "Meer dan een hotel"
 weight = ""
 [[work]]
