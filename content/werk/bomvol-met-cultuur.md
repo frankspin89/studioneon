@@ -32,7 +32,7 @@ image = ["/uploads/DRTH Quote.png", "/uploads/DRTH Sfeerbeeld Spinvis.jpg"]
 [[work]]
 name = "Covers meerdere edities"
 [work.single]
-image = "/uploads/DRTH-Edities.png"
+image = "/uploads/DRTH-Edities 3.png"
 [[work]]
 name = "GIF Letters"
 [work.gif]
@@ -49,4 +49,4 @@ image = ["/uploads/DRTH Mobiel2.png", "/uploads/DRTH Mobiel.png"]
 +++
 Vier Drentse theaters slaan de handen ineen en laten het publiek zien dat Drenthe barst van cultuur. Om zo de bezoeker te verleiden eens buiten haar stadsgrenzen een voorstelling mee te pikken.   
   
-DRTH. Vier theaters, vier letters. Het _custom made_ lettertype barst uit zijn voegen, bomvol van cultuur. Het kleurenpalet, de ronde vormen en de combinatie met beeld zorgen voor een vriendelijke uitstraling. 
+DRTH. Vier theaters, vier letters. Het _custom made_ lettertype barst uit zijn voegen, bomvol van cultuur. Het kleurenpalet, de ronde vormen en de combinatie met beeld zorgen voor een vriendelijke uitstraling.
