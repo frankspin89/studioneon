@@ -11,8 +11,8 @@ image_bottom: "/uploads/ANOUK-MARIJE.jpg"
 content_blokken:
 - title: Werkwijze
   content: |-
-    <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We stellen (kritische) vragen en kaderen zo samen de vraag. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
-          <p>Van begin tot het opleveren van het resultaat is het makkelijk en snel contact houden.</p>
+    <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen zo samen de behoefte. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
+          <p>Van het begin tot het opleveren van het resultaat is het makkelijk en snel contact houden.</p>
 - title: Studio Neon werkt<br> onder andere voor
   content: Van der Valk Assen, 28dining, 33graden, 050legal, Atlas Theater, Black&Bloom,
     Brasserie 21, Conversies.nl, Cultuurhuis De Klinker, DNK, Dokjard brouw & bistro,
