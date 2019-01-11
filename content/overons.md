@@ -15,11 +15,19 @@ content_blokken:
           <p>Van het begin tot het opleveren van het resultaat is het makkelijk en snel contact houden.</p>
 - title: Studio Neon werkt<br> onder andere voor
   content: <a href="https://www.studioneon.nl/werk/28dining/">Van der Valk Assen</a>,
-    33graden, 050legal, Atlas Theater, Black&Bloom, Brasserie 21, Conversies.nl, Cultuurhuis
-    De Klinker, DNK, Dokjard brouw&bistro, Draagbaar, Drentse Theaters, Florijn Incasso,
-    ICO, Internationaal Filmfestival Assen, Metier, MRK Media, Noorderbreedte, Het
-    Oversticht, Preuvenement Assen, Quintus, Mezzosopraan Sara Klein Horsman, Spacewinner,
-    Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touche, Van Lier
+    33graden, <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/juridisch-ingewikkeld/">050legal</a>,
+    <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/atlas-theater/">Atlas
+    Theater</a>, Black&Bloom, Brasserie 21, <a href="https://www.studioneon.nl/werk/conversies/">Conversies.nl</a>,
+    <a href="https://www.studioneon.nl/werk/de-klinker/">Cultuurhuis De Klinker</a>,
+    <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>, <a href="https://www.studioneon.nl/werk/dit-is-dokjard/">Dokjard
+    brouw&bistro</a>, <a href="https://www.studioneon.nl/werk/draagbaar/">Draagbaar</a>,
+    <a href="https://www.studioneon.nl/werk/bomvol-met-cultuur/">Drentse Theaters</a>,
+    Florijn Incasso, <a href="https://www.studioneon.nl/werk/centrum-voor-de-kunsten/">ICO</a>,
+    <a href="https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/">Internationaal
+    Filmfestival Assen</a>, Metier, MRK Media, Noorderbreedte, Het Oversticht, Preuvenement
+    Assen, Quintus, <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan
+    Sara Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
+    Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touché, Van Lier
     Catering, VolkerWessels, X-ICT
 menu:
   main:
