@@ -4,7 +4,7 @@ hero = "/uploads/spacewinner.jpg"
 klant = "Spacewinner"
 tags = ["print", "ruimtelijk", "iconen", "signing"]
 title = "De vriend die je helpt"
-weight = ""
+weight = 10
 [[work]]
 name = "verhuisdoos"
 [work.single]
