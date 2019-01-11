@@ -2,7 +2,7 @@
 date = "2019-01-02T10:57:29+00:00"
 hero = "/uploads/HERO_dnk_grid.png"
 klant = "DNK"
-tags = ["visuele identiteit", "brochure", "krant", "iconen", "print"]
+tags = ["visuele identiteit", "brochure", "iconen", "print", "theaterkrant", "lettertype"]
 title = "Cultuur verbindt"
 weight = ""
 [[work]]
