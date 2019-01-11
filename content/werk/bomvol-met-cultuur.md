@@ -2,7 +2,7 @@
 date = "2018-12-24T14:41:51+00:00"
 hero = "/uploads/DRTH HERO 2.png"
 klant = "Drentse Theaters"
-tags = ["visuele identiteit"]
+tags = ["visuele identiteit", "print", "online", "theaterkrant", "portal"]
 title = "Bomvol met cultuur"
 weight = ""
 [[work]]
