@@ -40,7 +40,7 @@ image = "/uploads/ezgif.com-optimize.gif"
 [[work]]
 name = "Macbook site"
 [work.single]
-image = "/uploads/DRTH Macbook.png"
+image = "/uploads/DRTH-Macbook.png"
 [[work]]
 name = "Mobiele site"
 [work.double]
