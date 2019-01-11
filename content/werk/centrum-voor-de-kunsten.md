@@ -3,7 +3,7 @@ date = "2019-01-02T14:04:38+00:00"
 hero = "/uploads/HERO_ICO-2.jpg"
 klant = "ICO"
 tags = ["print", "brochure", "lesmateriaal", "online", "poster", "bewegwijzering"]
-title = "Handvatten voor het onderwijs en de amateurkunst"
+title = "Tools voor onderwijs en amateurkunst"
 weight = ""
 [[work]]
 name = "WERK_liggend_ICO_lesmateriaal1-1"
