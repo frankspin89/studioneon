@@ -2,7 +2,7 @@
 date = "2018-12-06T14:04:52+00:00"
 hero = "/uploads/hero_dokjard-1.jpg"
 klant = "Dokjard"
-tags = ["visuele identiteit", "print", "online"]
+tags = ["visuele identiteit", "print", "online", "logo"]
 title = "Een bistro met eigen twist"
 weight = 1
 [[work]]
@@ -57,6 +57,8 @@ name = "Shirt"
 image = "/uploads/werk_dokjard_shirt.jpg"
 
 +++
-Bij bistro Dokjard uit Groningen zijn wij bij het hele proces aangesloten geweest. Van naamgeving tot aan de opening van het restaurant. Op de plek waar vroeger de scheepswerf was begon eigenaresse Jard haar industriele en Scandinavische brouw&bistro. 
+Bij bistro Dokjard uit Groningen zijn wij bij het hele proces aangesloten geweest. Van naamgeving tot aan de opening van het restaurant. Op de plek waar vroeger de scheepswerf was begon eigenaresse Jard haar industriële en Scandinavische brouw&bistro. 
 
-De scheepswerf - en daarmee het stuurwiel en kompas - is onze inspiratie geweest voor de visuele identiteit. De algehele uitstraling is minimalistisch Scandinavisch gehouden.
+De scheepswerf en daarmee het stuurwiel en kompas, is onze inspiratie geweest voor de visuele identiteit. De algehele uitstraling is minimalistisch Scandinavisch gehouden.
+
+Fotografie door Marleen Annema
