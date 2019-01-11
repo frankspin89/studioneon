@@ -2,7 +2,7 @@
 date = "2018-12-21T09:32:06+00:00"
 hero = "/uploads/websiteDraagbaar.jpg"
 klant = "Draagbaar"
-tags = ["website"]
+tags = ["online", "website"]
 title = "Een kapper die er niet uitziet als een kapper"
 weight = ""
 [[work]]
