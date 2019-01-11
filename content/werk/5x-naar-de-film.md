@@ -2,7 +2,7 @@
 date = "2019-01-10T15:53:46+00:00"
 hero = "/uploads/HERO_DNK.jpg"
 klant = "DNK Bioscoop"
-tags = ["campagne", "print", "online"]
+tags = ["campagne", "art direction fotografie", "print", "online"]
 title = "Wat film met je doet"
 weight = 11
 [[work]]
