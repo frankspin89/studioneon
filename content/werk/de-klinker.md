@@ -43,10 +43,3 @@ name = "wc poster"
 image = "/uploads/DeKlinker12.jpg"
 
 +++
-Cultuurhuis De Klinker bestaat uit het theater, kunstencentrum en filmhuis. In Winschoten.
-
-* kerstcampagne - inspiratie gehaald uit de foute kersttrui
-* brochure met nieuw theaterseizoen + abri voor start verkoop
-* folder + poster voor het werven van 'medeklinkers'
-
-Cultuurhuis De Klinker bestaat uit het theater, kunstencentrum en filmhuis. 
