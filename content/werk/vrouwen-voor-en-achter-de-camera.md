@@ -4,7 +4,7 @@ hero = "/uploads/IFA-Hero.jpg"
 klant = "Internationaal Filmfestival Assen"
 tags = ["visuele identiteit", "print", "online", "website", "shirt", "vlag"]
 title = "Verbreed je blik"
-weight = ""
+weight = 7
 [[work]]
 name = "Logo"
 [work.single]
