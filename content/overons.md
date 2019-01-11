@@ -16,7 +16,7 @@ content_blokken:
 - title: Studio Neon werkt<br> onder andere voor
   content: <a href="https://www.studioneon.nl/werk/28dining/">Van der Valk Assen</a>,
     33graden, <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/juridisch-ingewikkeld/">050legal</a>,
-    <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/atlas-theater/">Atlas
+    <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/atlas-theater/">ATLAS
     Theater</a>, Black&Bloom, Brasserie 21, <a href="https://www.studioneon.nl/werk/conversies/">Conversies.nl</a>,
     <a href="https://www.studioneon.nl/werk/de-klinker/">Cultuurhuis De Klinker</a>,
     <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>, <a href="https://www.studioneon.nl/werk/dit-is-dokjard/">Dokjard
