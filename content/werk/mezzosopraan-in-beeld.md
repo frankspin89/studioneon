@@ -4,7 +4,7 @@ hero = "/uploads/SARA Hero.jpg"
 klant = "Mezzosopraan Sara Klein Horsman"
 tags = ["art direction fotografie", "online", "website"]
 title = "Modern in een klassieke wereld"
-weight = ""
+weight = 2
 [[work]]
 name = "Fotografie"
 [work.single]
