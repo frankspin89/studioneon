@@ -2,7 +2,7 @@
 date = "2019-01-09T15:46:03+00:00"
 hero = "/uploads/ATLAS Horeca HERO.jpg"
 klant = "ATLAS Theater"
-tags = ["visuele identiteit", "art direction fotografie", "print", "online", "menukaart"]
+tags = ["visuele identiteit", "art direction fotografie", "logo", "print", "online", "menukaart"]
 title = "Theater & tournedos"
 weight = 6
 [[work]]
