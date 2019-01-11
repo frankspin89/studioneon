@@ -4,7 +4,7 @@ hero = "/uploads/HERO.png"
 klant = "Aat Vos"
 tags = ["print", "online", "boek", "folder", "ansichtkaarten"]
 title = "How to create a relevant public space"
-weight = ""
+weight = 4
 [[work]]
 name = "cover png"
 [work.single]
