@@ -14,12 +14,13 @@ content_blokken:
     <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen zo samen de behoefte. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
           <p>Van het begin tot het opleveren van het resultaat is het makkelijk en snel contact houden.</p>
 - title: Studio Neon werkt<br> onder andere voor
-  content: Van der Valk Assen, 28dining, 33graden, 050legal, Atlas Theater, Black&Bloom,
-    Brasserie 21, Conversies.nl, Cultuurhuis De Klinker, DNK, Dokjard brouw & bistro,
-    Draagbaar, Drentse Theaters, Florijn Incasso, ICO, Internationaal Filmfestival
-    Assen, Metier, MRK Media, Noorderbreedte, Het Oversticht, Preuvenement Assen,
-    Quintus, Mezzosopraan Sara Klein Horsman, Spacewinner, Stottercentrum Noord, Reinout
-    Hellental, The Post, Restaurant Touche, Van Lier Catering, VolkerWessels, X-ICT
+  content: <a href="https://www.studioneon.nl/werk/28dining/">Google</a>, 33graden,
+    050legal, Atlas Theater, Black&Bloom, Brasserie 21, Conversies.nl, Cultuurhuis
+    De Klinker, DNK, Dokjard brouw&bistro, Draagbaar, Drentse Theaters, Florijn Incasso,
+    ICO, Internationaal Filmfestival Assen, Metier, MRK Media, Noorderbreedte, Het
+    Oversticht, Preuvenement Assen, Quintus, Mezzosopraan Sara Klein Horsman, Spacewinner,
+    Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touche, Van Lier
+    Catering, VolkerWessels, X-ICT
 menu:
   main:
     title: Over Ons
