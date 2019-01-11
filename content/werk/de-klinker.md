@@ -4,7 +4,7 @@ hero = "/uploads/DeKlinker_Hero3.jpg"
 klant = "De Klinker"
 tags = ["campagne", "print", "online", "brochure"]
 title = "De Klinker"
-weight = ""
+weight = 9
 [[work]]
 name = "abri png 8"
 [work.single]
