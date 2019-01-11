@@ -4,7 +4,7 @@ hero = "/uploads/ATLAS Horeca HERO.jpg"
 klant = "Atlas Theater"
 tags = ["visuele identiteit", "art direction fotografie", "print", "online", "menukaart"]
 title = "Theater&tournedos"
-weight = ""
+weight = 6
 [[work]]
 name = "Logo / Sfeerbeeld"
 [work.double]
