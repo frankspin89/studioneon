@@ -70,13 +70,13 @@ name = "kaarten"
 [work.single]
 image = "/uploads/kaartjes.png"
 [[work]]
-name = "folder"
-[work.single]
-image = "/uploads/folder-1.png"
-[[work]]
 name = "quote 3"
 [work.double]
 image = ["/uploads/quotefoto3-1.jpg", "/uploads/quote3-1.png"]
+[[work]]
+name = "folder"
+[work.single]
+image = "/uploads/folder-1.png"
 
 +++
 Het boek _How to create a relevant public space_ bevat 280 pagina’s vol inspiratie voor architecten en andere creatieven, studenten, beleidsmakers en administrators.
