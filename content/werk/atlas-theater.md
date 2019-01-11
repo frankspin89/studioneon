@@ -3,7 +3,7 @@ date = "2019-01-08T12:37:05+00:00"
 hero = "/uploads/HERO_artiest in A-1.jpg"
 klant = "ATLAS Theater"
 tags = ["visuele identiteit", "print", "online", "ruimtelijk", "website", "social media", "posters", "brochure", "theaterkrant"]
-title = "ATLAS Theater"
+title = "Theater in your face"
 weight = 3
 werk = []
 [[work]]
@@ -64,6 +64,4 @@ image = "/uploads/ATLAS-Lightbrochure-binnenwerk.png"
 +++
 Het ATLAS Theater uit Emmen, gestart in 2016, trekt jaarlijks 55.000 bezoekers en heeft hiermee een sterke regiopositie. Het theater vroeg Studio Neon de bestaande stijl door te ontwikkelen.
 
-De warme kleuren en de beeldvullende fotografie belichamen 'een gezellige avond uit'. De typische A en de oranje kleur laden het merk en zorgen voor herkenbaarheid in en om Emmen. 
-
- 
+De warme kleuren en de beeldvullende fotografie belichamen 'een gezellige avond uit'. De typische A en de oranje kleur laden het merk en zorgen voor herkenbaarheid in en om Emmen.
