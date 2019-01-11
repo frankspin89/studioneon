@@ -26,9 +26,9 @@ image = ["/uploads/WERK_staand_DNK_schrijfblok V2.png", "/uploads/WERK_staand_DN
 [work.single]
 image = "/uploads/WERK_staand_DNK_schrijfblok-1.jpg"
 [[work]]
-name = "WERK_liggend_DNK_briefpapier"
+name = "Briefpapier"
 [work.single]
-image = "/uploads/WERK_liggend_DNK_briefpapier-1.jpg"
+image = "/uploads/WERK_liggend_DNK_briefpapier.png"
 [[work]]
 name = "WERK_liggend_DNK_beeld"
 [work.single]
