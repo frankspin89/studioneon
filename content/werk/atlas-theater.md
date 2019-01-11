@@ -2,7 +2,7 @@
 date = "2019-01-08T12:37:05+00:00"
 hero = "/uploads/HERO_artiest in A-1.jpg"
 klant = "ATLAS Theater"
-tags = ["visuele identiteit"]
+tags = ["visuele identiteit", "print", "online", "ruimtelijk", "website", "social media", "posters", "brochure", "theaterkrant"]
 title = "ATLAS Theater"
 weight = ""
 werk = []
