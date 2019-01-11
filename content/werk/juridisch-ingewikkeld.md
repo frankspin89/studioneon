@@ -16,7 +16,7 @@ image = "/uploads/WERK_liggend_050legal_visitekaartjes.png"
 [[work]]
 name = "GIF — Bult kaartjes "
 [work.gif]
-image = "/uploads/WERK_liggend_Bult-visitekaartjes.gif"
+image = "/uploads/WERK_liggend_Bult-visitekaartjes-1.gif"
 [work.single]
 image = ""
 [[work]]
