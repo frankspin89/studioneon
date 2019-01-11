@@ -4,7 +4,7 @@ hero = "/uploads/HERO_artiest in A-1.jpg"
 klant = "ATLAS Theater"
 tags = ["visuele identiteit", "print", "online", "ruimtelijk", "website", "social media", "posters", "brochure", "theaterkrant"]
 title = "ATLAS Theater"
-weight = ""
+weight = 3
 werk = []
 [[work]]
 name = "Brochure cover en binnenwerk"
