@@ -4,7 +4,7 @@ hero = "/uploads/WTTP Hero 2.png"
 klant = "ICO"
 tags = ["visuele identiteit", "online", "print", "ruimtelijk", "social media", "vlag", "tape"]
 title = "Welcome to the Playground"
-weight = ""
+weight = 5
 [[work]]
 name = "Social Media"
 [work.single]
