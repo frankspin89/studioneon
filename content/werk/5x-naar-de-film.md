@@ -4,7 +4,7 @@ hero = "/uploads/HERO_DNK.jpg"
 klant = "DNK Bioscoop"
 tags = ["campagne", "print", "online"]
 title = "5x naar de film"
-weight = 0
+weight = 11
 [[work]]
 [work.single]
 image = "/uploads/WERK_liggend_DNK_abri.jpg"
