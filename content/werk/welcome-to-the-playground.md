@@ -3,7 +3,7 @@ date = "2019-01-10T09:27:38+00:00"
 hero = "/uploads/WTTP Hero 2.png"
 klant = "ICO"
 tags = ["visuele identiteit", "online", "print", "ruimtelijk", "social media", "vlag", "tape"]
-title = "Welcome to the Playground"
+title = "Het festival als speelplaats"
 weight = 5
 [[work]]
 name = "Social Media"
