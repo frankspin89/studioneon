@@ -3,7 +3,7 @@ date = "2019-01-09T08:21:41+00:00"
 hero = "/uploads/DeKlinker_Hero3.jpg"
 klant = "Cultuurhuis De Klinker"
 tags = ["campagne", "print", "online", "brochure"]
-title = "Cultuur onder 1 dak"
+title = "Cultuur onder één dak"
 weight = 9
 [[work]]
 name = "abri png 8"
