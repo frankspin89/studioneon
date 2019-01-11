@@ -27,4 +27,4 @@ image = "/uploads/Menukaart-ATLAS-2.jpg"
 +++
 Het ATLAS Café en Restaurant is onderdeel van het ATLAS Theater uit Emmen. Gasten kunnen er hun arrangement of diner combineren met een voorstelling.
 
-De eigenaren vroegen ons om een identiteit te ontwerpen die duidelijk verbonden is met het theater en daarnaast een eigen karakter heeft. Het café en restaurant onderscheid zich van het theater door een eigen logo, kleurenpalet en fotogebruik. Warmte, kwaliteit en moderniteit zijn telkens uitgangspunten geweest.
+De opdrachtgever vroeg ons om een identiteit te ontwerpen die duidelijk verbonden is met het theater en daarnaast een eigen karakter heeft. Het café en restaurant onderscheiden zich van het theater met een eigen logo, kleurenpalet en fotogebruik. Warmte, kwaliteit en moderniteit zijn telkens uitgangspunten geweest.
