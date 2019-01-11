@@ -6,6 +6,10 @@ tags = ["visuele identiteit", "print", "online"]
 title = "Dokjard"
 weight = 10
 [[work]]
+name = "Sfeer 2"
+[work.single]
+image = "/uploads/WERK_liggend_dokjard_sfeer-2.jpg"
+[[work]]
 name = "Visitekaartjes"
 [work.single]
 image = "/uploads/WERK_liggend_dokjard_visitekaartje-1.jpg"
@@ -22,13 +26,9 @@ name = "Tas + bestek"
 [work.double]
 image = ["/uploads/WERK_staand_dokjard_tas.jpg", "/uploads/WERK_staand_dokjard_bestek.jpg"]
 [[work]]
-name = "Website laptop 1"
+name = "Website"
 [work.single]
-image = "/uploads/WERK_liggend_dokjard_web_home-1.jpg"
-[[work]]
-name = "Website Laptop 2"
-[work.single]
-image = "/uploads/WERK_liggend_dokjard_web_menu-1.jpg"
+image = "/uploads/WERK_liggend_dokjard_web_menu.png"
 [[work]]
 name = "Sfeerbeeld"
 [work.single]
