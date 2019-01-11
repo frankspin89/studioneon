@@ -1,9 +1,10 @@
 +++
 date = "2019-01-02T10:20:03+00:00"
 hero = "/uploads/HERO_28dining-1.jpg"
-klant = "28dining"
+klant = "Van der Valk Assen"
 tags = ["print", "online"]
-title = "28dining"
+title = "Meer dan een hotel"
+weight = ""
 [[work]]
 name = "Badjas"
 [work.single]
@@ -38,6 +39,4 @@ name = "Minibar kaartje"
 image = "/uploads/WERK_28dining_rekeningkaart.jpg"
 
 +++
-Voor 28dining, het restaurant van Hotel van der Valk, zijn diverse uitingen gemaakt. Langzaamaan worden ook de uitingen van het hotel omgeturnd. 
-
-Van menukaarten tot sokken. 
+Het restaurant, de hotelbar, het beautycentrum en het evenementenbureau van Hotel van der Valk Assen was op zoek naar eenheid. De naamvorming van deze diverse onderdelen is ontstaan door zijn ligging aan de A28. Studio Neon heeft met sfeervolle fotografie en minimalistisch design er een luxe, belevingsvolle draai aan gegeven. Er zijn diverse uitingen gemaakt. Dit varieert van menukaarten, rekening kaartjes tot sokken.
