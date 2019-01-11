@@ -25,8 +25,12 @@ name = "Kinderen"
 image = "/uploads/WTTP Kinderen.jpg"
 [[work]]
 name = "Tape hout"
+[work.single]
+image = "/uploads/WTTP-Tape-tafel.jpg"
 [[work]]
 name = "Tape beker / pijp"
+[work.double]
+image = ["/uploads/WTTP-Tape-pijp.jpg", "/uploads/WTTP-Tape-drankje.jpg"]
 
 +++
 Welcome to the Playground, het reizende festival dat telkens ergens anders zijn tenten opslaat, wil jongeren een speelplaats bieden. Een plek om te _jammen_, creatieve workshops te volgen of om los te gaan tijdens de Silent Disco.
