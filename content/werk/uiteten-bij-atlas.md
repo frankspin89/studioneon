@@ -22,7 +22,7 @@ name = "Menukaart"
 [work.double]
 image = []
 [work.single]
-image = "/uploads/Menukaart-ATLAS-2.jpg"
+image = "/uploads/Menukaart-ATLAS-2-1.jpg"
 
 +++
 Het ATLAS Café en Restaurant is onderdeel van het ATLAS Theater uit Emmen. Gasten kunnen er hun arrangement of diner combineren met een voorstelling.
