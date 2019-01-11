@@ -4,7 +4,7 @@ hero = "/uploads/HERO_DAF.jpg"
 klant = "DAF"
 tags = ["visuele identiteit", "print", "online"]
 title = "Op het snijvlak van kunst en techniek"
-weight = ""
+weight = 12
 [[work]]
 name = "WERK_liggend_DAF_sfeer.jpg"
 [work.single]
