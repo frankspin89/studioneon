@@ -11,6 +11,8 @@ name = "Social Media"
 image = "/uploads/WTTP-Social-media.png"
 [[work]]
 name = "Artwork"
+[work.single]
+image = "/uploads/WTTP-Artwork.png"
 [[work]]
 name = "Artiest"
 [work.single]
