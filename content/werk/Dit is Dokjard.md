@@ -4,7 +4,7 @@ hero = "/uploads/hero_dokjard-1.jpg"
 klant = "Dokjard"
 tags = ["visuele identiteit", "print", "online"]
 title = "Dokjard"
-weight = 10
+weight = 1
 [[work]]
 name = "Sfeer 2"
 [work.single]
