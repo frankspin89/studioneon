@@ -3,7 +3,7 @@ date = "2018-12-06T14:04:52+00:00"
 hero = "/uploads/hero_dokjard-1.jpg"
 klant = "Dokjard"
 tags = ["visuele identiteit", "print", "online"]
-title = "Dokjard"
+title = "Een bistro met eigen twist"
 weight = 1
 [[work]]
 name = "Sfeer 2"
