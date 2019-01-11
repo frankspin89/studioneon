@@ -65,7 +65,6 @@ fields:
       name: images
       label: Images
 pages:
-- content/werk/juridisch-ingewikkeld.md
 - content/werk/draagbaar.md
 - content/werk/mezzosopraan-in-beeld.md
 - content/werk/uiteten-bij-atlas.md
@@ -76,6 +75,7 @@ pages:
 - content/werk/Dit is Dokjard.md
 - content/werk/de-klinker.md
 - content/werk/how-to-create-a-relevant-public-space.md
+- content/werk/juridisch-ingewikkeld.md
 - content/werk/atlas-theater.md
 - content/werk/vrouwen-voor-en-achter-de-camera.md
 - content/werk/conversies.md
