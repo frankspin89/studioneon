@@ -71,4 +71,4 @@ Er was behoefte aan een visuele identiteit waarin hun diverse aanbod - theater, 
 
 Naast het ontwikkelen van de identiteit hebben we een groot aantal online, print en ruimtelijke middelen ontworpen van DNK.
 
-Fotografie _Sneeuwwitje_ door Marc de Groot
+Fotografie (Sneeuwwitje) door Marc de Groot
