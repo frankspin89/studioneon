@@ -62,6 +62,6 @@ name = "Theaterkrant binnenwerk"
 image = "/uploads/ATLAS-Lightbrochure-binnenwerk.png"
 
 +++
-Het ATLAS Theater uit Emmen, gestart in 2016, trekt jaarlijks 55.000 bezoekers en heeft hiermee een sterke regiopositie. Het theater vroeg Studio Neon de bestaande stijl door te ontwikkelen.
+Het ATLAS Theater uit Emmen, gestart in 2016, trekt jaarlijks 55.000 bezoekers en heeft hiermee een sterke positie in de regio. Het theater vroeg Studio Neon de bestaande stijl door te ontwikkelen.
 
 De warme kleuren en de beeldvullende fotografie belichamen 'een gezellige avond uit'. De typische A en de oranje kleur laden het merk en zorgen voor herkenbaarheid in en om Emmen.
