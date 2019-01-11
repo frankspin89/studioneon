@@ -47,6 +47,6 @@ name = "Mobiele site"
 image = ["/uploads/DRTH Mobiel2.png", "/uploads/DRTH Mobiel.png"]
 
 +++
-Vier Drentse theaters slaan de handen ineen en laten het publiek zien dat Drenthe barst van cultuur. Om zo de bezoeker te verleiden eens buiten haar stadsgrenzen een voorstelling mee te pikken.   
-  
-DRTH. Vier theaters, vier letters. Het _custom made_ lettertype barst uit zijn voegen, bomvol van cultuur. Het kleurenpalet, de ronde vormen en de combinatie met beeld zorgen voor een vriendelijke uitstraling.
+Vier Drentse theaters slaan de handen ineen en laten het publiek zien dat Drenthe barst van cultuur. Om zo de bezoeker te verleiden eens buiten de stadsgrenzen een voorstelling mee te pikken.
+
+DRTH. Vier theaters, vier letters. Het _custom made_ lettertype barst uit zijn voegen en is bomvol van cultuur. Het kleurenpalet, de ronde vormen en de combinatie met beeld zorgen voor een vriendelijke uitstraling. 
