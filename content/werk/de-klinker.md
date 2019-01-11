@@ -43,6 +43,6 @@ name = "wc poster"
 image = "/uploads/DeKlinker12.jpg"
 
 +++
-Cultuurhuis De Klinker bestaat uit een theater, kunstencentrum en filmhuis. Studio Neon ontwerpt gedurende het hele jaar verschillende uitingen voor De Klinker.
+Cultuurhuis De Klinker bestaat uit een theater, kunstencentrum en een filmhuis. Studio Neon ontwerpt gedurende het hele jaar verschillende uitingen voor De Klinker.
 
-Zoals de brochure voor het nieuwe theaterseizoen met de daarbij horende werving van nieuwe ‘medeklinkers’. De kerstcampagne zorgt elk jaar weer voor nieuwe inspiratie, in 2017 was het de foute kersttrui.
+Zoals de brochure voor het nieuwe theaterseizoen en bijbehorende werving van nieuwe ‘medeklinkers’. De kerstcampagne zorgt elk jaar weer voor nieuwe inspiratie, in 2017 was het de foute kersttrui.
