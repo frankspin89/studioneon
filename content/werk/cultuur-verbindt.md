@@ -44,7 +44,7 @@ image = "/uploads/WERK_liggend_DNK_krant-1.jpg"
 [[work]]
 name = "Tas + visitekaartjes"
 [work.double]
-image = ["/uploads/WERK_staand_DNK_visitakaartje.png"]
+image = ["/uploads/WERK_staand_DNK_tas.png", "/uploads/WERK_staand_DNK_visitakaartje.png"]
 [work.single]
 image = ""
 [[work]]
