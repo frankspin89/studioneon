@@ -3,7 +3,7 @@ date = "2019-01-09T08:34:11+00:00"
 hero = "/uploads/HERO.png"
 klant = "Aat Vos"
 tags = ["print", "online", "boek", "folder", "ansichtkaarten"]
-title = "How to create a relevant public space"
+title = "De architectuur van een boek"
 weight = 4
 [[work]]
 name = "cover png"
