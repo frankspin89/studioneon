@@ -4,7 +4,7 @@ hero = "/uploads/ConversiesHero.jpg"
 klant = "Conversies"
 tags = ["visuele identiteit", "art direction fotografie", "print", "online", "social media", "give aways"]
 title = "Van bezoeker naar klant"
-weight = ""
+weight = 8
 [[work]]
 name = "telefoon"
 [work.double]
