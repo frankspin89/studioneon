@@ -65,3 +65,5 @@ image = "/uploads/ATLAS-Lightbrochure-binnenwerk.png"
 Het ATLAS Theater uit Emmen heeft met jaarlijks 140 voorstellingen een goed gevuld programma en een sterke positie in de regio. Het theater vroeg Studio Neon de bestaande stijl door te ontwikkelen.
 
 De warme kleuren en de beeldvullende fotografie belichamen 'een gezellige avond uit'. De typische A en de oranje kleur laden het merk en zorgen voor herkenbaarheid in en om Emmen.
+
+Fotografie (foto 1) door Mark Engelen
