@@ -38,5 +38,7 @@ fields:
   label: Layout
   hidden: true
   default: contact
+- type: include
+  template: meta
 pages:
 - content/contact.md
