@@ -2,10 +2,10 @@
 label: 'Meta '
 hide_body: false
 is_partial: true
-display_field: meta_title
+display_field: meta
 fields:
 - type: field_group
-  label: Meta informatie
+  label: Zoekmachine
   name: meta
   description: Vul hier informatie voor de zoekmachine in
   fields:
