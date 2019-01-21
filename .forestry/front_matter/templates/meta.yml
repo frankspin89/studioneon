@@ -4,9 +4,28 @@ hide_body: false
 is_partial: true
 display_field: meta_title
 fields:
-- type: text
-  name: meta_title
-  label: Meta title
-- type: textarea
-  name: meta_description
-  label: Meta Description
+- type: field_group
+  label: Meta informatie
+  name: meta
+  description: Vul hier informatie voor de zoekmachine in
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: description
+    label: Description
+- type: field_group
+  name: social
+  label: Social
+  description: Vul hier informatie voor social media
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: description
+    label: Description
+  - type: file
+    name: image
+    label: Image
