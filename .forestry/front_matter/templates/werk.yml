@@ -64,6 +64,10 @@ fields:
     - type: image_gallery
       name: images
       label: Images
+- type: include
+  template: meta
+  label: Meta Informatie
+  name: meta_informatie
 pages:
 - content/werk/draagbaar.md
 - content/werk/mezzosopraan-in-beeld.md
