@@ -5,6 +5,13 @@ klant = "Dokjard"
 tags = ["visuele identiteit", "print", "online", "logo", "menukaart", "bierfles"]
 title = "Een bistro met eigen twist"
 weight = 1
+[meta]
+description = "Bij bistro Dokjard uit Groningen zijn wij bij het hele proces aangesloten geweest. Van naamgeving tot aan de opening van het restaurant."
+title = "Een bistro met eigen twist"
+[social]
+description = "Bij bistro Dokjard uit Groningen zijn wij bij het hele proces aangesloten geweest. Van naamgeving tot aan de opening van het restaurant."
+image = "/uploads/hero_dokjard.jpg"
+title = "Een bistro met eigen twist"
 [[work]]
 name = "Sfeer 2"
 [work.single]
