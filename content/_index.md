@@ -8,7 +8,7 @@ type: ''
 layout: ''
 background: ''
 meta:
-  title: Studio Neon
+  title: Studio Neon — Groningen / Zwolle
   description: Ontwerpstudio voor creatieve merkconcepten en campagnes
 social:
   title: ''
