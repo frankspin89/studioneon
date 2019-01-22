@@ -5,6 +5,13 @@ klant = "Drentse Theaters"
 tags = ["visuele identiteit", "print", "online", "theaterkrant", "portal"]
 title = "Bomvol met cultuur"
 weight = ""
+[meta]
+description = ""
+title = ""
+[social]
+description = "Vier Drentse theaters slaan de handen ineen en laten het publiek zien dat Drenthe barst van cultuur. Wij hebben ze hier een handje bij geholpen.  "
+image = "/uploads/DRTH-krant-cover.png"
+title = "Bomvol met cultuur"
 [[work]]
 name = "Logo"
 [work.single]
