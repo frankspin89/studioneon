@@ -7,3 +7,5 @@ fields:
   name: informatie
   label: Informatie
   template: meta
+pages:
+- content/_index.md
