@@ -42,6 +42,8 @@ fields:
   default: orange
 - type: include
   template: meta
+  label: Informatie
+  name: informatie
 pages:
 - content/overons.md
 - content/_index.md

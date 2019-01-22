@@ -40,5 +40,7 @@ fields:
   default: contact
 - type: include
   template: meta
+  label: Informatie
+  name: informatie
 pages:
 - content/contact.md
