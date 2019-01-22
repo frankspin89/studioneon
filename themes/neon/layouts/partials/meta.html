@@ -1,0 +1,78 @@
+
+<title>{{ with .Params.meta.title }}{{ . }}{{ else }}{{.Title}} | {{.Site.Title}}{{ end }} </title>
+<meta name="title" content="{{ with .Params.meta.title }}{{ . }}{{ else }}{{.Title}} | {{.Site.Title}} {{ end }}">
+
+{{ if .Params.meta.description  }}
+<meta name="description" content="{{ .Params.meta.description }}">
+{{ else if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else if .IsPage }}
+<meta name="description" content="{{ .Summary | plainify }}">
+{{ else }}
+<meta name="description" content="Ontwerpstudio voor creatieve merkconcepten en campagnes">
+{{ end }}
+
+{{ $permalink := .Permalink }}
+{{ with .Params.social }}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ $permalink }}">
+<meta property="og:title" content="{{.title}}">
+<meta property="og:description" content="{{ .description}}">
+{{ with .image }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ with $imageResource }}
+    {{ $src1x := (.Fill "1500x780 Center" ) }}
+    <meta property="og:image" content="{{ $src1x.RelPermalink | absURL }}">
+  {{ end }}
+{{ end }}
+
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ $permalink }}">
+<meta property="twitter:title" content="{{.title}}">
+<meta property="twitter:description" content="{{ .description}}">
+{{ with .image }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ with $imageResource }}
+    {{ $src1x := (.Fill "1500x780 Center" ) }}
+    <meta property="twitter:image" content="{{ $src1x.RelPermalink | absURL }}">
+  {{ end }}
+{{ end }}
+
+{{ else }}
+
+
+{{ $image := "/uploads/ANOUK-MARIA-MARIJE.jpg" }}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ $permalink }}">
+<meta property="og:title" content="{{.Title}} | {{.Site.Title}}">
+<meta property="og:description" content="Ontwerpstudio voor creatieve merkconcepten en campagnes">
+{{ with $image }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ with $imageResource }}
+    {{ $src1x := (.Fill "1500x780 Center" ) }}
+    <meta property="og:image" content="{{ $src1x.RelPermalink | absURL }}">
+  {{ end }}
+{{ end }}
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ $permalink }}">
+<meta property="twitter:title" content="{{.Title}} | {{.Site.Title}}">
+<meta property="twitter:description" content="Ontwerpstudio voor creatieve merkconcepten en campagnes">
+{{ with $image }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ with $imageResource }}
+    {{ $src1x := (.Fill "1500x780 Center" ) }}
+    <meta property="twitter:image" content="{{ $src1x.RelPermalink | absURL }}">
+  {{ end }}
+{{ end }}
+
+
+
+{{ end }}
