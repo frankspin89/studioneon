@@ -14,6 +14,13 @@ adres_kaarten:
 - naam: Zwolle
   google_maps_link: https://www.google.nl/maps/place/Esdoornstraat+3,+8021+WB+Zwolle/@52.5206959,6.0916264,17z/data=!3m1!4b1!4m5!3m4!1s0x47c7df3722b114ff:0x94d2dcff2f7bf0ea!8m2!3d52.5206959!4d6.0938151
   afbeelding: "/uploads/PLAY-1.jpg"
+meta:
+  title: Contact
+  description: ''
+social:
+  title: ''
+  description: ''
+  image: ''
 menu:
   main:
     title: Contact
