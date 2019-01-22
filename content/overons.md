@@ -29,6 +29,14 @@ content_blokken:
     Sara Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
     Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touché, Van Lier
     Catering, VolkerWessels, X-ICT
+meta:
+  title: Over ons
+  description: Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes.
+    We ontwerpen visuele identiteiten en doordachte on- en offline uitingen.
+social:
+  title: ''
+  description: ''
+  image: ''
 menu:
   main:
     title: Over Ons
