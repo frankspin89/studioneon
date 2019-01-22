@@ -43,5 +43,5 @@ fields:
 - type: include
   template: meta
 pages:
-- content/_index.md
 - content/overons.md
+- content/_index.md
