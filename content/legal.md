@@ -68,7 +68,7 @@ Studio Neon streeft ernaar op deze website altijd de juiste en actuele informati
 
 ## Email
 
-Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvangen of verwerkt, omdat tijdige ontvangst van emails niet kan worden gegarandeerd. Ook de veiligheid van het e-mailverkeer kan niet volledig worden gegarandeerd door de hieraan verbonden veiligheidsrisico’s. Door zonder encryptie of wachtwoordbeveiliging per e-mail met Studio Neon te corresponderen, accepteerd u dit risico.
+Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvangen of verwerkt, omdat tijdige ontvangst van emails niet kan worden gegarandeerd. Ook de veiligheid van het e-mailverkeer kan niet volledig worden gegarandeerd door de hieraan verbonden veiligheidsrisico's. Door zonder encryptie of wachtwoordbeveiliging per e-mail met Studio Neon te corresponderen, accepteerd u dit risico.
 
 ## Hyperlinks
 
