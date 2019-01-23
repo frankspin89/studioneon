@@ -3,6 +3,7 @@ title: Voorwaarden
 slug: voorwaarden
 layout: legal
 type: page
+draft: true
 
 ---
 ## Privacy verklaring
