@@ -7,9 +7,7 @@ type: page
 ---
 ## Privacy verklaring
 
-Persoonsgegevens die worden verwerkt
-Studio Neon kan persoonsgegevens over u verwerken, doordat u gebruik maakt van de diensten van Studio Neon. Studio Neon kan
-de volgende persoonsgegevens verwerken:
+Studio Neon kan persoonsgegevens over u verwerken, doordat u gebruik maakt van de diensten van Studio Neon. Studio Neon kan de volgende persoonsgegevens verwerken:
 
 * uw voor- en achternaam
 * uw adresgegevens
@@ -17,11 +15,11 @@ de volgende persoonsgegevens verwerken:
 * uw e-mailadres
 * uw IP-adres
 
-## Waarom studio neon gegevens nodig heeft
+## Waarom Studio Neon gegevens nodig heeft
 
-Studio Neon verwerkt uw persoonsgegevens om telefonisch contact met u op te kunnen nemen als u daar om verzoekt, en/of om u schriftelijk (per e-mail en/of per post) te kunnen benaderen.Daarnaast kan Studio Neon uw persoonsgegevens gebruiken in het kader van het uitvoeren van een met u gesloten overeenkomst van opdracht.
+Studio Neon verwerkt uw persoonsgegevens om telefonisch contact met u op te kunnen nemen als u daar om verzoekt, en/of om u schriftelijk (per e-mail en/of per post) te kunnen benaderen. Daarnaast kan Studio Neon uw persoonsgegevens gebruiken in het kader van het uitvoeren van een met u gesloten overeenkomst van een opdracht.
 
-## Hoe lang studio neon gegevens bewaart
+## Hoe lang Studio Neon gegevens bewaart
 
 Studio Neon bewaart uw persoonsgegevens niet langer dan strikt nodig is om de doelen te realiseren, waarvoor uw gegevens worden verzameld.
 
@@ -29,14 +27,15 @@ Studio Neon bewaart uw persoonsgegevens niet langer dan strikt nodig is om de do
 
 Studio Neon verstrekt uw persoonsgegevens alléén aan derden indien dit nodig is voor de uitvoering van een overeenkomst met u, of om te voldoen aan een wettelijke verplichting.
 
-In kaart brengen website bezoek
+## In kaart brengen website bezoek
+
 Op de website van Studio Neon worden algemene bezoekgegevens bijgehouden, waaronder het IP-adres van uw computer en het tijdstip van opvraging en gegevens die uw browser meestuurt.
 
-Deze gegevens worden gebruikt voor analyses van bezoek- en klikgedrag op de website. Studio Neon gebruikt deze informatie om de werking van de website te verbeteren.  Deze gegevens worden zo veel mogelijk geanonimiseerd en worden niet aan derden verstrekt.
+Deze gegevens worden gebruikt voor analyses van bezoek- en klikgedrag op de website. Studio Neon gebruikt deze informatie om de werking van de website te verbeteren. Deze gegevens worden zo veel mogelijk geanonimiseerd en worden niet aan derden verstrekt.
 
 ## Google Analitics
 
-Studio neon maakt gebruik van Google Analytics om bij te houden hoe gebruikers de website gebruiken. De aldus verkregen informatie wordt, met inbegrip van het adres van uw computer (IP-adres), overgebracht naar en door Google opgeslagen op servers in de Verenigde Staten.
+Studio Neon maakt gebruik van Google Analytics om bij te houden hoe gebruikers de website gebruiken. De aldus verkregen informatie wordt, met inbegrip van het adres van uw computer (IP-adres), overgebracht naar en door Google opgeslagen op servers in de Verenigde Staten.
 
 Google gebruikt deze informatie om bij te houden hoe onze website gebruikt wordt, om rapporten over de Website aan Studio Neon te kunnen verstrekken en om haar adverteerders informatie over de effectiviteit van hun campagnes te kunnen bieden. Google kan deze informatie aan derden verschaffen indien Google hiertoe wettelijk wordt verplicht, of voor zover deze derden de informatie namens Google verwerken. Studio Neon heeft hier geen invloed op.
 
@@ -44,13 +43,13 @@ Studio Neon heeft Google geen toestemming gegeven om via Studio Neon verkregen A
 
 ## Gegevens inzien, aanpassen of verwijderen
 
-U heeft het recht om uw persoonsgegevens in te zien, te corrigeren of te verwijderen. U kunt een verzoek tot inzage, correctie of verwijdering sturen naar info@studio.nl. Studio Neon zal zo snel mogelijk, maar binnen vier weken, op uw verzoek reageren.
+U heeft het recht om uw persoonsgegevens in te zien, te corrigeren of te verwijderen. U kunt een verzoek tot inzage, correctie of verwijdering sturen naar info@studioneon.nl. Studio Neon zal zo snel mogelijk, maar binnen vier weken, op uw verzoek reageren.
 
 ## Beveilingen
 
 Studio Neon neemt de bescherming van uw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan. De website van Studio Neon maakt gebruik van een betrouwbaar SSL Certificaat om te borgen dat uw persoonsgegevens niet in verkeerde handen vallen.
 
-Als u de indruk heeft dat uw gegevens niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, of indien u meer informatie wenst over de beveiliging van door Studio Neon verzamelde persoonsgegevens, neem dan contact met Studio neon op via info@studioneon.nl.
+Als u de indruk heeft dat uw gegevens niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, of indien u meer informatie wenst over de beveiliging van door Studio Neon verzamelde persoonsgegevens, neem dan contact met Studio Neon op via info@studioneon.nl.
 
 Studio Neon is als volgt te bereiken
 Adres - Esdoornstraat 3, 8021 WB Zwolle
@@ -65,20 +64,19 @@ Op het gebruik van deze website www.studioneon.nl zijn onderstaande gebruiksvoor
 
 ## Gebruik van informatie
 
-Studio Neon streeft ernaar op deze website altijd de juiste en actuele informatie aan te bieden. Hoewel deze informatie met de grootst mogelijke zorgvuldigheid is samengesteld, staat Studio Neon niet in voor de volledigheid, juistheid of actualiteit van de informatie. De juridische informatie op de website is van algemene aard en kan niet worden beschouwd als een vervanging van juridisch advies.
-Aan de informatie kunnen geen rechten woren ontleend. Studio neon aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van de informatie of de website en evenmin voor he tniet goed functioneren van de website. Op basis van het verzenden en ontvangen van informatie via de website of via e-mail kan niet zonder meer een relatie tussen Studio Neon en de gebruiker van de website ontstaan.
+Studio Neon streeft ernaar op deze website altijd de juiste en actuele informatie aan te bieden. Hoewel deze informatie met de grootst mogelijke zorgvuldigheid is samengesteld, staat Studio Neon niet in voor de volledigheid, juistheid of actualiteit van de informatie. De juridische informatie op de website is van algemene aard en kan niet worden beschouwd als een vervanging van juridisch advies. Aan de informatie kunnen geen rechten woren ontleend. Studio Neon aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van de informatie of de website en evenmin voor het niet goed functioneren van de website. Op basis van het verzenden en ontvangen van informatie via de website of via e-mail kan niet zonder meer een relatie tussen Studio Neon en de gebruiker van de website ontstaan.
 
 ## Email
 
-Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvangen of verwerkt, omdat tijdige ontvangst van emails niet kan worden gegarandeerd. Ook de veiligheid van het e-mailverkeer kan niet volledig worden gegarandeerd door de hieraan verbonden veiligheidsrisico’s. Door zonder encryptie of wachtwoordbeveiliging per e-mail met Studio Neon te corresponderen, accepteerd u dit risico.
+Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvangen of verwerkt, omdat tijdige ontvangst van emails niet kan worden gegarandeerd. Ook de veiligheid van het e-mailverkeer kan niet volledig worden gegarandeerd door de hieraan verbonden veiligheidsrisico's. Door zonder encryptie of wachtwoordbeveiliging per e-mail met Studio Neon te corresponderen, accepteerd u dit risico.
 
 ## Hyperlinks
 
-Deze website kan hyperlinks bevatten naar websites van derden. Studio Neon heeft geen invloed op websites van derden en is niet verantwoordelijk voor de beschibaarheid of inhoud daarvan. Studio neon aanvaardt dan ook geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van websites van derden.
+Deze website kan hyperlinks bevatten naar websites van derden. Studio Neon heeft geen invloed op websites van derden en is niet verantwoordelijk voor de beschikbaarheid of inhoud daarvan. Studio Neon aanvaardt dan ook geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van websites van derden.
 
 ## Intellectuele eigendomsrechten
 
-Alle publicaties en uitingen van Studio Neon zijn beschermd door auteursrecht en andere intellectuele eigendomsrechten. Behalve voor persoonlijk en niet commercieel gebruik, mag niets uit deze publicaties en uitingen op welke manier dan ook verveelvoudigd gekopieerd of op een andere manier openbaar worden gemaakt, zonder dat Studio Neon daar vooraf schiftelijke toestemming voor heeft gegeven.
+Alle publicaties en uitingen van Studio Neon zijn beschermd door auteursrecht en andere intellectuele eigendomsrechten. Behalve voor persoonlijk en niet commercieel gebruik, mag niets uit deze publicaties en uitingen op welke manier dan ook verveelvoudigd gekopieerd of op een andere manier openbaar worden gemaakt, zonder dat Studio Neon daar vooraf schriftelijke toestemming voor heeft gegeven.
 
 ## Algemene Voorwaarden
 
