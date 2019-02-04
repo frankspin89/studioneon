@@ -7,7 +7,7 @@ type: page
 ---
 ## Privacy verklaring
 
-Studio Neon kan persoonsgegevens over u verwerken, doordat u gebruik maakt van de diensten van Studio Neon. Studio Neon kan de volgende persoonsgegevens verwerken:
+Studio Neon kan uw persoonsgegevens verwerken, voor het uitvoeren van de diensten van Studio Neon. Studio Neon kan de volgende persoonsgegevens verwerken:
 
 * uw voor- en achternaam
 * uw adresgegevens
@@ -37,7 +37,7 @@ Deze gegevens worden gebruikt voor analyses van bezoek- en klikgedrag op de webs
 
 Studio Neon maakt gebruik van Google Analytics om bij te houden hoe gebruikers de website gebruiken. De aldus verkregen informatie wordt, met inbegrip van het adres van uw computer (IP-adres), overgebracht naar en door Google opgeslagen op servers in de Verenigde Staten.
 
-Google gebruikt deze informatie om bij te houden hoe onze website gebruikt wordt, om rapporten over de Website aan Studio Neon te kunnen verstrekken en om haar adverteerders informatie over de effectiviteit van hun campagnes te kunnen bieden. Google kan deze informatie aan derden verschaffen indien Google hiertoe wettelijk wordt verplicht, of voor zover deze derden de informatie namens Google verwerken. Studio Neon heeft hier geen invloed op.
+Google gebruikt deze informatie om bij te houden hoe onze website gebruikt wordt, om rapporten over de Website aan Studio Neon te kunnen verstrekken. Google kan deze informatie aan derden verschaffen indien Google hiertoe wettelijk wordt verplicht, of voor zover deze derden de informatie namens Google verwerken. Studio Neon heeft hier geen invloed op.
 
 Studio Neon heeft Google geen toestemming gegeven om via Studio Neon verkregen Analytics-informatie te gebruiken voor andere Google-diensten.
 
@@ -72,7 +72,7 @@ Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvan
 
 ## Hyperlinks
 
-Deze website kan hyperlinks bevatten naar websites van derden. Studio Neon heeft geen invloed op websites van derden en is niet verantwoordelijk voor de beschikbaarheid of inhoud daarvan. Studio Neon aanvaardt dan ook geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van websites van derden.
+Deze website bevat hyperlinks naar websites van derden. Studio Neon heeft geen invloed op websites van derden en is niet verantwoordelijk voor de beschikbaarheid of inhoud daarvan. Studio Neon aanvaardt dan ook geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van websites van derden.
 
 ## Intellectuele eigendomsrechten
 
@@ -103,7 +103,7 @@ c. het doen van onderzoek naar de mogelijkheid van de in sub b. bedoelde mogelij
 
 2\.5 Voordat tot uitvoering, productie, verveelvoudiging of openbaarmaking wordt overgegaan stellen partijen elkaar in de gelegenheid de laatste modellen, prototypes of proeven van het resultaat te controleren en goed te keuren.
 
-2\.6 Afwijkingen in het (eind)resultaat ten opzichte van hetgeen is overeengekomen zijn geen reden voor afkeuring, korting, schadevergoeding of ontbinding van de overeenkomst, wanneer deze afwijkingen, alle omstandigheden in aanmerking genomen, in redelijkheid van ondergeschikte betekenis te zijn.
+2\.6 Afwijkingen in het (eind)resultaat ten opzichte van hetgeen is overeengekomen zijn geen reden voor afkeuring, korting, schadevergoeding of ontbinding van de overeenkomst, wanneer deze afwijkingen, alle omstandigheden in aanmerking genomen, in redelijkheid van ondergeschikte betekenis zijn.
 
 2\.7 Klachten worden zo spoedig mogelijk, maar in ieder geval binnen tien werkdagen na afronding van de opdracht, schriftelijk aan de ontwerper meegedeeld, bij gebreke waarvan de opdrachtgever wordt geacht het resultaat van de opdracht volledig te hebben aanvaard.
 
@@ -119,7 +119,7 @@ c. het doen van onderzoek naar de mogelijkheid van de in sub b. bedoelde mogelij
 
 3\.5 De opdrachtgever schakelt niet zonder overleg met de ontwerper derden in wanneer dat van invloed kan zijn op de uitvoering van de opdracht zoals overeengekomen met de ontwerper. Partijen overleggen in het voorkomende geval welke andere opdrachtnemers worden ingeschakeld en welke werkzaamheden aan hen worden opgedragen.
 
-3\.6 De ontwerper is niet aansprakelijk voor fouten of gebreken in producten of diens ten van door of namens de opdrachtgever ingeschakelde derden, ongeacht of deze door de ontwerper zijn geïntroduceerd. De opdrachtgever dient deze partijen zelf aan te spreken. De ontwerper kan hierbij desgewenst assistentie verlenen.
+3\.6 De ontwerper is niet aansprakelijk voor fouten of gebreken in producten of diensten van door of namens de opdrachtgever ingeschakelde derden, ongeacht of deze door de ontwerper zijn geïntroduceerd. De opdrachtgever dient deze partijen zelf aan te spreken. De ontwerper kan hierbij desgewenst assistentie verlenen.
 
 ## 4 Rechten van intellectuele eigendom en eigendomsrechten
 
@@ -137,7 +137,7 @@ c. het doen van onderzoek naar de mogelijkheid van de in sub b. bedoelde mogelij
 
 5\.1 Wanneer de opdrachtgever volledig voldoet aan zijn financiële verplichtingen ingevolge de overeenkomst met de ontwerper, verkrijgt hij het recht tot gebruik van het resultaat van de opdracht overeenkomstig de overeengekomen bestemming. Zijn er over de bestemming geen afspraken gemaakt, dan blijft het gebruiksrecht beperkt tot dat gebruik, waarvoor de opdracht (kennelijk) is verstrekt. Het recht op gebruik is exclusief, tenzij uit de aard van de overeenkomst anders voortvloeit of anders overeengekomen.
 
-5\.2 Wanneer het resultaat mede betrekking heeft op werken waarop rechten van derden op rusten, maken partijen aanvullende afspraken hoe het gebruik van deze werken zal worden geregeld.
+5\.2 Wanneer het resultaat mede betrekking heeft werken waarop rechten van derden op rusten, maken partijen aanvullende afspraken hoe het gebruik van deze werken zal worden geregeld.
 
 5\.3 Opdrachtgever heeft zonder schriftelijke toestemming niet het recht om het resultaat van de opdracht aan te passen, ruimer of op andere wijze te (her)gebruiken of uit te voeren dan is overeengekomen, of om dit door de derden te laten doen. De ontwerper kan aan deze toestemming voorwaarden verbinden, waaronder het betalen van een billijke vergoeding.
 
@@ -152,7 +152,7 @@ c. ingeval van faillissement van de opdrachtgever, tenzij de desbetreffende rech
 
 ## 6 Honorarium en kosten
 
-6\.1 De ontwerper heeft recht op een honorarium voor het uitvoeren van de opdracht. Dit kan bestaan uit een uurtarief, een consultancy-fee, een vast bedrag, al dan niet gerelateerd aan de projectsom of uit enige andere tussen partijen overeen te komen vergoeding.
+6\.1 De ontwerper heeft recht op een honorarium voor het uitvoeren van de opdracht. Dit kan bestaan uit een uurtarief of een vast bedrag, al dan niet gerelateerd aan de projectsom of uit enige andere tussen partijen overeen te komen vergoeding.
 
 6\.2 Naast het overeengekomen honorarium komen ook de kosten die de ontwerper voor de uitvoering van de opdracht maakt, zoals bureau-, reis- en verblijfkosten, kosten voor prints, kopieën, (druk)proeven, prototypes, en kosten van derden voor advies, productie en begeleiding e.d., voor vergoeding in aanmerking. Deze kosten worden zoveel mogelijk vooraf gespecificeerd.
 
