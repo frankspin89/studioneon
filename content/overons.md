@@ -20,7 +20,7 @@ content_blokken:
     complexe te vatten in een simpele, doeltreffende, beeldtaal. \nNadat we elkaar
     leerden kennen op de kunstacademie, hebben we ervaring opgedaan in het ontwerpvak
     als zelfstandig ontwerper en bij bureaus. In 2017 hebben we onze krachten gebundeld
-    en zijn we Studio Neon gestart.  \n\n"
+    en zijn we Studio Neon gestart.  "
 - title: Studio Neon werkt<br> onder andere voor
   content: <a href="https://www.studioneon.nl/werk/28dining/">Van der Valk Assen</a>,
     33graden, <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/juridisch-ingewikkeld/">050legal</a>,
