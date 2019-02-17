@@ -156,6 +156,10 @@ svg:not(:root) {
     @apply mb-8
 }
 
+.main-content p:last-of-type {
+    @apply mb-0;
+}
+
 
 .search-input:focus + .blink
 {

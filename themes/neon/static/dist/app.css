@@ -3935,6 +3935,10 @@ svg:not(:root) {
   margin-bottom: 2rem;
 }
 
+.main-content p:last-of-type {
+  margin-bottom: 0;
+}
+
 .search-input:focus + .blink {
   animation: noblink 1s infinite;
 }
