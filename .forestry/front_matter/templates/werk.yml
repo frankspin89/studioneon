@@ -68,6 +68,7 @@ fields:
   label: Informatie
   name: informatie
 pages:
+- content/werk/de-klinker.md
 - content/werk/bomvol-met-cultuur.md
 - content/werk/Dit is Dokjard.md
 - content/werk/5x-naar-de-film.md
@@ -78,7 +79,6 @@ pages:
 - content/werk/atlas-theater.md
 - content/werk/28dining.md
 - content/werk/cultuur-verbindt.md
-- content/werk/de-klinker.md
 - content/werk/vrouwen-voor-en-achter-de-camera.md
 - content/werk/juridisch-ingewikkeld.md
 - content/werk/welcome-to-the-playground.md
