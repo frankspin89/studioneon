@@ -63,16 +63,6 @@ image = ""
 [work.single]
 image = "/uploads/3boekenV2.png"
 [[work]]
-name = "binnenwerk 1"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/mockupboek2.png"
-[[work]]
 name = "binnenwerk 2"
 [work.double]
 image = []
@@ -81,7 +71,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/mockupboek1.png"
+image = "/uploads/mockupboek1V2.png"
 [[work]]
 name = "stoepbord photoshop"
 [work.double]
