@@ -13,7 +13,7 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = ""
+name = "binnenwerk 1"
 [work.double]
 image = []
 [work.double_gif]
