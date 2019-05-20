@@ -21,7 +21,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/mockupboek1-1.png"
 [[work]]
 name = "abri png 8"
 [work.double]
