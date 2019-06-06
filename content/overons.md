@@ -27,10 +27,10 @@ content_blokken:
     <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/atlas-theater/">ATLAS
     Theater</a>, Black&Bloom, Brasserie 21, <a href="https://www.studioneon.nl/werk/conversies/">Conversies.nl</a>,
     <a href="https://www.studioneon.nl/werk/de-klinker/">Cultuurhuis De Klinker</a>,
-    <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>, <a href="https://www.studioneon.nl/werk/dit-is-dokjard/">Dokjard
-    brouw&bistro</a>, <a href="https://www.studioneon.nl/werk/draagbaar/">Draagbaar</a>,
-    <a href="https://www.studioneon.nl/werk/bomvol-met-cultuur/">Drentse Theaters</a>,
-    Florijn Incasso, <a href="https://www.studioneon.nl/werk/centrum-voor-de-kunsten/">ICO</a>,
+    De Tamboer, <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>,
+    <a href="https://www.studioneon.nl/werk/dit-is-dokjard/">Dokjard brouw&bistro</a>,
+    <a href="https://www.studioneon.nl/werk/draagbaar/">Draagbaar</a>, <a href="https://www.studioneon.nl/werk/bomvol-met-cultuur/">Drentse
+    Theaters</a>, Florijn Incasso, <a href="https://www.studioneon.nl/werk/centrum-voor-de-kunsten/">ICO</a>,
     <a href="https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/">Internationaal
     Filmfestival Assen</a>, Metier, MRK Media, Noorderbreedte, Het Oversticht, Preuvenement
     Assen, Quintus, <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan
