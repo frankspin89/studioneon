@@ -31,7 +31,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/De Tamboer_werk2-1.jpg"
+image = "/uploads/De Tamboer_werk3-1.jpg"
 [[work]]
 name = "Beeld buiten"
 [work.double]
