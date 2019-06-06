@@ -1,4 +1,5 @@
 +++
+draft = true
 hero = "/uploads/De Tamboer_hero.jpg"
 klant = "De Tamboer"
 tags = ["visuele identiteit", "print", "brochure", "krant", "posters"]
