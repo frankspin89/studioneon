@@ -51,5 +51,75 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/De Tamboer_werk5.jpg"
+[[work]]
+name = "Binnenwerk"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk6.jpg"
+[[work]]
+name = "Binnenwerk 2"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk7.jpg"
+[[work]]
+name = "Krant cover"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk8.jpg"
+[[work]]
+name = "Krant binnenwerk"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk9.jpg"
+[[work]]
+name = "Beeld"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk10.jpg"
+[[work]]
+name = "Posterwall"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk11.jpg"
+[[work]]
+name = ""
+[work.double]
+image = ["/uploads/De Tamboer_werk12.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 
 +++
