@@ -13,7 +13,7 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = ""
+name = "Brochure cover"
 [work.double]
 image = []
 [work.double_gif]
@@ -21,9 +21,9 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/De Tamboer_werk2.jpg"
 [[work]]
-name = ""
+name = "Brochure deel 1 + 2"
 [work.double]
 image = []
 [work.double_gif]
@@ -31,6 +31,6 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/De Tamboer_werk3.jpg"
 
 +++
