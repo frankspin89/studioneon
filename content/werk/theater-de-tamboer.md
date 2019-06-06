@@ -31,5 +31,25 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/De Tamboer_werk3.jpg"
+[[work]]
+name = "Beeld buiten"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk4.jpg"
+[[work]]
+name = "Binnenwerk brochure"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/De Tamboer_werk5.jpg"
 
 +++
