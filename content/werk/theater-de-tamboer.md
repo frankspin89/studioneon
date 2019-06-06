@@ -3,8 +3,8 @@ draft = true
 hero = "/uploads/De Tamboer_hero.jpg"
 klant = "De Tamboer"
 tags = []
-title = "Theater De Tamboer"
-weight = nil
+title = "De glow van theater"
+weight = 1
 work = []
 [meta]
 description = ""
