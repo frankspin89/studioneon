@@ -23,26 +23,6 @@ image = ""
 [work.single]
 image = "/uploads/Abri_8.png"
 [[work]]
-name = "telefoon + hert"
-[work.double]
-image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = "foto theaterzaal"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/DeKlinker5.jpg"
-[[work]]
 name = "cover png 24"
 [work.double]
 image = []
@@ -52,6 +32,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/3boekenV2.png"
+[[work]]
+name = "binnenwerk 2"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/mockupboek1V2.png"
 [[work]]
 name = "binnenwerk 1"
 [work.double]
@@ -63,7 +53,7 @@ image = ""
 [work.single]
 image = "/uploads/mockupboek1-1.png"
 [[work]]
-name = "binnenwerk 2"
+name = "foto theaterzaal"
 [work.double]
 image = []
 [work.double_gif]
@@ -71,7 +61,17 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/mockupboek1V2.png"
+image = "/uploads/DeKlinker5.jpg"
+[[work]]
+name = "telefoon + hert"
+[work.double]
+image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 [[work]]
 name = "stoepbord photoshop"
 [work.double]
