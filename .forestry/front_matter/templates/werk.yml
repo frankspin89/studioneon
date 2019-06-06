@@ -68,8 +68,8 @@ fields:
   label: Informatie
   name: informatie
 pages:
-- content/werk/de-klinker.md
 - content/werk/theater-de-tamboer.md
+- content/werk/de-klinker.md
 - content/werk/draagbaar.md
 - content/werk/mezzosopraan-in-beeld.md
 - content/werk/uiteten-bij-atlas.md

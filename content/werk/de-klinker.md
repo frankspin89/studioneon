@@ -13,16 +13,6 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = "abri png 8"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/Abri_8.png"
-[[work]]
 name = "cover png 24"
 [work.double]
 image = []
@@ -63,9 +53,9 @@ image = ""
 [work.single]
 image = "/uploads/DeKlinker5.jpg"
 [[work]]
-name = "telefoon + hert"
+name = "poster en flyer"
 [work.double]
-image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
+image = ["/uploads/folder.png", "/uploads/poster.png"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -83,16 +73,6 @@ image = ""
 [work.single]
 image = "/uploads/stoepbord_72.jpg"
 [[work]]
-name = "poster en flyer"
-[work.double]
-image = ["/uploads/folder.png", "/uploads/poster.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
 name = "wc poster"
 [work.double]
 image = []
@@ -102,6 +82,26 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/DeKlinker12.jpg"
+[[work]]
+name = "abri png 8"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Abri_8.png"
+[[work]]
+name = "telefoon + hert"
+[work.double]
+image = ["/uploads/DeKlinker3.png", "/uploads/telefoon_photoshop.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 
 +++
 Cultuurhuis De Klinker bestaat uit een theater, kunstencentrum en een filmhuis. Studio Neon ontwerpt gedurende het hele jaar verschillende uitingen voor De Klinker.
