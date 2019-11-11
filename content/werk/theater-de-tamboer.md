@@ -123,3 +123,8 @@ image = ""
 image = ""
 
 +++
+De seizoensbrochure van De Tamboer was jaren lang in een andere vorm gegoten. De wens van zowel de bezoeker als de opdrachtgever was om weer een hardcopy in handen te krijgen. 
+
+Studio Neon heeft naast het ontwerp van de brochure ook de identiteit een upgrade gegeven. De herkenbare lichtgevende cirkel op het dak heeft hier een prominente rol in gekregen. 
+
+Het theaterseizoen is opgedeeld in twee delen. Die samen weer een gesloten cirkel vormen, en symbool staat voor een compleet aanbod. 
