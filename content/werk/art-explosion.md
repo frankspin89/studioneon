@@ -30,7 +30,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/Art_Explosion2.png"
+image = "/uploads/Art_Explosion2.2.png"
 [[work]]
 name = "telefoon"
 [work.double]
