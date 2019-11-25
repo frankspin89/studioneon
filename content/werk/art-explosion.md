@@ -12,16 +12,6 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = "tas"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/Art_Explosion1_zwart-1.png"
-[[work]]
 name = "flyer"
 [work.double]
 image = []
@@ -31,6 +21,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/Art_Explosion2.2.png"
+[[work]]
+name = "tas"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Art_Explosion1_zwart-1.png"
 [[work]]
 name = "telefoon"
 [work.double]
@@ -44,7 +44,7 @@ image = ""
 [[work]]
 name = "betaalbare kunst"
 [work.double]
-image = ["/uploads/Art_Explosion8.png", "/uploads/Art_Explosion9.png"]
+image = ["/uploads/Art_Explosion9.png", "/uploads/Art_Explosion8.png"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -54,7 +54,7 @@ image = ""
 [[work]]
 name = "sign"
 [work.double]
-image = ["/uploads/Art_Explosion7.png", "/uploads/Art_Explosion6.png"]
+image = ["/uploads/Art_Explosion6.png", "/uploads/Art_Explosion7.png"]
 [work.double_gif]
 images = []
 [work.gif]
