@@ -21,5 +21,15 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/Art_Explosion1.png"
+[[work]]
+name = "flyer"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Art_Explosion2.png"
 
 +++
