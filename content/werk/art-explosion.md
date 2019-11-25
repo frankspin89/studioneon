@@ -20,7 +20,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/Art_Explosion1_zwart.png"
+image = "/uploads/Art_Explosion1_zwart-1.png"
 [[work]]
 name = "flyer"
 [work.double]
@@ -44,13 +44,13 @@ image = ""
 [[work]]
 name = "betaalbare kunst"
 [work.double]
-image = []
+image = ["/uploads/Art_Explosion8.png", "/uploads/Art_Explosion9.png"]
 [work.double_gif]
 images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/Art_Explosion5.png"
+image = ""
 [[work]]
 name = "sign"
 [work.double]
