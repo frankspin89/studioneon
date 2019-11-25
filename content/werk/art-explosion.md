@@ -31,5 +31,35 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/Art_Explosion2.png"
+[[work]]
+name = "telefoon"
+[work.double]
+image = ["/uploads/Art_Explosion4.png", "/uploads/Art_Explosion3.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
+name = "betaalbare kunst"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Art_Explosion5.png"
+[[work]]
+name = "sign"
+[work.double]
+image = ["/uploads/Art_Explosion7.png", "/uploads/Art_Explosion6.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 
 +++
