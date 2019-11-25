@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = "/uploads/Art_Explosion_Hero.png"
 klant = "Art Explosion"
 tags = []
