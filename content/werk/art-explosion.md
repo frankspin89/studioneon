@@ -20,7 +20,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/Art_Explosion1.png"
+image = "/uploads/Art_Explosion1_zwart.png"
 [[work]]
 name = "flyer"
 [work.double]
