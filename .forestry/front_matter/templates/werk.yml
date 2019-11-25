@@ -68,6 +68,7 @@ fields:
   label: Informatie
   name: informatie
 pages:
+- content/werk/art-explosion.md
 - content/werk/theater-de-tamboer.md
 - content/werk/mezzosopraan-in-beeld.md
 - content/werk/vrouwen-voor-en-achter-de-camera.md
