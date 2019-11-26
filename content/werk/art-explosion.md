@@ -22,16 +22,6 @@ image = ""
 [work.single]
 image = "/uploads/Art_Explosion10.png"
 [[work]]
-name = "tas"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/Art_Explosion1_zwart-1.png"
-[[work]]
 name = "telefoon"
 [work.double]
 image = ["/uploads/Art_Explosion4.png", "/uploads/Art_Explosion3.png"]
@@ -41,6 +31,16 @@ images = []
 image = ""
 [work.single]
 image = ""
+[[work]]
+name = "tas"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Art_Explosion1_zwart-1.png"
 [[work]]
 name = "betaalbare kunst"
 [work.double]
