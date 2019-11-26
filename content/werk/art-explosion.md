@@ -2,7 +2,7 @@
 hero = "/uploads/Art_Explosion_Hero.png"
 klant = "Art Explosion"
 tags = []
-title = "Art Explosion "
+title = "Betaalbare kunst"
 weight = 10
 [meta]
 description = ""
@@ -20,7 +20,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/Art_Explosion2.2.png"
+image = "/uploads/Art_Explosion10.png"
 [[work]]
 name = "tas"
 [work.double]
