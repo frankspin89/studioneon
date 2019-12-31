@@ -160,6 +160,8 @@ c. ingeval van faillissement van de opdrachtgever, tenzij de desbetreffende rech
 
 6\.4 Wanneer de uitvoering van de opdracht wordt vertraagd of onderbroken door omstandigheden die niet aan de ontwerper kunnen worden toegerekend, dan is de opdrachtgever verplicht eventuele kosten die dit met zich meebrengt te vergoeden. De ontwerper zal de kosten zoveel mogelijk proberen te beperken.
 
+6\.5 De kosten voor drukwerk die door Studio Neon worden voorgeschoten, bedragen 20% fee ten opzichte van de door de drukker geoffreerde prijs.
+
 ## 7 Betaling en opschorting
 
 7\.1 Alle betalingen dienen te worden gedaan zonder aftrek, verrekening of opschorting, binnen 30 dagen na factuurdatum, tenzij schriftelijk anders is overeengekomen of de factuur anders vermeldt.
