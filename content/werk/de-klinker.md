@@ -41,7 +41,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/mockupboek1-1.png"
+image = "/uploads/DeKlinker8_V2.jpg"
 [[work]]
 name = "foto theaterzaal"
 [work.double]
