@@ -3,7 +3,7 @@ hero = "/uploads/Art_Explosion_Hero.png"
 klant = "Art Explosion"
 tags = ["visuele identeit", "print", "social media", "tote bag"]
 title = "Betaalbare kunst"
-weight = 10
+weight = 1
 [meta]
 description = ""
 title = ""
