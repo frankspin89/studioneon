@@ -21,4 +21,4 @@ Vanwege alle coronamaatregelen blijven we met z’n allen zoveel mogelijk binnen
 
 Doordat het brein rust krijgt van prikkels, ontstaat er ruimte voor innovatieve, creatieve gedachten. Dus **get bored** en leef je uit op deze poster. Have fun! Studio Neon
 
-Verveeld? Ga naar onze GET BORED [**instagram**](https://www.instagram.com/getboredandcreate/)
+Verveeld? Ga naar onze [**instagram**](https://www.instagram.com/getboredandcreate/)
