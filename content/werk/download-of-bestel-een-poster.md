@@ -4,7 +4,7 @@ hero = "/uploads/hero header.png"
 klant = "get bored"
 tags = ["#getboredandcreate", "-", "met dank aan", "Zalsman Groningen (drukwerk)"]
 title = "download of bestel een poster"
-weight = 0
+weight = 1
 [meta]
 description = ""
 title = ""
