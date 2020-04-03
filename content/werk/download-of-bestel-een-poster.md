@@ -22,6 +22,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/work - download poster.png"
+[[work]]
+name = "Instagram"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/work - instagram.png"
 
 +++
 **Download** de digitale poster of **bestel** de papieren versie.
