@@ -5,7 +5,6 @@ klant = "get bored"
 tags = ["#getboredandcreate", "-", "met dank aan", "Zalsman Groningen (drukwerk)"]
 title = "download of bestel een poster"
 weight = 0
-work = []
 [meta]
 description = ""
 title = ""
@@ -13,9 +12,19 @@ title = ""
 description = ""
 image = ""
 title = ""
+[[work]]
+name = "Download poster"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/work - download poster.png"
 
 +++
-[**Download**]() de digitale poster of **bestel** de papieren versie.
+**Download** de digitale poster of **bestel** de papieren versie.
 
 Vanwege alle coronamaatregelen blijven we met z’n allen zoveel mogelijk binnen. We doen er alles aan om ons niet te vervelen, toch? Of is het juist de verveling die aanzet tot creativiteit?
 
