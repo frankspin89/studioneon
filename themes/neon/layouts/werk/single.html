@@ -90,8 +90,10 @@
             {{  end  }}
 
             {{ with .gif  }}
-                {{  range .  }}
+            {{  range .  }}
+                  {{ if . }}
                   <img src="{{ . }}" class="block w-full h-full mb-2">
+                  {{ end }}
                 {{ end }}
 
             {{ end  }}
