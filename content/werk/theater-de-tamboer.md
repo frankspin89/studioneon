@@ -3,7 +3,7 @@ hero = "/uploads/De Tamboer_hero.jpg"
 klant = "De Tamboer"
 tags = ["visuele identiteit", "print", "brochure", "krant", "posters"]
 title = "De glow van theater"
-weight = 1
+weight = 2
 [meta]
 description = ""
 title = ""
