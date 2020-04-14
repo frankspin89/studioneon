@@ -4088,6 +4088,10 @@ mark {
   margin-top: 1rem;
 }
 
+.hidden-forced {
+  display: none !important;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;

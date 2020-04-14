@@ -44,7 +44,7 @@ const contentBoxToggle = document.getElementById('contentBoxToggle');
 if (contentBoxToggle) {
   contentBoxToggle.addEventListener('click', function (e) {
     e.preventDefault();
-    contentBox.classList.toggle('flex');
+    contentBox.classList.toggle('hidden-forced');
     contentBoxOpenIcon.classList.toggle('hidden');
     contentBoxCloseIcon.classList.toggle('hidden');
 

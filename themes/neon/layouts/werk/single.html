@@ -17,16 +17,16 @@
     <div class="xl:px-20">
       <div id="contentBoxToggle" class="flex items-baseline mb-4 cursor-pointer">
         <div class="w-4 h-4 mr-6 mb-1 relative">
-          <svg id="contentBox-open" class="block absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8">
+          <svg id="contentBox-open" class="hidden absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8">
             <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
           </svg>
-          <svg class="hidden absolute" id="contentBox-close"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8" style="transform: rotate(45deg);">
+          <svg class="block absolute" id="contentBox-close"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8" style="transform: rotate(45deg);">
             <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
           </svg>
         </div>
         <h1 class="text-xl md:text-2xl font-medium ">{{.Title}}</h1>
       </div>
-      <div id="contentBox" class="hidden md:flex-row mx-auto md:-mx-12 mb-8 flex-col ">
+      <div id="contentBox" class="flex md:flex-row mx-auto md:-mx-12 mb-8 flex-col ">
         <div class="md:w-3/5 md:px-12 main-content">
           {{.Content}}
         </div>
@@ -45,6 +45,7 @@
           </div>
         </div>
       </div>
+
       <div class="mb-6">
       {{ with .Params.werk }}
         {{ range . }}
@@ -52,9 +53,11 @@
             {{ with $imageResource }}
               {{ $src1x := (.Fill "1100x700 Center") }}
               {{ $src2x := (.Fill "2200x1400 Center") }}
+              {{ if $src1x.RelPermalink }}
               <picture class="block w-full h-full mb-2">
                   <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
               </picture>
+              {{ end }}
             {{ end }}
           {{ end }}
         {{ end }}
@@ -74,9 +77,11 @@
                   {{ with $imageResource }}
                     {{ $src1x := (.Fill "550x700 Center") }}
                     {{ $src2x := (.Fill "1100x1400 Center") }}
+                    {{ if $src1x.RelPermalink }}
                     <picture class="block w-full h-full mb-2">
                         <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
                     </picture>
+                    {{ end }}
                   {{ end }}
                 </div>
                 {{  end  }}
@@ -109,9 +114,11 @@
                 {{ with $imageResource }}
                   {{ $src1x := (.Fill "1100x700 Center") }}
                   {{ $src2x := (.Fill "2200x1400 Center") }}
+                  {{ if $src1x.RelPermalink }}
                   <picture class="block w-full h-full mb-2">
                       <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
                   </picture>
+                  {{ end }}
                 {{ end }}
                 {{ end }}
             {{ end }}

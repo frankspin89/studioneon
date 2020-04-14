@@ -282,3 +282,7 @@ mark {
 .legal p + p {
     @apply mt-4;
 }
+
+.hidden-forced {
+    display: none !important;
+}
