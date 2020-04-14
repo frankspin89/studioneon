@@ -1,8 +1,7 @@
 +++
-draft = true
 hero = "/uploads/hero header.png"
 klant = "get bored"
-tags = ["#getboredandcreate", "-", "met dank aan", "Zalsman Groningen (drukwerk)"]
+tags = ["#getboredandcreate", "-", "credits", "Zalsman Groningen (drukwerk)", "Wiebe Brandsema (online)"]
 title = "download of bestel een poster"
 weight = 1
 [meta]
