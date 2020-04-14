@@ -56,7 +56,7 @@ image = ""
 +++
 [**Download**](https://www.wiebebrandsema.nl/studio-neon/ "Download de poster") de digitale poster of [**bestel**](https://www.wiebebrandsema.nl/studio-neon/ "Bestel de poster") de papieren versie.
 
-Vanwege alle coronamaatregelen blijven we met z’n allen zoveel mogelijk binnen. We doen er alles aan om ons niet te vervelen, toch? Of is het juist de verveling die aanzet tot creativiteit?
+Vanwege alle coronamaatregelen blijven we met ze allen zoveel mogelijk binnen. We doen er alles aan om ons niet te vervelen, toch? Of is het juist de verveling die aanzet tot creativiteit?
 
 Doordat het brein rust krijgt van prikkels, ontstaat er ruimte voor innovatieve, creatieve gedachten. Dus **get bored** en leef je uit op deze poster. Have fun! Studio Neon
 
