@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/hero header-1.png"
+hero = "/uploads/hero header-2.png"
 klant = "get bored"
 tags = ["#getboredandcreate", "-", "credits", "Zalsman Groningen (drukwerk)", "Wiebe Brandsema (online)"]
 title = "Download of bestel de poster"
