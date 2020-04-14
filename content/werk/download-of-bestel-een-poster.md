@@ -23,6 +23,16 @@ image = ""
 [work.single]
 image = "/uploads/work - download poster.png"
 [[work]]
+name = "Resultaat posters"
+[work.double]
+image = ["/uploads/work - double - poster2.jpg", "/uploads/work - double - poster.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
 name = "Instagram"
 [work.double]
 image = []
