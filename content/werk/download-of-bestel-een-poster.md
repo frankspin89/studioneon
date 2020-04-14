@@ -45,7 +45,7 @@ image = "/uploads/work - instagram.png"
 [[work]]
 name = "Making of - Maria"
 [work.double]
-image = ["/uploads/work - double - tekst2.jpg", "/uploads/work - single - making of-1.jpg"]
+image = ["/uploads/work - double - tekst2.png", "/uploads/work - single - making of-1.jpg"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -55,7 +55,7 @@ image = ""
 [[work]]
 name = "Making of - stapel posters"
 [work.double]
-image = ["/uploads/work - single - making of2.jpg", "/uploads/work - double - tekst.jpg"]
+image = ["/uploads/work - single - making of2.jpg", "/uploads/work - double - tekst.png"]
 [work.double_gif]
 images = []
 [work.gif]
