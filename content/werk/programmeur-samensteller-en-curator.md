@@ -13,16 +13,6 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = "visitekaartjes"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/Resultaat-Blue-Luna-8.jpg"
-[[work]]
 name = "gifje logo"
 [work.double]
 image = []
@@ -72,5 +62,25 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/Resultaat-Blue-Luna-7.jpg"
+[[work]]
+name = "shirt + kubus"
+[work.double]
+image = ["/uploads/Resultaat-Blue-Luna-5.jpg", "/uploads/kubus.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
+name = "visitekaartjes"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Resultaat-Blue-Luna-8.jpg"
 
 +++
