@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = "/uploads/Resultaat-Blue-Luna-1.jpg"
 klant = "BLUE LUNA"
 tags = ["visuele identiteit", "print", " online", "posters"]
