@@ -13,7 +13,7 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = "poster"
+name = "visitekaartjes"
 [work.double]
 image = []
 [work.double_gif]
@@ -21,7 +21,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/Resultaat-Blue-Luna-6.jpg"
+image = "/uploads/Resultaat-Blue-Luna-8.jpg"
 [[work]]
 name = "gifje logo"
 [work.double]
@@ -52,5 +52,25 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/Resultaat-Blue-Luna-3.jpg"
+[[work]]
+name = "poster"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Resultaat-Blue-Luna-6.jpg"
+[[work]]
+name = "2x posters"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Resultaat-Blue-Luna-7.jpg"
 
 +++
