@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = "/uploads/Maple-1_kleiner.jpg"
 klant = "MAPLE FESTIVAL"
 tags = ["print", "ruimtelijk", " signing"]
