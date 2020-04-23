@@ -1,6 +1,6 @@
 +++
 hero = "/uploads/Maple-1_kleiner.jpg"
-klant = "MAPLE FESTIVAL"
+klant = "CREATIEVE COOPERATIE"
 tags = ["print", "ruimtelijk", " signing"]
 title = "creatieve workshops en binnenkijkers"
 weight = nil
@@ -93,4 +93,4 @@ image = ""
 image = "/uploads/Maple-11.jpg"
 
 +++
-Wij ontwikkelden de visuele identiteit en signing voor het festival met creatieve workshops en binnenkijkers.
+Wij ontwikkelden de visuele identiteit en signing voor het Maple Festival met creatieve workshops en binnenkijkers.
