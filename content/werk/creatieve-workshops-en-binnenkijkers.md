@@ -2,8 +2,8 @@
 hero = "/uploads/Maple-1_kleiner.jpg"
 klant = "CREATIEVE COOPERATIE"
 tags = ["print", "ruimtelijk", " signing"]
-title = "creatieve workshops en binnenkijkers"
-weight = nil
+title = "Creatieve workshops en binnenkijkers"
+weight = 2
 [meta]
 description = ""
 title = ""
