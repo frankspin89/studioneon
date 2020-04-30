@@ -3,7 +3,7 @@ hero = "/uploads/Resultaat-Blue-Luna-1.jpg"
 klant = "BLUE LUNA"
 tags = ["visuele identiteit", "print", " online", "posters"]
 title = "Programmeur, samensteller en curator"
-weight = nil
+weight = 2
 [meta]
 description = ""
 title = ""
