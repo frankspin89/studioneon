@@ -1,6 +1,6 @@
 +++
 hero = "/uploads/Resultaat-Blue-Luna-1.jpg"
-klant = "BLUE LUNA"
+klant = "Blue Luna"
 tags = ["visuele identiteit", "print", " online", "posters"]
 title = "Programmeur, samensteller en curator"
 weight = 2
