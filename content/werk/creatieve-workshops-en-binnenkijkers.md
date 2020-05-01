@@ -1,7 +1,7 @@
 +++
 hero = "/uploads/Maple-1_kleiner.jpg"
-klant = "CREATIEVE COOPERATIE"
-tags = ["print", "ruimtelijk", " signing"]
+klant = "Creatieve Coöperatie"
+tags = ["print", "ruimtelijk", " signing", "buttons"]
 title = "Creatieve workshops en binnenkijkers"
 weight = 2
 [meta]
@@ -83,4 +83,6 @@ image = ""
 image = "/uploads/Maple-11.jpg"
 
 +++
-Voor de Creatieve Coöperatie ontwikkelden wij de visuele identiteit en signing voor het Maple Festival. Een festival met creatieve workshops en de mogelijkheid om een kijkje te nemen bij de verschillende kunstenaars en ondernemers. 
+Voor de Creatieve Coöperatie ontwikkelden wij de visuele identiteit en signing voor het jaarlijkse Maple Festival. Een festival met creatieve workshops en de mogelijkheid om een kijkje te nemen bij de verschillende kunstenaars en ondernemers.
+
+Gezien het beperkte budget hebben we gezocht naar betaalbare middelen die jaarlijks weer opnieuw in te zetten zijn, met de mogelijkheid tot uitbreiding. Zoals de dozen voor bewegwijzering en de buttons voor elke ondernemer. 
