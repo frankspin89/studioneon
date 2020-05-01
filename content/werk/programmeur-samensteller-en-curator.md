@@ -83,3 +83,4 @@ image = ""
 image = "/uploads/Resultaat-Blue-Luna-8.jpg"
 
 +++
+Artiestenbureau Blue Luna is als een programmeur, samensteller en curator van zakelijke evenementen. Daarom hebben we de nieuwe identiteit gebaseerd op een blokkenschema. Een flexibel systeem waarmee ze alle kanten op kunnen.
