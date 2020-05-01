@@ -4,7 +4,7 @@ hero = "/uploads/websiteDraagbaar.jpg"
 klant = "Draagbaar"
 tags = ["online", "website"]
 title = "Een kapper die er niet uitziet als een kapper"
-weight = 100
+weight = 19
 [meta]
 description = ""
 title = ""
