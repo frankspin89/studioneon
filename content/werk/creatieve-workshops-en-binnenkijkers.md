@@ -72,19 +72,9 @@ image = ""
 [work.single]
 image = "/uploads/Maple-8.jpg"
 [[work]]
-name = "bordjes+dozen"
-[work.double]
-image = ["/uploads/MapleV3-2.jpg", "/uploads/MapleV3-1.jpg"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
 name = "houten pijlen + dozen"
 [work.double]
-image = ["/uploads/Maple-9.jpg", "/uploads/Maple-10.jpg"]
+image = ["/uploads/MapleV3-3.jpg", "/uploads/Maple-10.jpg"]
 [work.double_gif]
 images = []
 [work.gif]
