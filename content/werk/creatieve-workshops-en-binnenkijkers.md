@@ -83,4 +83,4 @@ image = ""
 image = "/uploads/Maple-11.jpg"
 
 +++
-Voor de Creatieve Coöperatie ontwikkelden wij de visuele identiteit en signing voor het Maple Festival. Een festival bestaande uit creatieve workshops en de mogelijkheid om een kijkje te nemen bij de verschillende kunstenaars en ondernemers. 
+Voor de Creatieve Coöperatie ontwikkelden wij de visuele identiteit en signing voor het Maple Festival. Een festival met creatieve workshops en de mogelijkheid om een kijkje te nemen bij de verschillende kunstenaars en ondernemers. 
