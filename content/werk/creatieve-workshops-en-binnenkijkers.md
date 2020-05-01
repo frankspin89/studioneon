@@ -22,16 +22,6 @@ image = ""
 [work.single]
 image = "/uploads/MapleV2-2.jpg"
 [[work]]
-name = "papier gasten"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/Maple-4.jpg"
-[[work]]
 name = "Asselien naambordje"
 [work.double]
 image = []
@@ -61,6 +51,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/Maple-8.jpg"
+[[work]]
+name = "papier gasten"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/Maple-4.jpg"
 [[work]]
 name = "houten pijlen + dozen"
 [work.double]
