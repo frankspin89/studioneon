@@ -22,16 +22,6 @@ image = ""
 [work.single]
 image = "/uploads/MapleV2-2.jpg"
 [[work]]
-name = "papier Anouk handen"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/MapleV2-3.jpg"
-[[work]]
 name = "papier gasten"
 [work.double]
 image = []
