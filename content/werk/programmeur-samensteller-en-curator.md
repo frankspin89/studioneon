@@ -2,7 +2,7 @@
 hero = "/uploads/Resultaat-Blue-Luna-1.jpg"
 klant = "Blue Luna"
 tags = ["visuele identiteit", "print", " online", "posters"]
-title = "Programmeur, samensteller en curator"
+title = "Flexibel blokkenschema"
 weight = 2
 [meta]
 description = ""
@@ -83,4 +83,6 @@ image = ""
 image = "/uploads/Resultaat-Blue-Luna-8.jpg"
 
 +++
-Artiestenbureau Blue Luna is als een programmeur, samensteller en curator van zakelijke evenementen. Daarom hebben we de nieuwe identiteit gebaseerd op een blokkenschema. Een flexibel systeem waarmee ze alle kanten op kunnen.
+Artiestenbureau Blue Luna is als een programmeur, samensteller en curator van zakelijke evenementen. Daarom hebben we de nieuwe identiteit gebaseerd op een blokkenschema. Een flexibel systeem van vlakken waarmee ze alle kanten op kunnen. Verschillend maar toch herkenbaar.
+
+Helderblauw, zachtroze en retro geel. Wij gaven het artiestenbureau een uitgebreid kleurenpalet zodat zij kunnen doen waar ze goed in zijn. Namelijk, exact de juiste sfeer neerzetten. Altijd al met artiesten en nu ook met kleuren.
