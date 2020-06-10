@@ -20,6 +20,26 @@ images = []
 [work.gif]
 image = ""
 [work.single]
+image = "/uploads/jaarbericht-7.png"
+[[work]]
+name = "Pagina 13"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/jaarbericht-13.png"
+[[work]]
+name = "Pagina 17"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
 image = "/uploads/jaarbericht-17.png"
 [[work]]
 name = "Pagina 25"
