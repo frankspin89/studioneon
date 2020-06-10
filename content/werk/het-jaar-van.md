@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = "/uploads/hero-ico-jaarbericht.png"
 klant = "ICO"
 tags = ["brochure", "infographics"]
