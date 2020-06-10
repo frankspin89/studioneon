@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/hero-ico-jaarbericht.png"
+hero = "/uploads/hero-ico-jaarbericht-v2.png"
 klant = "ICO"
 tags = ["brochure", "infographics"]
 title = "Het jaar van"
