@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/hero-ico-jaarbericht-v2.png"
+hero = "/uploads/hero-ico-jaarbericht-v3.png"
 klant = "ICO"
 tags = ["brochure", "infographics"]
 title = "Het jaar van"
@@ -32,6 +32,16 @@ image = ""
 [work.single]
 image = "/uploads/jaarbericht-13.png"
 [[work]]
+name = "Graphic + tekening"
+[work.double]
+image = ["/uploads/halve-ico-jaarbericht3.png", "/uploads/halve-ico-jaarbericht4.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
 name = "Pagina 17"
 [work.double]
 image = []
@@ -61,6 +71,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/jaarbericht-33.png"
+[[work]]
+name = "Kunstbende"
+[work.double]
+image = ["/uploads/halve-ico-jaarbericht.png", "/uploads/halve-ico-jaarbericht2.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 [[work]]
 name = "Pagina 55"
 [work.double]
