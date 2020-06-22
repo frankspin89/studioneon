@@ -3,7 +3,7 @@ hero = "/uploads/hero-2.png"
 klant = "Preuvenement Assen"
 tags = ["identiteit", "website", "drukwerk"]
 title = "Festival vibes"
-weight = nil
+weight = 3
 [meta]
 description = ""
 title = ""
