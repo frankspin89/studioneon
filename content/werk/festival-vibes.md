@@ -3,7 +3,7 @@ hero = "/uploads/hero-2.png"
 klant = "Preuvenement Assen"
 tags = ["identiteit", "website", "drukwerk"]
 title = "Cultuur kan je ‘preuve’"
-weight = 3
+weight = 1
 [meta]
 description = ""
 title = ""
