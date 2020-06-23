@@ -103,6 +103,4 @@ image = ""
 image = "/uploads/jaarbericht-69.png"
 
 +++
-Een jaarverslag saai? Hoeft niet.  
-
-Nadat we de visuele identiteit van het ICO Centrum voor kunst & cultuur hadden ontworpen was het jaarverslag het eerste middel dat in deze stijl gerealiseerd werd. De combinatie van een uitgesproken font, eigen typografie en echte ‘cultuur’ kleuren nemen de lezer mee in de wereld van het ICO.
+Een jaarverslag saai? Hoeft niet.  Nadat we de visuele identiteit van het ICO Centrum voor kunst & cultuur hadden ontworpen was het jaarverslag het eerste middel dat in deze stijl gerealiseerd werd. De combinatie van een uitgesproken font, eigen typografie en echte ‘cultuur’ kleuren nemen de lezer mee in de wereld van het ICO.
