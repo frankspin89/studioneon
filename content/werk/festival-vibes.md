@@ -2,7 +2,7 @@
 hero = "/uploads/hero-2.png"
 klant = "Preuvenement Assen"
 tags = ["identiteit", "website", "drukwerk"]
-title = "Festival vibes"
+title = "Cultuur kan je ‘preuve’"
 weight = 3
 [meta]
 description = ""
@@ -83,3 +83,6 @@ image = ""
 image = ""
 
 +++
+Elk jaar trapt Assen haar culturele & culinaire seizoen af met het Preuvenement.  De visuele identiteit, met jaarlijks een ander kleurenpalet, is van onze hand. Altijd paars en ieder jaar gecombineerd met een andere kleur. 
+
+Het begon met een logo in custom made font en dit is doorgevoerd in bijv. iconen en plattegronden. Een herkenbare, eigen beeldtaal. Hieronder is een kleine greep uit de middelen te zien. De middelenmix met onder andere de website, social media, pollepels, flyers en t-shirts zorgen voor de juiste impact.
