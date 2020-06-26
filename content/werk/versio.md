@@ -3,7 +3,7 @@ hero = "/uploads/hero-1.png"
 klant = "VERSIO"
 tags = []
 title = "Versio"
-weight = nil
+weight = 1
 [meta]
 description = ""
 title = ""
