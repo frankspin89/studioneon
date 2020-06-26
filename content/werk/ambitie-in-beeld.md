@@ -1,4 +1,5 @@
 +++
+draft = true
 hero = "/uploads/hero-1.png"
 klant = "Staatsbosbeheer"
 tags = ["drukwerk", "illustratie"]
@@ -73,3 +74,6 @@ image = ""
 image = ""
 
 +++
+Staatsbosbeheer heeft ambities voor het Waddengebied. Deze ambities hebben wij vormgegeven in streefbeelden. Van concept tot uitvoering.
+
+Hoe vliegen vogels rond de wereld? Waar komt de natuur in aanraking met de mens? Hoe zet je lef in als het gaat om verandering? Wat voor invloed heeft het klimaat op het Waddengebied? Al deze vraagstukken hebben we in kaart gebracht op een illustratieve manier. Voor ieder begrijpelijk en aantrekkelijk om naar te kijken.
