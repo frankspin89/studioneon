@@ -1,9 +1,8 @@
 +++
-draft = true
 hero = "/uploads/hero-1.png"
 klant = "VERSIO"
 tags = []
-title = "VERSIO"
+title = "Versio"
 weight = nil
 [meta]
 description = ""
@@ -63,7 +62,17 @@ image = ""
 [work.single]
 image = "/uploads/5-beker.jpeg"
 [[work]]
-name = ""
+name = "kaart"
+[work.double]
+image = ["/uploads/9-kaart.jpg", "/uploads/8-kaart.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
+name = "pennen"
 [work.double]
 image = []
 [work.double_gif]
@@ -71,6 +80,26 @@ images = []
 [work.gif]
 image = ""
 [work.single]
+image = "/uploads/10pennen.jpg"
+[[work]]
+name = "mat"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
 image = ""
+[work.single]
+image = "/uploads/11-mat.jpg"
+[[work]]
+name = "foto"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/12-foto.jpg"
 
 +++
