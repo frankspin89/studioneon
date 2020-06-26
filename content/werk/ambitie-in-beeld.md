@@ -1,6 +1,5 @@
 +++
-draft = true
-hero = "/uploads/hero-1.png"
+hero = ""
 klant = "Staatsbosbeheer"
 tags = ["drukwerk", "illustratie"]
 title = "Ambitie in beeld"
