@@ -42,5 +42,35 @@ images = []
 image = ""
 [work.single]
 image = ""
+[[work]]
+name = "telefoon + foto"
+[work.double]
+image = ["/uploads/7-foto.jpg", "/uploads/6-telefoon.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
+name = "beker"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/5-beker.jpeg"
+[[work]]
+name = ""
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 
 +++
