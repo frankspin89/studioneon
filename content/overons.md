@@ -9,6 +9,8 @@ images_top:
 - "/uploads/DANCE.jpg"
 image_bottom: "/uploads/ANOUK-MARIJE.jpg"
 content_blokken:
+- title: ''
+  content: ''
 - title: Werkwijze
   content: |-
     <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen zo samen de behoefte. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
@@ -22,19 +24,21 @@ content_blokken:
     als zelfstandig ontwerper en bij bureaus. In 2017 hebben we onze krachten gebundeld
     en zijn we Studio Neon gestart.  "
 - title: Studio Neon werkt<br> onder andere voor
-  content: <a href="https://www.studioneon.nl/werk/28dining/">Van der Valk Assen</a>,
-    33graden, <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/juridisch-ingewikkeld/">050legal</a>,
+  content: Staatsbosbeheer, Creatieve Coöperatie, <a href="https://www.studioneon.nl/werk/art-explosion/">,
+    <a href="https://www.studioneon.nl/werk/28dining/">Van der Valk Assen</a>, 33graden,
+    <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/juridisch-ingewikkeld/">050legal</a>,
     <a href="https://0mt0xh7eifanhq.preview.forestry.io/werk/atlas-theater/">ATLAS
     Theater</a>, Black&Bloom, Brasserie 21, <a href="https://www.studioneon.nl/werk/conversies/">Conversies.nl</a>,
     <a href="https://www.studioneon.nl/werk/de-klinker/">Cultuurhuis De Klinker</a>,
-    De Tamboer, <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>,
+    <a href="https://www.studioneon.nl/werk/theater-de-tamboer/">De Tamboer, <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>,
     <a href="https://www.studioneon.nl/werk/dit-is-dokjard/">Dokjard brouw&bistro</a>,
     <a href="https://www.studioneon.nl/werk/draagbaar/">Draagbaar</a>, <a href="https://www.studioneon.nl/werk/bomvol-met-cultuur/">Drentse
     Theaters</a>, Florijn Incasso, <a href="https://www.studioneon.nl/werk/centrum-voor-de-kunsten/">ICO</a>,
     <a href="https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/">Internationaal
-    Filmfestival Assen</a>, Metier, MRK Media, Noorderbreedte, Het Oversticht, Preuvenement
-    Assen, Quintus, <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan
-    Sara Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
+    Filmfestival Assen</a>, Metier, MRK Media, Noorderbreedte, Het Oversticht, <a
+    href="https://www.studioneon.nl/werk/festival-vibes/>Preuvenement Assen, Quintus,
+    <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan Sara
+    Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
     Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touché, Van Lier
     Catering, VolkerWessels, X-ICT
 meta:
