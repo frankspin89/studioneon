@@ -4,7 +4,7 @@ hero = "/uploads/DRTH HERO 2.png"
 klant = "Drentse Theaters"
 tags = ["visuele identiteit", "print", "online", "theaterkrant", "portal"]
 title = "Bomvol met cultuur"
-weight = nil
+weight = 8
 [meta]
 description = ""
 title = ""

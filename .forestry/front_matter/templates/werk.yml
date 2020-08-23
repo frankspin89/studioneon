@@ -10,6 +10,8 @@ fields:
 - type: number
   name: weight
   label: Weight
+  config:
+    required: true
 - type: file
   name: hero
   label: Hero
