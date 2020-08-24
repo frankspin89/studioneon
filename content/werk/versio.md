@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/hero-1.png"
+hero = "/uploads/10pennen.jpg"
 klant = "VERSIO"
 tags = []
 title = "Versio"
