@@ -28,7 +28,7 @@ content_blokken:
     Explosion, <a href="https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/"<a/>
     Bleu Luna, <a href="https://www.studioneon.nl/werk/welcome-to-the-playground/</a>
     Welkom to the Playground, <a href="https://www.studioneon.nl/werk/28dining/">Van
-    der Valk Assen</a>, 33graden, <a href="https:https://www.studioneon.nl/werk/juridisch-ingewikkeld/">050legal</a>,
+    der Valk Assen</a>, 33graden, <a href="https://www.studioneon.nl/werk/juridisch-ingewikkeld/">050legal</a>,
     <a href="https://www.studioneon.nl/werk/atlas-theater/">ATLAS Theater</a>, Black&Bloom,
     Brasserie 21, <a href="https://www.studioneon.nl/werk/conversies/">Conversies.nl</a>,
     <a href="https://www.studioneon.nl/werk/de-klinker/">Cultuurhuis De Klinker</a>,
