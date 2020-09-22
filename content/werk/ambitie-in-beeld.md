@@ -3,7 +3,7 @@ hero = "/uploads/hero-staatsbosbeheer.png"
 klant = "Staatsbosbeheer"
 tags = ["drukwerk", "illustratie"]
 title = "Ambitie in beeld"
-weight = 1
+weight = 2
 [meta]
 description = ""
 title = ""
