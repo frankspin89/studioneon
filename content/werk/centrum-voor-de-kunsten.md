@@ -13,7 +13,7 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = "Kaarten"
+name = "KBW lesmateriaal"
 [work.double]
 image = []
 [work.double_gif]
@@ -21,7 +21,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/post2.png"
+image = "/uploads/post.png"
 [[work]]
 name = "Jaarberslag"
 [work.double]
@@ -33,7 +33,7 @@ image = ""
 [work.single]
 image = "/uploads/post3.png"
 [[work]]
-name = "KBW lesmateriaal"
+name = "Kaarten"
 [work.double]
 image = []
 [work.double_gif]
@@ -41,7 +41,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/post.png"
+image = "/uploads/post2.png"
 [[work]]
 name = "Tas + VK"
 [work.double]
