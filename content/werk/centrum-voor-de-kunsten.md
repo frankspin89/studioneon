@@ -1,60 +1,107 @@
 +++
 date = "2019-01-02T14:04:38+00:00"
-hero = "/uploads/HERO_ICO-2.jpg"
+hero = "/uploads/hero-1.png"
 klant = "ICO"
-tags = ["print", "brochure", "lesmateriaal", "online", "poster", "bewegwijzering"]
+tags = ["print", "brochure", "lesmateriaal", "online", "poster"]
 title = "Tools voor onderwijs en amateurkunst"
-weight = ""
+weight = 1
+[meta]
+description = ""
+title = ""
+[social]
+description = ""
+image = ""
+title = ""
 [[work]]
-name = "WERK_liggend_ICO_lesmateriaal1-1"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_lesmateriaal1-1.jpg"
-[[work]]
-name = "WERK_liggend_ICO_lesmateriaal2"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_lesmateriaal2.jpg"
-[[work]]
-name = "WERK_liggend_ICO_lesmateriaal3"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_lesmateriaal3.jpg"
-[[work]]
-name = "Sfeerbeeld kind"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_sfeer.jpg"
-[[work]]
-name = "Poster open dag + insta"
+name = "Kaarten"
 [work.double]
-image = ["/uploads/WERK_staand_ICO_poster opendag.jpg", "/uploads/WERK_staand_ICO_insta opendag-2.jpg"]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post2.png"
+[[work]]
+name = "Jaarberslag"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post3.png"
+[[work]]
+name = "KBW lesmateriaal"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post.png"
+[[work]]
+name = "Tas + VK"
+[work.double]
+image = ["/uploads/post4.png", "/uploads/post5.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
 [work.single]
 image = ""
 [[work]]
-name = "WERK_liggend_ICO_beeld opendag.jpg"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_beeld opendag.jpg"
-[[work]]
-name = "WERK_liggend_ICO_folder opendag.jpg"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_folder opendag.jpg"
-[[work]]
-name = "WERK_liggend_ICO_bewegwijzering opendag.jpg"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_bewegwijzering opendag.jpg"
-[[work]]
-name = "Poster lancering + insta"
+name = "Kaart - bijen"
 [work.double]
-image = ["/uploads/WERK_staand_ICO_insta-lancering.jpg", "/uploads/WERK_staand_ICO_poster lancering.png"]
+image = ["/uploads/post6.png", "/uploads/post7.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
 [work.single]
 image = ""
 [[work]]
-name = "Sfeer + lesmateriaal kbw"
+name = "Stickers"
 [work.double]
-image = ["/uploads/WERK_staand_DAF_sfeer.jpg", "/uploads/WERK_staand_ICO_lesmateriaal kbw.jpg"]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post8.png"
+[[work]]
+name = "Posters"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post9.png"
+[[work]]
+name = "Vlaggen"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post10.png"
+[[work]]
+name = "Naambutton"
+[work.double]
+image = ["/uploads/post11.png", "/uploads/post12.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
 [work.single]
 image = ""
-[[work]]
-name = "Diploma's"
-[work.single]
-image = "/uploads/WERK_liggend_ICO_diploma's.png"
 
 +++
 Het ICO is een kunstencentrum voor onderwijs en amateurkunst in verschillende Drentse gemeenten. Gericht op kinderen, jongeren en volwassenen. Studio Neon werkt al geruime tijd samen met ICO. De projecten variëren van bewegwijzering bij festivals tot lesmateriaal voor leraren.
