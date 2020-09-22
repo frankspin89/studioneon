@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/hero-staatsbosbeheer.png"
+hero = "/uploads/hero-staatsbosbeheer.jpeg"
 klant = "Staatsbosbeheer"
 tags = ["drukwerk", "illustratie"]
 title = "Ambitie in beeld"
