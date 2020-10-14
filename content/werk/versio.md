@@ -1,8 +1,8 @@
 +++
 hero = "/uploads/hero-versio.png"
 klant = "VERSIO"
-tags = []
-title = "Versio"
+tags = ["visuele identiteit", " online", " print"]
+title = "Welkom online"
 weight = 1
 [meta]
 description = ""
@@ -34,7 +34,7 @@ image = "/uploads/2-welkom.png"
 [[work]]
 name = "telefoon + foto"
 [work.double]
-image = ["/uploads/4-foto.png", "/uploads/3-telefoon.png"]
+image = ["/uploads/7-foto.jpg", "/uploads/6-telefoon.jpg"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -44,7 +44,7 @@ image = ""
 [[work]]
 name = "telefoon + foto"
 [work.double]
-image = ["/uploads/7-foto.jpg", "/uploads/6-telefoon.jpg"]
+image = ["/uploads/4-foto.png", "/uploads/3-telefoon.png"]
 [work.double_gif]
 images = []
 [work.gif]
