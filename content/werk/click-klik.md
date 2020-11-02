@@ -30,7 +30,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/resultaat-de-grote-dag3_kleiner2.jpg"
+image = "/uploads/bruidsfotograaf_degrotedag_portfolio_004.jpg"
 [[work]]
 name = "verpakking"
 [work.double]
@@ -100,7 +100,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/resultaat-de-grote-dag12.jpg"
+image = "/uploads/bruidsfotograaf_degrotedag_portfolio_006.jpg"
 
 +++
 Visuele identiteit voor bruidsfotograaf met een klik met mensen.
