@@ -2,7 +2,7 @@
 hero = "/uploads/resultaat-de-grote-dag_kleiner.jpg"
 klant = "DE GROTE DAG"
 tags = ["visuele identiteit", "online", " drukwerk"]
-title = "CLICK/KLIK"
+title = "Click / Klik"
 weight = 1
 [meta]
 description = ""
