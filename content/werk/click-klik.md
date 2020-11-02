@@ -80,7 +80,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/resultaat-de-grote-dag9.jpg"
+image = "/uploads/resultaat-de-grote-dag9_2.jpg"
 [[work]]
 name = "tas"
 [work.double]
