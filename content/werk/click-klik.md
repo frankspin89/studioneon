@@ -23,7 +23,7 @@ image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag2_kleiner.png"
 [[work]]
-name = ""
+name = "foto"
 [work.double]
 image = []
 [work.double_gif]
@@ -31,6 +31,6 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/resultaat-de-grote-dag3_kleiner2.jpg"
 
 +++
