@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/resultaat-de-grote-dag_kleiner2.jpg"
+hero = "/uploads/bruidsfotograaf_degrotedag_portfolio_007.jpg"
 klant = "DE GROTE DAG"
 tags = ["visuele identiteit", "online", " drukwerk"]
 title = "Click / Klik"
