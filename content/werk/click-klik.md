@@ -34,7 +34,7 @@ image = "/uploads/bruidsfotograaf_degrotedag_portfolio_004.jpg"
 [[work]]
 name = "verpakking"
 [work.double]
-image = ["/uploads/resultaat-de-grote-dag4.png", "/uploads/resultaat-de-grote-dag5.png"]
+image = ["/uploads/resultaat-de-grote-dag4achtergrond.jpg", "/uploads/resultaat-de-grote-dag5.png"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -50,7 +50,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/resultaat-de-grote-dag6_web.jpg"
+image = "/uploads/resultaat-de-grote-dag6_achtergrond.jpg"
 [[work]]
 name = "telefoon2"
 [work.double]
@@ -60,7 +60,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/resultaat-de-grote-dag7.jpg"
+image = "/uploads/resultaat-de-grote-dag7_achtergrond.jpg"
 [[work]]
 name = "foto"
 [work.double]
