@@ -100,7 +100,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/bruidsfotograaf_degrotedag_portfolio_006.jpg"
+image = "/uploads/bruidsfotograaf_degrotedag_portfolio_001.jpg"
 
 +++
 Visuele identiteit voor bruidsfotograaf met een klik met mensen.
