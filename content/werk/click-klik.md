@@ -1,5 +1,5 @@
 +++
-hero = "/uploads/resultaat-de-grote-dag_kleiner.jpg"
+hero = "/uploads/resultaat-de-grote-dag_kleiner2.jpg"
 klant = "DE GROTE DAG"
 tags = ["visuele identiteit", "online", " drukwerk"]
 title = "Click / Klik"
