@@ -52,16 +52,6 @@ image = ""
 [work.single]
 image = ""
 [[work]]
-name = "laptop"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/resultaat-de-grote-dag9_2.jpg"
-[[work]]
 name = "foto"
 [work.double]
 image = []
@@ -111,6 +101,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag7_achtergrond.jpg"
+[[work]]
+name = "laptop"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/resultaat-de-grote-dag9_2.jpg"
 [[work]]
 name = "tas"
 [work.double]
