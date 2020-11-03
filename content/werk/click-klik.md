@@ -42,15 +42,15 @@ image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag15.png"
 [[work]]
-name = "verpakking"
+name = "logo 2"
 [work.double]
-image = ["/uploads/resultaat-de-grote-dag4achtergrond.jpg", "/uploads/resultaat-de-grote-dag5.png"]
+image = []
 [work.double_gif]
 images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/resultaat-de-grote-dag13.png"
 [[work]]
 name = "foto"
 [work.double]
@@ -62,15 +62,15 @@ image = ""
 [work.single]
 image = "/uploads/28062019_maarten_franchina-124-3.jpg"
 [[work]]
-name = "logo 2"
+name = "verpakking"
 [work.double]
-image = []
+image = ["/uploads/resultaat-de-grote-dag4achtergrond.jpg", "/uploads/resultaat-de-grote-dag5.png"]
 [work.double_gif]
 images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/resultaat-de-grote-dag13.png"
+image = ""
 [[work]]
 name = "logo 3"
 [work.double]
@@ -112,16 +112,6 @@ image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag9_2.jpg"
 [[work]]
-name = "tas"
-[work.double]
-image = ["/uploads/resultaat-de-grote-dag10.jpg", "/uploads/resultaat-de-grote-dag11.jpg"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
 name = "foto"
 [work.double]
 image = []
@@ -131,6 +121,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/bruidsfotograaf_degrotedag_001-15.jpg"
+[[work]]
+name = "tas"
+[work.double]
+image = ["/uploads/resultaat-de-grote-dag10.jpg", "/uploads/resultaat-de-grote-dag11.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 
 +++
 Visuele identiteit voor bruidsfotograaf met een klik met mensen.
