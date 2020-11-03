@@ -32,6 +32,16 @@ image = ""
 [work.single]
 image = "/uploads/bruidsfotograaf_degrotedag_portfolio_004.jpg"
 [[work]]
+name = "patroon"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/resultaat-de-grote-dag15.png"
+[[work]]
 name = "verpakking"
 [work.double]
 image = ["/uploads/resultaat-de-grote-dag4achtergrond.jpg", "/uploads/resultaat-de-grote-dag5.png"]
@@ -51,6 +61,16 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag9_2.jpg"
+[[work]]
+name = "foto"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/bruidsfotograaf_degrotedag_portfolio_003.jpg"
 [[work]]
 name = "logo 2"
 [work.double]
@@ -92,16 +112,6 @@ image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag7_achtergrond.jpg"
 [[work]]
-name = "foto"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/resultaat-de-grote-dag8.jpg"
-[[work]]
 name = "tas"
 [work.double]
 image = ["/uploads/resultaat-de-grote-dag10.jpg", "/uploads/resultaat-de-grote-dag11.jpg"]
@@ -120,7 +130,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/bruidsfotograaf_degrotedag_portfolio_001.jpg"
+image = "/uploads/bruidsfotograaf_degrotedag_portfolio_058.jpg"
 
 +++
 Visuele identiteit voor bruidsfotograaf met een klik met mensen.
