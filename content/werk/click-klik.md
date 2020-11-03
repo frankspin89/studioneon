@@ -70,7 +70,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/bruidsfotograaf_degrotedag_portfolio_003.jpg"
+image = "/uploads/28062019_maarten_franchina-124-3.jpg"
 [[work]]
 name = "logo 2"
 [work.double]
@@ -130,7 +130,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/bruidsfotograaf_degrotedag_portfolio_058.jpg"
+image = "/uploads/bruidsfotograaf_degrotedag_001-15.jpg"
 
 +++
 Visuele identiteit voor bruidsfotograaf met een klik met mensen.
