@@ -42,6 +42,36 @@ image = ""
 [work.single]
 image = ""
 [[work]]
+name = "laptop"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/resultaat-de-grote-dag9_2.jpg"
+[[work]]
+name = "logo 2"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/resultaat-de-grote-dag13.png"
+[[work]]
+name = "logo 3"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/resultaat-de-grote-dag14.png"
+[[work]]
 name = "telefoon"
 [work.double]
 image = []
@@ -71,16 +101,6 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/resultaat-de-grote-dag8.jpg"
-[[work]]
-name = "laptop"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/resultaat-de-grote-dag9_2.jpg"
 [[work]]
 name = "tas"
 [work.double]
