@@ -103,6 +103,4 @@ image = ""
 image = "/uploads/12-foto.jpg"
 
 +++
-De merkbelofte van Versio veranderde van ‘beste prijs’ naar ‘beste service’. Door deze nieuwe koers was er ook behoefte aan een rebranding.
-
-De slogan ‘Welkom Online’ is verbeeld met een glimlach. deze vormt een herkenbare basis voor de nieuwe visuele indentiteit van Versio.
+De merkbelofte van Versio veranderde van ‘beste prijs’ naar ‘beste service’. Door deze nieuwe koers was er ook behoefte aan een rebranding. De slogan ‘Welkom Online’ is verbeeld met een glimlach, deze vormt een herkenbare basis voor de nieuwe visuele indentiteit van Versio.
