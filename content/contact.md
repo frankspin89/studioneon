@@ -7,7 +7,7 @@ adres_1: '<a href="https://www.google.nl/maps/place/Esdoornstraat+3,+8021+WB+Zwo
   target="_blank" class="block">Esdoornstraat 3<br>8021 WB Zwolle</a>
 
 '
-adres_2: "<a href=\"https://www.google.nl/maps/place/Grotehondstraat+44,+2018+Antwerpen/@51.2059374,4.4269617,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3f710ca23721d:0x84ea309b7267b52d!8m2!3d51.2059374!4d4.4291504\"
+adres_2: "\n<a href=\"https://www.google.nl/maps/place/Grotehondstraat+44,+2018+Antwerpen/@51.2059374,4.4269617,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3f710ca23721d:0x84ea309b7267b52d!8m2!3d51.2059374!4d4.4291504\"
   \ntarget=\"_blank\" class=\"block mb-8\">Grotehondstraat 44<br>2018 Antwerpen</a>"
 adres_kaarten:
 - naam: Zwolle
