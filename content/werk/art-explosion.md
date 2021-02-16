@@ -2,7 +2,7 @@
 hero = "/uploads/Art_Explosion_Hero.png"
 klant = "Art Explosion"
 tags = ["visuele identeit", "print", "social media", "tote bag"]
-title = "Betaalbare kunst"
+title = "Kunst te koop"
 weight = 4
 [meta]
 description = ""
@@ -63,3 +63,4 @@ image = ""
 image = ""
 
 +++
+Voor Art Explosion wilden we helder communiceren, passend bij de betaalbare kunstmarkt. Niet afschrikken en het juist laagdrempelig houden. De gimmick zit ‘m in het duidelijk herkenbare beeldmerk; waar de vorm van de A (Art Explosion) en de vorm van een verkoopbord samenkomen.
