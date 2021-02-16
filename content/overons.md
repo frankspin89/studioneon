@@ -17,7 +17,7 @@ content_blokken:
           <p>Van het begin tot het opleveren van het resultaat is het makkelijk en snel contact houden.</p>
 - title: Wie zijn wij?
   content: "Maria Bos, Anouk Sinke en Marije Esselink vormen samen Studio Neon. Vanuit
-    de studio’s in Groningen en Zwolle werken we aan campagnes, visuele identiteiten
+    de studio’s in Zwolle en Antwerpen werken we aan campagnes, visuele identiteiten
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
     complexe te vatten in een simpele, doeltreffende, beeldtaal. \nNadat we elkaar
     leerden kennen op de kunstacademie, hebben we ervaring opgedaan in het ontwerpvak
