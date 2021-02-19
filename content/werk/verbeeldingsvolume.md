@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = "/uploads/hero-cmo.png"
 klant = "cultuur met je oren"
 tags = ["visuele identiteit", " app", "website"]
