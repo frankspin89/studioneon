@@ -18,7 +18,7 @@ image = []
 [work.double_gif]
 images = []
 [work.gif]
-image = "/uploads/filmpje.mov"
+image = "/uploads/filmpje-kort-1.gif"
 [work.single]
 image = "/uploads/werk-1.png"
 [[work]]
