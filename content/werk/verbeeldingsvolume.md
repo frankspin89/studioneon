@@ -20,7 +20,7 @@ images = []
 [work.gif]
 image = "/uploads/filmpje-kort-1.gif"
 [work.single]
-image = "/uploads/werk-1.png"
+image = ""
 [[work]]
 name = "Tekst"
 [work.double]
