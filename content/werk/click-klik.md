@@ -133,4 +133,6 @@ image = ""
 image = ""
 
 +++
-Visuele identiteit voor bruidsfotograaf met een klik met mensen.
+Een klik is op meerdere manieren uit te leggen. Voor bruidsfotograaf Stephan van De Grote Dag geldt dat hij met z'n camera de dag vastlegt, maar ook zeker dat hij het bruidspaar en de sfeer goed aanvoelt. In deze visuele identiteit is de klik van de camera en de _spark_ van een klik tussen mensen gevat in één beeld. 
+
+Het font is _custom made_ en hierdoor uniek. Ook wanneer er op social kanalen alleen de 'D' wordt gebruikt is het herkenbaar als De Grote Dag. De kleur is tijdloos en ingetogen zwart zodat de foto's het beste tot hun recht komen.
