@@ -16,13 +16,10 @@ content_blokken:
     <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen zo samen de behoefte. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
           <p>Van het begin tot eind is het makkelijk en snel contact houden.</p>
 - title: Wie zijn wij?
-  content: "Maria Bos, Anouk Sinke en Marije Esselink vormen samen Studio Neon. Vanuit
+  content: Maria Bos, Anouk Sinke en Marije Esselink vormen samen Studio Neon. Vanuit
     de studio’s in Zwolle en Antwerpen werken we aan campagnes, visuele identiteiten
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
-    complexe te vatten in een simpele, doeltreffende, beeldtaal. \nNadat we elkaar
-    leerden kennen op de kunstacademie, hebben we ervaring opgedaan in het ontwerpvak
-    als zelfstandig ontwerper en bij bureaus. In 2017 hebben we onze krachten gebundeld
-    en zijn we Studio Neon gestart.  "
+    complexe te vatten in een simpele, doeltreffende, beeldtaal.
 - title: Studio Neon werkt<br> onder andere voor
   content: ANNO, Staatsbosbeheer, Creatieve Coöperatie, Versio, <a href="https://www.studioneon.nl/werk/art-explosion/"</a>Art
     Explosion, <a href="https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/"<a/>
