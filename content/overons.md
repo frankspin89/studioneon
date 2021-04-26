@@ -23,7 +23,7 @@ content_blokken:
 - title: Studio Neon werkt<br> onder andere voor
   content: ANNO, Staatsbosbeheer, Creatieve Coöperatie, Versio, <a href="https://www.studioneon.nl/werk/art-explosion/"</a>Art
     Explosion, <a href="https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/"<a/>
-    Bleu Luna, <a href="https://www.studioneon.nl/werk/welcome-to-the-playground/</a>
+    Blue Luna, <a href="https://www.studioneon.nl/werk/welcome-to-the-playground/</a>
     Welkom to the Playground, <a href="https://www.studioneon.nl/werk/28dining/">Van
     der Valk Assen</a>, 33graden, <a href="https://www.studioneon.nl/werk/juridisch-ingewikkeld/">050legal</a>,
     <a href="https://www.studioneon.nl/werk/atlas-theater/">ATLAS Theater</a>, Black&Bloom,
@@ -34,10 +34,9 @@ content_blokken:
     <a href="https://www.studioneon.nl/werk/draagbaar/">Draagbaar</a>, <a href="https://www.studioneon.nl/werk/bomvol-met-cultuur/">Drentse
     Theaters</a>, Florijn Incasso, <a href="https://www.studioneon.nl/werk/centrum-voor-de-kunsten/">ICO</a>,
     <a href="https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/">Internationaal
-    Filmfestival Assen</a>, Metier, MRK Media, Noorderbreedte, Het Oversticht, <a
-    href="https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement Assen, Quintus,
-    <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan Sara
-    Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
+    Filmfestival Assen</a>, Metier, MRK Film, Noorderbreedte, Het Oversticht, <a href="https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement
+    Assen, Quintus, <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan
+    Sara Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
     Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touché, Van Lier
     Catering, VolkerWessels, X-ICT
 meta:
