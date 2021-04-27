@@ -14,7 +14,7 @@ content_blokken:
 - title: Werkwijze
   content: |-
     <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen zo samen de behoefte. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
-          <p>Van het begin tot eind is het makkelijk en snel contact houden.</p>
+          <p>Van begin tot eind is het makkelijk en snel contact houden.</p>
 - title: Wie zijn wij?
   content: Maria Bos, Anouk Sinke en Marije Esselink vormen samen Studio Neon. Vanuit
     de studio’s in Zwolle en Antwerpen werken we aan campagnes, visuele identiteiten
