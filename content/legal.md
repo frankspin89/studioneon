@@ -51,12 +51,7 @@ Studio Neon neemt de bescherming van uw gegevens serieus en neemt passende maatr
 
 Als u de indruk heeft dat uw gegevens niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, of indien u meer informatie wenst over de beveiliging van door Studio Neon verzamelde persoonsgegevens, neem dan contact met Studio Neon op via info@studioneon.nl.
 
-Studio Neon is als volgt te bereiken
-Adres - Esdoornstraat 3, 8021 WB Zwolle
-\- Akkerstraat 99, 9717 KZ Groningen
-Inschrijvingsnummer KVK - 69856206
-Telefoon - 06 28 68 61 07
-E-mailadres - info@studioneon.nl
+Studio Neon is als volgt te bereiken Adres - Esdoornstraat 3, 8021 WB Zwolle Inschrijvingsnummer KVK - 69856206 Telefoon - 085 130 14 23 E-mailadres - info@studioneon.nl
 
 ## Disclaimer
 
@@ -64,11 +59,11 @@ Op het gebruik van deze website www.studioneon.nl zijn onderstaande gebruiksvoor
 
 ## Gebruik van informatie
 
-Studio Neon streeft ernaar op deze website altijd de juiste en actuele informatie aan te bieden. Hoewel deze informatie met de grootst mogelijke zorgvuldigheid is samengesteld, staat Studio Neon niet in voor de volledigheid, juistheid of actualiteit van de informatie. De juridische informatie op de website is van algemene aard en kan niet worden beschouwd als een vervanging van juridisch advies. Aan de informatie kunnen geen rechten woren ontleend. Studio Neon aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van de informatie of de website en evenmin voor het niet goed functioneren van de website. Op basis van het verzenden en ontvangen van informatie via de website of via e-mail kan niet zonder meer een relatie tussen Studio Neon en de gebruiker van de website ontstaan.
+Studio Neon streeft ernaar op deze website altijd de juiste en actuele informatie aan te bieden. Hoewel deze informatie met de grootst mogelijke zorgvuldigheid is samengesteld, staat Studio Neon niet in voor de volledigheid, juistheid of actualiteit van de informatie. De juridische informatie op de website is van algemene aard en kan niet worden beschouwd als een vervanging van juridisch advies. Aan de informatie kunnen geen rechten worden ontleend. Studio Neon aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van de informatie of de website en evenmin voor het niet goed functioneren van de website. Op basis van het verzenden en ontvangen van informatie via de website of via e-mail kan niet zonder meer een relatie tussen Studio Neon en de gebruiker van de website ontstaan.
 
 ## Email
 
-Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvangen of verwerkt, omdat tijdige ontvangst van emails niet kan worden gegarandeerd. Ook de veiligheid van het e-mailverkeer kan niet volledig worden gegarandeerd door de hieraan verbonden veiligheidsrisico's. Door zonder encryptie of wachtwoordbeveiliging per e-mail met Studio Neon te corresponderen, accepteerd u dit risico.
+Studio Neon garandeert niet dat aan haar gezonden e-mails (tijdig) worden ontvangen of verwerkt, omdat tijdige ontvangst van emails niet kan worden gegarandeerd. Ook de veiligheid van het e-mailverkeer kan niet volledig worden gegarandeerd door de hieraan verbonden veiligheidsrisico's. Door zonder encryptie of wachtwoordbeveiliging per e-mail met Studio Neon te corresponderen, accepteert u dit risico.
 
 ## Hyperlinks
 
