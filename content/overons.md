@@ -21,16 +21,16 @@ content_blokken:
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
     complexe te vatten in een simpele, doeltreffende, beeldtaal.
 - title: Studio Neon werkt<br> onder andere voor
-  content: "ANNO, Aat Vos, <a href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
+  content: "Aat Vos, ANNO, <a href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
     Creatieve Coöperatie, \n<a href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a
     href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
-    Luna</a>, \n<a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk
-    Assen</a>, \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
+    Luna</a>, <a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk Assen</a>,
+    \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
     De Loohoeve, Dijkoraad, Energy Academy, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
     <a href=\"https://www.studioneon.nl/werk/de-klinker/\">Cultuurhuis De Klinker</a>,
     <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">Theater De Tamboer,
     <a href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
-    brouw&bistro</a>, \n<a href=\"https://www.studioneon.nl/werk/draagbaar/\">Draagbaar</a>,
+    brouw&bistro</a>, <a href=\"https://www.studioneon.nl/werk/draagbaar/\">Draagbaar</a>,
     <a href=\"https://www.studioneon.nl/werk/bomvol-met-cultuur/\">Drentse Theaters</a>,
     <a href=\"https://www.studioneon.nl/werk/centrum-voor-de-kunsten/\">ICO</a>, <a
     href=\"https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/\">Internationaal
