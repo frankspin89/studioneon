@@ -28,8 +28,8 @@ content_blokken:
     \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
     De Loohoeve, Dijkoraad, Energy Academy, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
     <a href=\"https://www.studioneon.nl/werk/de-klinker/\">Cultuurhuis De Klinker</a>,
-    <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">Theater De Tamboer,<a
-    href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
+    <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">Theater De Tamboer,
+    <a href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
     brouw&bistro</a>, <a href=\"https://www.studioneon.nl/werk/draagbaar/\">Draagbaar</a>,
     <a href=\"https://www.studioneon.nl/werk/bomvol-met-cultuur/\">Drentse Theaters</a>,
     <a href=\"https://www.studioneon.nl/werk/centrum-voor-de-kunsten/\">ICO</a>, <a
