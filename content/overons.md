@@ -21,22 +21,22 @@ content_blokken:
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
     complexe te vatten in een simpele, doeltreffende, beeldtaal.
 - title: Studio Neon werkt<br> onder andere voor
-  content: "ANNO, \n<a href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\" Staatsbosbeheer</a>,
-    \nCreatieve Coöperatie, \nVersio,  \n<a href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\"<a/>
-    Blue Luna, \n<a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk
-    Assen</a>, \n\n3,\n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS
-    Theater</a>, Black&Bloom, Brasserie 21, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
+  content: "ANNO, Aat Vos, <a href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
+    Creatieve Coöperatie, \n<a href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a
+    href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
+    Luna</a>, \n<a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk
+    Assen</a>, \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
+    De Loohoeve, Dijkoraad, Energy Academy, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
     <a href=\"https://www.studioneon.nl/werk/de-klinker/\">Cultuurhuis De Klinker</a>,
-    <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">De Tamboer, <\na
-    href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
-    brouw&bistro</a>, \n<a href=\"https://www.studioneon.nl/werk/draagbaar/\">Draagbaar</a>,\n<a
-    href=\"https://www.studioneon.nl/werk/bomvol-met-cultuur/\">Drentse Theaters</a>,
-    \n<a href=\"https://www.studioneon.nl/werk/centrum-voor-de-kunsten/\">ICO</a>,
-    \n<a href=\"https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/\">Internationaal
-    Filmfestival Assen</a>,  \nMRK Film, \nNoorderbreedte, \nHet Oversticht, \n<a
-    href=\"https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement Assen,\n<a
-    href=\"https://www.studioneon.nl/werk/spacewinner/\">Spacewinner</a>,  \nReinout
-    Hellental, \nThe Post, \nVan Lier Catering, \nVolkerWessels"
+    <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">Theater De Tamboer,
+    <a href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
+    brouw&bistro</a>, \n<a href=\"https://www.studioneon.nl/werk/draagbaar/\">Draagbaar</a>,
+    <a href=\"https://www.studioneon.nl/werk/bomvol-met-cultuur/\">Drentse Theaters</a>,
+    <a href=\"https://www.studioneon.nl/werk/centrum-voor-de-kunsten/\">ICO</a>, <a
+    href=\"https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/\">Internationaal
+    Filmfestival Assen</a>, MRK Film, Noorderbreedte, Het Oversticht, <a href=\"https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement
+    Assen, <a href=\"https://www.studioneon.nl/werk/spacewinner/\">Spacewinner</a>,
+    Reinout Hellental, The Post, Van Lier Catering, VolkerWessels"
 meta:
   title: Over ons
   description: Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes.
