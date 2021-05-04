@@ -21,24 +21,26 @@ content_blokken:
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
     complexe te vatten in een simpele, doeltreffende, beeldtaal.
 - title: Studio Neon werkt<br> onder andere voor
-  content: ANNO, Staatsbosbeheer, Creatieve Coöperatie, Versio, <a href="https://www.studioneon.nl/werk/art-explosion/"</a>Art
-    Explosion, <a href="https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/"<a/>
-    Blue Luna, <a href="https://www.studioneon.nl/werk/welcome-to-the-playground/</a>
-    Welkom to the Playground, <a href="https://www.studioneon.nl/werk/28dining/">Van
-    der Valk Assen</a>, 33graden, <a href="https://www.studioneon.nl/werk/juridisch-ingewikkeld/">050legal</a>,
-    <a href="https://www.studioneon.nl/werk/atlas-theater/">ATLAS Theater</a>, Black&Bloom,
-    Brasserie 21, <a href="https://www.studioneon.nl/werk/conversies/">Conversies.nl</a>,
-    <a href="https://www.studioneon.nl/werk/de-klinker/">Cultuurhuis De Klinker</a>,
-    <a href="https://www.studioneon.nl/werk/theater-de-tamboer/">De Tamboer, <a href="https://www.studioneon.nl/werk/cultuur-verbindt/">DNK</a>,
-    <a href="https://www.studioneon.nl/werk/dit-is-dokjard/">Dokjard brouw&bistro</a>,
-    <a href="https://www.studioneon.nl/werk/draagbaar/">Draagbaar</a>, <a href="https://www.studioneon.nl/werk/bomvol-met-cultuur/">Drentse
-    Theaters</a>, Florijn Incasso, <a href="https://www.studioneon.nl/werk/centrum-voor-de-kunsten/">ICO</a>,
-    <a href="https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/">Internationaal
-    Filmfestival Assen</a>, Metier, MRK Film, Noorderbreedte, Het Oversticht, <a href="https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement
-    Assen, Quintus, <a href="https://www.studioneon.nl/werk/mezzosopraan-in-beeld/">Mezzosopraan
-    Sara Klein Horsman</a>, <a href="https://www.studioneon.nl/werk/spacewinner/">Spacewinner</a>,
+  content: "ANNO, \n<a href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\" Staatsbosbeheer</a>,
+    \nCreatieve Coöperatie, \nVersio, \n<a href=\"https://www.studioneon.nl/werk/art-explosion/\"
+    Art Explosion</a>, \n<a href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\"<a/>
+    Blue Luna, \n<a href=\"https://www.studioneon.nl/werk/welcome-to-the-playground/</a>
+    Welkom to the Playground, \n<a href=\"https://www.studioneon.nl/werk/28dining/\">Van
+    der Valk Assen</a>, \n33graden, \n<a href=\"https://www.studioneon.nl/werk/juridisch-ingewikkeld/\">050legal</a>,
+    \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
+    Black&Bloom, Brasserie 21, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
+    <a href=\"https://www.studioneon.nl/werk/de-klinker/\">Cultuurhuis De Klinker</a>,
+    <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">De Tamboer, <a
+    href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
+    brouw&bistro</a>, \n<a href=\"https://www.studioneon.nl/werk/draagbaar/\">Draagbaar</a>,
+    <a href=\"https://www.studioneon.nl/werk/bomvol-met-cultuur/\">Drentse Theaters</a>,
+    Florijn Incasso, <a href=\"https://www.studioneon.nl/werk/centrum-voor-de-kunsten/\">ICO</a>,
+    <a href=\"https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/\">Internationaal
+    Filmfestival Assen</a>, Metier, MRK Film, Noorderbreedte, Het Oversticht, <a href=\"https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement
+    Assen, Quintus, <a href=\"https://www.studioneon.nl/werk/mezzosopraan-in-beeld/\">Mezzosopraan
+    Sara Klein Horsman</a>, <a href=\"https://www.studioneon.nl/werk/spacewinner/\">Spacewinner</a>,
     Stottercentrum Noord, Reinout Hellental, The Post, Restaurant Touché, Van Lier
-    Catering, VolkerWessels, X-ICT
+    Catering, VolkerWessels, X-ICT"
 meta:
   title: Over ons
   description: Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes.
