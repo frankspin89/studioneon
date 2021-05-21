@@ -45,3 +45,4 @@ fields:
   name: informatie
 pages:
 - content/overons.md
+- content/werk/anno.md
