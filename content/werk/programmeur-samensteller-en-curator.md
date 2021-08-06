@@ -62,9 +62,39 @@ image = ""
 [work.single]
 image = "/uploads/Resultaat-Blue-Luna-7.jpg"
 [[work]]
+name = "complimentscard"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/blue-luna_bijvoegen.jpg"
+[[work]]
+name = "social media typhoon"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/blue-luna_bijvoegen2.jpg"
+[[work]]
+name = "2x social media"
+[work.double]
+image = ["/uploads/blue-luna_bijvoegen3.jpg", "/uploads/blue-luna_bijvoegen4.jpg"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
+[[work]]
 name = "shirt + kubus"
 [work.double]
-image = ["/uploads/Resultaat-Blue-Luna-5.jpg", "/uploads/kubus.jpg"]
+image = ["/uploads/Resultaat-Blue-Luna-5.jpg", "/uploads/resultaat-blue-luna-4.jpg"]
 [work.double_gif]
 images = []
 [work.gif]
