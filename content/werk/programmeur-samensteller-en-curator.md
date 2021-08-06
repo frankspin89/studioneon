@@ -72,16 +72,6 @@ image = ""
 [work.single]
 image = "/uploads/blue-luna_bijvoegen.jpg"
 [[work]]
-name = "social media typhoon"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/blue-luna_bijvoegen2.jpg"
-[[work]]
 name = "2x social media"
 [work.double]
 image = ["/uploads/blue-luna_bijvoegen3.jpg", "/uploads/blue-luna_bijvoegen4.jpg"]
@@ -91,6 +81,16 @@ images = []
 image = ""
 [work.single]
 image = ""
+[[work]]
+name = "social media typhoon"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/blue-luna_bijvoegen2.jpg"
 [[work]]
 name = "shirt + kubus"
 [work.double]
