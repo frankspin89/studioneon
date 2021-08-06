@@ -1,9 +1,9 @@
 +++
 hero = "/uploads/anno_burgermeesters.jpg"
-klant = ""
+klant = "ANNO Museum in de maak"
 tags = []
 title = "Ambt aan de ketting"
-weight = -1
+weight = 3
 [meta]
 description = ""
 title = ""
