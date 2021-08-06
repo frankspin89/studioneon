@@ -1,9 +1,8 @@
 +++
-draft = true
 hero = "/uploads/anno_vrijheid.jpg"
-klant = ""
+klant = "ANNO Museum in de maak"
 tags = []
-title = "ANNO"
+title = "Kom brengen, kom halen"
 weight = 1
 [meta]
 description = ""
@@ -13,7 +12,7 @@ description = ""
 image = ""
 title = ""
 [[work]]
-name = "ANNO Museum in de maak"
+name = "Logo ANNO"
 [work.double]
 image = []
 [work.double_gif]
@@ -23,7 +22,7 @@ image = ""
 [work.single]
 image = "/uploads/anno_vrijheid2.jpg"
 [[work]]
-name = "Posters"
+name = "Straatbeeld posters"
 [work.double]
 image = ["/uploads/anno_vrijheid4.jpg", "/uploads/anno_vrijheid3.jpg"]
 [work.double_gif]
@@ -33,7 +32,7 @@ image = ""
 [work.single]
 image = ""
 [[work]]
-name = "Social media"
+name = "Social media rubrieken"
 [work.double]
 image = []
 [work.double_gif]
@@ -43,9 +42,9 @@ image = ""
 [work.single]
 image = "/uploads/anno_vrijheid5.jpg"
 [[work]]
-name = ""
+name = "Social media stellingen"
 [work.double]
-image = []
+image = ["/uploads/anno_vrijheid7.jpg", "/uploads/anno_vrijheid6.jpg"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -53,9 +52,29 @@ image = ""
 [work.single]
 image = ""
 [[work]]
-name = ""
+name = "Portret militair"
 [work.double]
 image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/anno_vrijheid8.jpg"
+[[work]]
+name = "Ansichtkaart"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/anno_vrijheid9.jpg"
+[[work]]
+name = "Portret monnik + vrouw"
+[work.double]
+image = ["/uploads/anno_vrijheid10.jpg", "/uploads/anno_vrijheid11.jpg"]
 [work.double_gif]
 images = []
 [work.gif]
@@ -63,7 +82,7 @@ image = ""
 [work.single]
 image = ""
 [[work]]
-name = ""
+name = "Expo oude man"
 [work.double]
 image = []
 [work.double_gif]
@@ -71,9 +90,9 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/anno_vrijheid12.jpg"
 [[work]]
-name = ""
+name = "Podcast telefoon"
 [work.double]
 image = []
 [work.double_gif]
@@ -81,9 +100,9 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/anno_vrijheid13.jpg"
 [[work]]
-name = ""
+name = "Maria bordjes"
 [work.double]
 image = []
 [work.double_gif]
@@ -91,9 +110,9 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/anno_vrijheid14.jpg"
 [[work]]
-name = ""
+name = "Kubussen Verhaal van Mieke"
 [work.double]
 image = []
 [work.double_gif]
@@ -101,9 +120,9 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
+image = "/uploads/anno_vrijheid15.jpg"
 [[work]]
-name = ""
+name = "Tekst vloer Anouk"
 [work.double]
 image = []
 [work.double_gif]
@@ -111,56 +130,6 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = ""
-[[work]]
-name = ""
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = ""
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = ""
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = ""
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = ""
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
+image = "/uploads/anno_vrijheid16.jpg"
 
 +++
