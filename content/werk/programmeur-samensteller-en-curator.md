@@ -1,7 +1,7 @@
 +++
 hero = "/uploads/Resultaat-Blue-Luna-1.jpg"
 klant = "Blue Luna"
-tags = ["visuele identiteit", "print", " online", "posters"]
+tags = ["visuele identiteit", "print", " online", "posters", "social media", "compliments card"]
 title = "Flexibel blokkenschema"
 weight = 2
 [meta]
