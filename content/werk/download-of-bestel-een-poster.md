@@ -1,4 +1,5 @@
 +++
+draft = true
 hero = "/uploads/hero header-2.png"
 klant = "get bored"
 tags = ["#getboredandcreate", "-", "credits", "Zalsman Groningen (drukwerk)", "Wiebe Brandsema (online)"]
