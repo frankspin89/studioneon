@@ -1,7 +1,7 @@
 +++
 hero = "/uploads/resultaat-donnie-1.png"
 klant = "Atlas Theater"
-tags = ["activatie campagne", "art-direction fotografie", "social media templates", "poster"]
+tags = ["activatie campagne", "art-direction fotografie", "poster", "social media"]
 title = "Henry voor een Donnie"
 weight = -1
 [meta]
