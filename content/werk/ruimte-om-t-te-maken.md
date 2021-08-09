@@ -2,7 +2,7 @@
 draft = true
 hero = ""
 klant = "Co"
-tags = []
+tags = ["brainstorm sessie", "naamgeving", "art direction copy", "visuele identiteit", "social media", "webdesign", "online nieuwsbrief", "pingpong tafel", "bier etiket"]
 title = "Ruimte om 't te maken"
 weight = -1
 [meta]
