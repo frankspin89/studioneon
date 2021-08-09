@@ -1,7 +1,7 @@
 +++
 hero = "/uploads/anno_vrijheid.jpg"
 klant = "ANNO Museum in de maak"
-tags = []
+tags = ["campagne", "social media", "poster", "ansichtkaart", "expositie ontwerp", "live infographic"]
 title = "Kom brengen, kom halen"
 weight = 1
 [meta]

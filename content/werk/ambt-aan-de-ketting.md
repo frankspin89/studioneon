@@ -1,7 +1,7 @@
 +++
 hero = "/uploads/anno_burgermeesters.jpg"
 klant = "ANNO Museum in de maak"
-tags = []
+tags = ["expositie ontwerp"]
 title = "Ambt aan de ketting"
 weight = 3
 [meta]
