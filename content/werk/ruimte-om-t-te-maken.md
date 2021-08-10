@@ -154,3 +154,6 @@ image = ""
 image = ""
 
 +++
+Dé creatieve broedplaats van Zwolle veranderde van koers en vroeg ons om te helpen. Een nieuwe identiteit mét een nieuwe naam. Een naam en visuele identiteit die moest passen bij de bestaande locaties en de mensen die hier huren. Een verzameling makers, ontwerpers, doeners en strategen die samen of alleen de mooiste dingen maken. 
+
+Via inzoomen (interviews huurders, gezamenlijke brainstormsessies) en uitzoomen (bezoek aan andere broedplaatsen) ontstond er bij ons een helder beeld. De voormalige Creatieve Coöperatie is Co. Een plek om samen te werken. Om je creatieve bedrijf te vestigen met naast je 200+ compagnons met eenzelfde koers. De huisstijl bied een neutrale basis waarbinnen alle kleurrijke en unieke designs van de makers tot hun recht komen.
