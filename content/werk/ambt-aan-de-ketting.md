@@ -103,3 +103,6 @@ image = ""
 image = "/uploads/anno_burgermeesters12.jpg"
 
 +++
+De expositie Het Ambt aan de Ketting vertelt de verhalen van de Zwolse burgemeesters in oorlogstijd. Met als centrale vraag: wat zou jij doen als jij in de schoenen van de Zwolse burgervader(s) stond? 
+
+Binnen de herkenbare stijl van ANNO hebben we bij deze expositie vorm gegeven aan de verhalen uit oorlogstijd. Met nieuwe kleuren, een flexibele opstelling en het verwerken van audiofragmenten. Bij deze ‘do touch!’ expo is het juist de bedoeling om de borden te pakken en in de verhalen te duiken.
