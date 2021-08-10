@@ -1,6 +1,5 @@
 +++
-draft = true
-hero = ""
+hero = "/uploads/co_spaghetti.jpg"
 klant = "Co"
 tags = ["brainstorm sessie", "naamgeving", "art direction copy", "visuele identiteit", "social media", "webdesign", "online nieuwsbrief", "pingpong tafel", "bier etiket"]
 title = "Ruimte om 't te maken"
