@@ -3,7 +3,7 @@ hero = "/uploads/bruidsfotograaf_degrotedag_portfolio_007.jpg"
 klant = "DE GROTE DAG"
 tags = ["visuele identiteit", "online", " drukwerk"]
 title = "Click / Klik"
-weight = 1
+weight = 5
 [meta]
 description = ""
 title = ""

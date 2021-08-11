@@ -3,7 +3,7 @@ hero = "/uploads/ea.png"
 klant = "Energy Academy"
 tags = ["merk evolutie", "art direction video", "social media", "animatie stickers"]
 title = "Energiek geel met een punch-in-the-face blauw"
-weight = 2
+weight = 1
 [meta]
 description = ""
 title = ""
