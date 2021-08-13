@@ -141,4 +141,4 @@ Doordat bezoekers gedurende de expositie hun verhalen konden brengen, moest de e
 
 Om te onderstrepen dat je bij deze expositie kan ‘mee maken’ hebben we de campagne een tweedeling gegeven: kom halen en kom brengen. Het heldere kleurenpalet van twee kleuren versterkt dit concept.
 
-Fotografie: [Jeroen Keep](https://www.jeroenkeep.nl/ "Jeroen Keep")
+Fotografie door [Jeroen Keep](https://www.jeroenkeep.nl/ "Jeroen Keep")

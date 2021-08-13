@@ -157,4 +157,4 @@ Dé creatieve broedplaats van Zwolle veranderde van koers en vroeg ons om te hel
 
 Via inzoomen (interviews met huurders, gezamenlijke brainstormsessies) en uitzoomen (bezoek aan andere broedplaatsen) ontstond er bij ons een helder beeld. De voormalige Creatieve Coöperatie is Co. Een plek om samen te werken. Om je creatieve bedrijf te vestigen met naast je 200+ compagnons met eenzelfde koers. De huisstijl biedt een neutrale basis waarbinnen alle kleurrijke en unieke designs van de makers tot hun recht komen.
 
-Corporate teksten: [Lolle Wijnja](https://www.linkedin.com/in/lollewijnja/?originalSubdomain=nl "Lolle Wijnja")
+Corporate teksten door [Lolle Wijnja](https://www.linkedin.com/in/lollewijnja/?originalSubdomain=nl "Lolle Wijnja")
