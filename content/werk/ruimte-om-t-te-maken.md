@@ -1,7 +1,7 @@
 +++
 hero = "/uploads/co_spaghetti.jpg"
 klant = "Co"
-tags = ["brainstorm sessie", "naamgeving", "art direction copy", "visuele identiteit", "social media", "webdesign", "online nieuwsbrief", "pingpong tafel", "bier etiket"]
+tags = ["brainstorm sessie", "naamcreatie", "art direction copy", "visuele identiteit", "social media", "webdesign", "online nieuwsbrief", "pingpongtafel", "bieretiket"]
 title = "Ruimte om 't te maken"
 weight = -1
 [meta]
@@ -153,6 +153,8 @@ image = ""
 image = ""
 
 +++
-Dé creatieve broedplaats van Zwolle veranderde van koers en vroeg ons om te helpen. Een nieuwe identiteit mét een nieuwe naam. Een naam en visuele identiteit die moest passen bij de bestaande locaties en de mensen die hier huren. Een verzameling makers, ontwerpers, doeners en strategen die samen of alleen de mooiste dingen maken. 
+Dé creatieve broedplaats van Zwolle veranderde van koers en vroeg ons om te helpen. Een nieuwe identiteit mét een nieuwe naam. Een naam en visuele identiteit die moet passen bij de bestaande locaties en de mensen die hier huren. Een verzameling makers, ontwerpers, doeners en strategen die samen of alleen de mooiste dingen maken.
 
-Via inzoomen (interviews huurders, gezamenlijke brainstormsessies) en uitzoomen (bezoek aan andere broedplaatsen) ontstond er bij ons een helder beeld. De voormalige Creatieve Coöperatie is Co. Een plek om samen te werken. Om je creatieve bedrijf te vestigen met naast je 200+ compagnons met eenzelfde koers. De huisstijl bied een neutrale basis waarbinnen alle kleurrijke en unieke designs van de makers tot hun recht komen.
+Via inzoomen (interviews met huurders, gezamenlijke brainstormsessies) en uitzoomen (bezoek aan andere broedplaatsen) ontstond er bij ons een helder beeld. De voormalige Creatieve Coöperatie is Co. Een plek om samen te werken. Om je creatieve bedrijf te vestigen met naast je 200+ compagnons met eenzelfde koers. De huisstijl biedt een neutrale basis waarbinnen alle kleurrijke en unieke designs van de makers tot hun recht komen.
+
+Corporate teksten: [Lolle Wijnja](https://www.linkedin.com/in/lollewijnja/?originalSubdomain=nl "Lolle Wijnja")
