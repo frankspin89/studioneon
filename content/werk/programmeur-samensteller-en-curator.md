@@ -62,6 +62,16 @@ image = ""
 [work.single]
 image = "/uploads/Resultaat-Blue-Luna-7.jpg"
 [[work]]
+name = "Portret Wouter"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/blue-luna_portret-iamkat.jpg"
+[[work]]
 name = "complimentscard"
 [work.double]
 image = []
@@ -116,3 +126,5 @@ image = "/uploads/Resultaat-Blue-Luna-8.jpg"
 Artiestenbureau Blue Luna is als een programmeur, samensteller en curator van zakelijke evenementen. Daarom hebben we de nieuwe identiteit gebaseerd op een blokkenschema. Een flexibel systeem van vlakken waarmee ze alle kanten op kunnen. Verschillend maar toch herkenbaar.
 
 Helderblauw, zachtroze en retro geel. Wij gaven het artiestenbureau een uitgebreid kleurenpalet zodat zij kunnen doen waar ze goed in zijn. Namelijk, exact de juiste sfeer neerzetten. Altijd al met artiesten en nu ook met kleuren.
+
+Fotografie door [IAMKAT](http://www.iamk.at/ " i am kat")
