@@ -53,4 +53,4 @@ menu:
 ---
 Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes. We ontwerpen visuele identiteiten en doordachte on- en offline uitingen.
 
-Zo helpen we organisaties met het vertellen van hun verhaal. In beeld. We bereiken de doelgroep door het verschaffen van heldere informatie of het raken van de juiste snaar.
+Zo helpen we organisaties met het vertellen van hun verhaal. In beeld. We bereiken de doelgroep door het verschaffen van heldere informatie en het raken van de juiste snaar.
