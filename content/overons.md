@@ -21,7 +21,8 @@ content_blokken:
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
     complexe te vatten in een simpele, doeltreffende, beeldtaal.
 - title: Studio Neon werkt<br> onder andere voor
-  content: "Aat Vos, ANNO, <a href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
+  content: "Aat Vos, <a href=\"https://www.studioneon.nl/werk/anno/\">ANNO</a>, <a
+    href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
     Creatieve Coöperatie, \n<a href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a
     href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
     Luna</a>, <a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk Assen</a>,
