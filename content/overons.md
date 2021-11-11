@@ -23,8 +23,8 @@ content_blokken:
 - title: Studio Neon werkt<br> onder andere voor
   content: "Aat Vos, <a href=\"https://www.studioneon.nl/werk/anno/\">ANNO</a>, <a
     href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
-    Creatieve Coöperatie, \n<a href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a
-    href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
+    <a href=\"https://www.studioneon.nl/werk/ruimte-om-t-te-maken/\">Co</a>, \n<a
+    href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
     Luna</a>, <a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk Assen</a>,
     \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
     De Loohoeve, Dijkoraad, Energy Academy, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
