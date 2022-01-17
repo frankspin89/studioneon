@@ -11,7 +11,7 @@ meta:
   title: Studio Neon — Grafisch ontwerpstudio
   description: Ontwerpstudio voor creatieve merkconcepten en campagnes
 social:
-  title: Studio Neon — Groningen / Zwolle
+  title: Studio Neon — Zwolle / Antwerpen
   description: Ontwerpstudio voor creatieve merkconcepten en campagnes
   image: "/uploads/ANOUK-MARIA-MARIJE.jpg"
 
