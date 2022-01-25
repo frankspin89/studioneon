@@ -1,10 +1,10 @@
 +++
 date = "2019-01-02T14:04:38+00:00"
-hero = "/uploads/hero-1.png"
+hero = "/uploads/hero-ico.png"
 klant = "ICO"
 tags = ["print", "brochure", "lesmateriaal", "online", "poster"]
 title = "Tools voor onderwijs en amateurkunst"
-weight = 2
+weight = 1
 [meta]
 description = ""
 title = ""
