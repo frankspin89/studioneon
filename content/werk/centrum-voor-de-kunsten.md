@@ -4,7 +4,7 @@ hero = "/uploads/hero-1.png"
 klant = "ICO"
 tags = ["print", "brochure", "lesmateriaal", "online", "poster"]
 title = "Tools voor onderwijs en amateurkunst"
-weight = 1
+weight = 2
 [meta]
 description = ""
 title = ""
