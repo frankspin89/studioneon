@@ -4,7 +4,7 @@ hero = "/uploads/hero_creative-hubs.png"
 klant = "CREATIEVE HUBS"
 tags = []
 title = "Hup Hub"
-weight = 10
+weight = 11
 work = []
 [meta]
 description = ""
