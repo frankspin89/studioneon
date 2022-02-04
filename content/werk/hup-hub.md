@@ -1,4 +1,5 @@
 +++
+draft = true
 hero = "/uploads/hero_creative-hubs_beige.png"
 klant = "CREATIEVE HUBS"
 tags = ["visuele identiteit", "logo", "online", "print", "tote bag", " social media"]
@@ -83,4 +84,4 @@ image = ""
 image = "/uploads/8_creative-hubs.png"
 
 +++
-(Creatieve Hubs Nederland is een belangenvereniging voor creatieve broedplaatsen in Nederland. De hubs bieden ruimte aan creatieve ondernemers, van fotografen, grafisch ontwerpers tot meubelmakers en documentairemakers. Ze zitten op prachtige locaties in markante gebouwen door heel Nederland.)
+Creatieve Hubs Nederland is een belangenvereniging voor creatieve broedplaatsen in Nederland. De hubs bieden ruimte aan creatieve ondernemers, van fotografen, grafisch ontwerpers tot meubelmakers en documentairemakers. Ze zitten op prachtige locaties in markante gebouwen door heel Nederland.
