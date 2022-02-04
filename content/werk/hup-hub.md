@@ -54,7 +54,7 @@ image = "/uploads/5_creative-hubs.png"
 [[work]]
 name = "telefoon"
 [work.double]
-image = ["/uploads/6_creative-hubs.png", "/uploads/12_creative-hubs.png"]
+image = ["/uploads/telefoon_groen-1.png", "/uploads/12_creative-hubs.png"]
 [work.double_gif]
 images = []
 [work.gif]
