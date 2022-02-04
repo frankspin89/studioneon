@@ -1,6 +1,6 @@
 +++
 draft = true
-hero = "/uploads/hero_creative-hubs.png"
+hero = "/uploads/hero_creative-hubs_beige.png"
 klant = "CREATIEVE HUBS"
 tags = ["visuele identiteit", "logo", "online", "print", "tote bag", " social media"]
 title = "Hup Hub"
@@ -12,16 +12,6 @@ title = ""
 description = ""
 image = ""
 title = ""
-[[work]]
-name = "kleurvlakken"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/5_creative-hubs.png"
 [[work]]
 name = "logo"
 [work.double]
@@ -52,5 +42,15 @@ images = []
 image = ""
 [work.single]
 image = "/uploads/4_creative-hubs.png"
+[[work]]
+name = "kleurvlakken"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/5_creative-hubs.png"
 
 +++
