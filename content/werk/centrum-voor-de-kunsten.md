@@ -2,7 +2,7 @@
 date = "2019-01-02T14:04:38+00:00"
 hero = "/uploads/hero-ico.png"
 klant = "ICO"
-tags = ["print", "brochure", "lesmateriaal", "online", "poster"]
+tags = ["print", "brochure", "lesmateriaal", "online", "poster", "website"]
 title = "Tools voor onderwijs en amateurkunst"
 weight = 1
 [meta]
@@ -12,6 +12,36 @@ title = ""
 description = ""
 image = ""
 title = ""
+[[work]]
+name = "Website"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post13.png"
+[[work]]
+name = "Website 2"
+[work.double]
+image = []
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = "/uploads/post14.png"
+[[work]]
+name = "Mobiel"
+[work.double]
+image = ["/uploads/post16-1.png", "/uploads/post15-2.png"]
+[work.double_gif]
+images = []
+[work.gif]
+image = ""
+[work.single]
+image = ""
 [[work]]
 name = "KBW lesmateriaal"
 [work.double]
