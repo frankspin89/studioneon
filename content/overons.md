@@ -27,8 +27,8 @@ content_blokken:
     href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
     Luna</a>, <a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk Assen</a>,
     \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
-    De Loohoeve, Dijkoraad, <https://www.studioneon.nl/werk/energiek-geel-met-een-punch-in-the-face-blauw/\">Energy
-    Academy</a>, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
+    De Loohoeve, Dijkoraad, Rijksuniversiteit Groningen, <https://www.studioneon.nl/werk/energiek-geel-met-een-punch-in-the-face-blauw/\">New
+    Energy Coalition</a>, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
     <a href=\"https://www.studioneon.nl/werk/de-klinker/\">Cultuurhuis De Klinker</a>,
     <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">Theater De Tamboer,
     <a href=\"https://www.studioneon.nl/werk/cultuur-verbindt/\">DNK</a>, \n<a href=\"https://www.studioneon.nl/werk/dit-is-dokjard/\">Dokjard
