@@ -27,7 +27,7 @@ content_blokken:
     href=\"https://www.studioneon.nl/werk/versio/\">Versio</a>,\n<a href=\"https://www.studioneon.nl/werk/programmeur-samensteller-en-curator/\">Blue
     Luna</a>, <a href=\"https://www.studioneon.nl/werk/28dining/\">Van der Valk Assen</a>,
     \n<a href=\"https://www.studioneon.nl/werk/atlas-theater/\">ATLAS Theater</a>,
-    De Loohoeve, Dijkoraad, Rijksuniversiteit Groningen, <https://www.studioneon.nl/werk/energiek-geel-met-een-punch-in-the-face-blauw/\">New
+    De Loohoeve, Dijkoraad, Rijksuniversiteit Groningen, <a href=\"https://www.studioneon.nl/werk/energiek-geel-met-een-punch-in-the-face-blauw/\">New
     Energy Coalition</a>, Gemeente Midden Drenthe, <a href=\"https://www.studioneon.nl/werk/conversies/\">Conversies.nl</a>,
     <a href=\"https://www.studioneon.nl/werk/de-klinker/\">Cultuurhuis De Klinker</a>,
     <a href=\"https://www.studioneon.nl/werk/theater-de-tamboer/\">Theater De Tamboer,
