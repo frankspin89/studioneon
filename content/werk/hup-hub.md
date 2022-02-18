@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = "/uploads/hero_creative-hubs_beige.png"
 klant = "CREATIEVE HUBS"
 tags = ["visuele identiteit", "logo", "online", "print", "tote bag", " social media"]
