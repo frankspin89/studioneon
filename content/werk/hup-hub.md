@@ -3,7 +3,7 @@ hero = "/uploads/hero_creative-hubs_beige.png"
 klant = "CREATIEVE HUBS"
 tags = ["visuele identiteit", "logo", "online", "print", "tote bag", " social media"]
 title = "Hup Hub"
-weight = 2
+weight = -1
 [meta]
 description = ""
 title = ""
