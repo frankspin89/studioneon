@@ -50,7 +50,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/5_creative-hubs.png"
+image = "/uploads/5_creative-hubs-v2.png"
 [[work]]
 name = "telefoon"
 [work.double]
@@ -83,4 +83,10 @@ image = ""
 image = "/uploads/8_creative-hubs.png"
 
 +++
-Creatieve Hubs Nederland is een belangenvereniging voor creatieve broedplaatsen in Nederland. De hubs bieden ruimte aan creatieve ondernemers, van fotografen, grafisch ontwerpers tot meubelmakers en documentairemakers. Ze zitten op prachtige locaties in markante gebouwen door heel Nederland.
+Creatieve Hubs Nederland is een belangenvereniging voor creatieve broedplaatsen in Nederland. De hubs bieden ruimte aan creatieve ondernemers, van fotografen, grafisch ontwerpers tot meubelmakers en documentairemakers. 
+
+Voor de visuele identiteit haalden wij inspiratie uit de vaak karakteristieke gebouwen waarin deze broedplaatsen gevestigd zijn. 
+
+De kleurrijke silhouetten van de gebouwen vormen, samen met het uitgesproken font, herkenbare basis voor de uitstraling van Creatieve Hubs Nederland.
+
+In samenwerking met Het Weblokaal, die het ontwerp van de website heeft gemaakt en gerealiseerd.
