@@ -3,7 +3,7 @@ title: Over ons
 type: page
 layout: overons
 background: orange
-hero: "/uploads/hero-1.png"
+hero: "/uploads/hero_studioneon.png"
 images_top:
 - "/uploads/MARIA-BANK.jpg"
 - "/uploads/DANCE.jpg"
