@@ -50,7 +50,7 @@ images = []
 [work.gif]
 image = ""
 [work.single]
-image = "/uploads/5_creative-hubs-v2.png"
+image = "/uploads/5_creative-hubs-v3.png"
 [[work]]
 name = "telefoon"
 [work.double]
