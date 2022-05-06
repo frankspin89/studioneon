@@ -228,6 +228,30 @@ mark {
 
 
 
+.contact-input::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: #ff3901 !important;
+    opacity: 1 !important;
+}
+.contact-input:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #ff3901 !important;
+    opacity: 1 !important;
+}
+.contact-input::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #ff3901 !important;
+    opacity: 1 !important;
+}
+.contact-input:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #ff3901 !important;
+}
+
+body .contact-input:focus, .contact-input:active  {
+    border-color: #FF3901 !important;
+}
+
 .site-wrapper {
     padding-left: 0;
     padding-right: 0;

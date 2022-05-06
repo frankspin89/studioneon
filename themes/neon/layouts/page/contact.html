@@ -1,8 +1,20 @@
 {{ define "main" }}
 <article class="mx-auto site-wrapper">
   <div class="md:flex md:flex-row mx-auto md:-mx-12 mb-24">
-    <div class="text-xl md:text-2xl leading-tight lg:text-4xl xl:text-4xl px-4 md:0  mx-auto md:w-3/5 md:px-12 mb-12 md:mb-0">
-      {{.Content}}
+    <div class=" px-4 md:0  mx-auto md:w-3/5 md:px-12 mb-12 md:mb-0">
+      <div class="text-xl md:text-2xl leading-tight lg:text-4xl xl:text-4xl">
+        {{.Content}}
+      </div>
+      <div class="text-orange mt-6 lg:mt-12" style="max-width: 500px;">
+        <form name="contactform" method="POST" data-netlify="true">
+          <input type="text" name="name" placeholder="naam" class="contact-input border-2 border-orange w-full text-orange px-3 py-3 text-lg mb-4" />
+          <input type="email" name="email" placeholder="email" class="contact-input border-2 border-orange w-full text-orange px-3 py-3 text-lg mb-4" />
+          <textarea name="message" placeholder="Stel ons je vraag" class="contact-input border-2 border-orange w-full text-orange px-3 py-3 text-lg h-48"></textarea>
+          <div class="flex justify-end mt-4">
+            <button type="submit" class="uppercase text-orange px-4 py-2 border-2 border-orange hover:bg-orange hover:text-white">Verstuur</button>
+          </div>
+        </form>
+      </div>
     </div>
     <div class="text-xl md:text-2xl lg:text-4xl leading-tight px-4 md:0 md:w-2/5 md:px-12 md:flex md:flex-row md:justify-end">
       <div>

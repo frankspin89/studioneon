@@ -2,6 +2,9 @@ baseURL = "https://www.studioneon.nl/"
 languageCode = "en-us"
 title = "Studio Neon"
 theme = "neon"
+[markup.goldmark.renderer]
+   unsafe = true
+
 [taxonomies]
    tag = "tags"
    category = "categories"
