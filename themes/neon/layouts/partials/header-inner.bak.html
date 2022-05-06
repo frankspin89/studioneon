@@ -9,7 +9,7 @@
   </a>
   <div class="text-right flex items-center justify-end">
     <nav class="hidden md:flex lg:flex-row text-2xl xl:text-3xl">
-      {{- $firstUrlElement := print "/" (index (split .RelPermalink "/") 1) "/" -}}
+      {{- $firstUrlElement := print "/" (index (split .URL "/") 1) "/" -}}
       {{- $background := .Params.background }}
       {{- range .Site.Menus.main -}}
       <a class='ml-8 border-b-3
@@ -105,7 +105,7 @@
     </div>
     <div>
       <nav class="flex flex-col md:flex-row justify-center z-20">
-        {{- $firstUrlElement := print "/" (index (split .RelPermalink "/") 1) "/" -}}
+        {{- $firstUrlElement := print "/" (index (split .URL "/") 1) "/" -}}
       {{- $background := .Params.background }}
       {{- range .Site.Menus.main -}}
       <a class='md:ml-8  text-5xl leading-none mb-4 text-center'
