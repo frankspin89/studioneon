@@ -9,17 +9,22 @@ images_top:
 - "/uploads/DANCE.jpg"
 image_bottom: "/uploads/ANOUK-MARIJE.jpg"
 content_blokken:
-- title: ''
-  content: ''
 - title: Werkwijze
   content: |-
     <p>Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen zo samen de behoefte. Na de ontwerpfase presenteren we een sterk concept en verrassende uitingen die met oog voor detail zijn ontworpen.</p>
           <p>Van begin tot eind is het makkelijk en snel contact houden.</p>
+  list: []
 - title: Wie zijn wij?
   content: Maria Bos, Anouk Sinke en Marije Esselink vormen samen Studio Neon. Vanuit
     de studio’s in Zwolle en Antwerpen werken we aan campagnes, visuele identiteiten
     en on- en offline middelen. We delen de drive om opvallend werk te maken. Het
     complexe te vatten in een simpele, doeltreffende, beeldtaal.
+  list: []
+- title: Wat doen wij
+  content: ''
+  list:
+  - title: Strategie & ontwerp
+    content: naamgeving
 - title: Studio Neon werkt<br> onder andere voor
   content: "Aat Vos, <a href=\"https://www.studioneon.nl/werk/anno/\">ANNO</a>, <a
     href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
@@ -39,6 +44,7 @@ content_blokken:
     Filmfestival Assen</a>, MRK Film, Noorderbreedte, Het Oversticht, <a href=\"https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement
     Assen, <a href=\"https://www.studioneon.nl/werk/spacewinner/\">Spacewinner</a>,
     Reinout Hellental, The Post, Van Lier Catering, VolkerWessels"
+  list: []
 meta:
   title: Over ons
   description: Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes.
