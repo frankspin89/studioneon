@@ -1,4 +1,25 @@
 ---
 label: Settings
 hide_body: true
-fields: []
+fields:
+- name: cta
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: button_url
+    type: text
+    config:
+      required: false
+    label: Button URL
+  label: CTA
+  description: Text for projects cta bar
