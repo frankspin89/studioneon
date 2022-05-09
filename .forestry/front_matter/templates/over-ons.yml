@@ -21,6 +21,28 @@ fields:
   - type: textarea
     name: content
     label: Content
+  - name: list
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Content
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: List
 - type: file
   name: image_bottom
   label: Image bottom

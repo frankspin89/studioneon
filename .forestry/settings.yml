@@ -17,7 +17,6 @@ sections:
 - type: document
   path: content/settings.md
   label: Settings
-  match: "**/*"
 upload_dir: content/uploads
 public_path: "/uploads"
 front_matter_path: ''
