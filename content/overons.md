@@ -23,7 +23,7 @@ content_blokken:
 - title: Wat doen wij
   content: ''
   list:
-  - title: Strategie & ontwerp
+  - title: strategie & ontwerp
     content: |-
       naamgeving
 
@@ -54,6 +54,15 @@ content_blokken:
       tentoonstelling ontwerp
 
       bewegwijzering
+  - title: print
+    content: |-
+      redactioneel
+
+      poster
+
+      give-away
+
+      & meer
 - title: Studio Neon werkt<br> onder andere voor
   content: "Aat Vos, <a href=\"https://www.studioneon.nl/werk/anno/\">ANNO</a>, <a
     href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
