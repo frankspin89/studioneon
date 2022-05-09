@@ -24,7 +24,36 @@ content_blokken:
   content: ''
   list:
   - title: Strategie & ontwerp
-    content: naamgeving
+    content: |-
+      naamgeving
+
+      brainstormsessies
+
+      conceptontwikkeling
+
+      merkidentiteit
+
+      campagne
+
+      art-direction
+
+      brandguide
+  - title: digitaal
+    content: |-
+      UX/UI
+
+      website
+
+      animatie
+
+      app
+
+      social
+  - title: ruimtelijk
+    content: |-
+      tentoonstelling ontwerp
+
+      bewegwijzering
 - title: Studio Neon werkt<br> onder andere voor
   content: "Aat Vos, <a href=\"https://www.studioneon.nl/werk/anno/\">ANNO</a>, <a
     href=\"https://www.studioneon.nl/werk/ambitie-in-beeld/\">Staatsbosbeheer</a>,
