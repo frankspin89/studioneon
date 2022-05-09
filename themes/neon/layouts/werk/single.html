@@ -1,5 +1,6 @@
 {{ define "header" }} {{- partial "header-werk.html" . -}}  {{ end }}
 {{ define "main" }}
+{{ $page := .Page }}
 <article class="overflow-hidden">
   <header class="w-screen h-64 md:h-screen mb-12">
     {{ with .Params.hero}}
@@ -128,6 +129,19 @@
           {{  end  }}
         {{ end }}
       </div>
+
+      {{ with $page.GetPage "settings" }}
+
+      <div class="bg-orange mb-8 px-4 -mt-4 flex flex-col md:flex-row justify-center text-white items-center py-12">
+
+        {{ with .Params.cta }}
+        <span class="text-2xl md:text-3xl xl:text-4xl leading-none text-white text-center" style="max-width: 400px;">{{.title}}</span>
+        <a href="{{.button_url}}" class="text-white text-uppercase border-4 border-white py-2 mt-6 md:mt-0 px-4 md:ml-8  text-center uppercase  hover:bg-white hover:text-orange">{{.button_text}}</a>
+        {{ end }}
+
+      </div>
+
+      {{ end }}
 
       <div class="md:flex md:flex-row justify-between mb-6 md:mb-12 text-xl md:text-2xl">
         {{ with .NextInSection }}
