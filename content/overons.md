@@ -25,43 +25,29 @@ content_blokken:
   list:
   - title: strategie & ontwerp
     content: |-
-      naamgeving
-
-      brainstormsessies
-
-      conceptontwikkeling
-
-      merkidentiteit
-
-      campagne
-
-      art-direction
-
+      naamgeving<br>
+      brainstormsessies<br>
+      conceptontwikkeling<br>
+      merkidentiteit<br>
+      campagne<br>
+      art-direction<br>
       brandguide
   - title: digitaal
     content: |-
-      UX/UI
-
-      website
-
-      animatie
-
-      app
-
+      UX/UI<br>
+      website<br>
+      animatie<br>
+      app<br>
       social
   - title: ruimtelijk
     content: |-
-      tentoonstelling ontwerp
-
+      tentoonstelling ontwerp<br>
       bewegwijzering
   - title: print
     content: |-
-      redactioneel
-
-      poster
-
-      give-away
-
+      redactioneel<br>
+      poster<br>
+      give-away<br>
       & meer
 - title: Studio Neon werkt<br> onder andere voor
   content: "Aat Vos, <a href=\"https://www.studioneon.nl/werk/anno/\">ANNO</a>, <a
@@ -79,7 +65,7 @@ content_blokken:
     <a href=\"https://www.studioneon.nl/werk/bomvol-met-cultuur/\">Drentse Theaters</a>,
     <a href=\"https://www.studioneon.nl/werk/centrum-voor-de-kunsten/\">ICO</a>, <a
     href=\"https://www.studioneon.nl/werk/vrouwen-voor-en-achter-de-camera/\">Internationaal
-    Filmfestival Assen</a>, MRK Film, Noorderbreedte, Het Oversticht, <a href=\"https://www.studioneon.nl/werk/festival-vibes/</a>Preuvenement
+    Filmfestival Assen</a>, MRK Film, Noorderbreedte, Het Oversticht, <a href=\"https://www.studioneon.nl/werk/festival-vibes/\">Festival vibes</a> Preuvenement
     Assen, <a href=\"https://www.studioneon.nl/werk/spacewinner/\">Spacewinner</a>,
     Reinout Hellental, The Post, Van Lier Catering, VolkerWessels"
   list: []

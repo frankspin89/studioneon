@@ -43,6 +43,21 @@
     </div>
     <div class="lg:w-1/2 main-content text-xl mb-6">
       {{ .content | markdownify }}
+
+      {{ with .list }}
+      <div class="flex flex-row flex-wrap">
+
+        {{ range . }}
+        <div class="w-full md:w-1/2 mb-6 lg:mb-12">
+          <span class="font-bold">{{.title}}</span>
+          <div class="leading-sm">
+            {{.content | markdownify}}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+
     </div>
   </div>
   {{ end }}
