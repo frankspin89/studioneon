@@ -310,3 +310,8 @@ body .contact-input:focus, .contact-input:active  {
 .hidden-forced {
     display: none !important;
 }
+
+.font-superbold {
+    font-weight: bold;
+    font-family: 'Moderat-Bold';
+}

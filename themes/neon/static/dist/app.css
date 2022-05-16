@@ -4022,6 +4022,11 @@ body .contact-input:focus,
   display: none !important;
 }
 
+.font-superbold {
+  font-weight: bold;
+  font-family: 'Moderat-Bold';
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
