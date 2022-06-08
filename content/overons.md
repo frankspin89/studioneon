@@ -23,7 +23,7 @@ content_blokken:
       brainstormsessies<br>
       conceptontwikkeling<br>
       naamgeving<br>
-      design structuur en richtlijnen<br>
+      design structuur<br>
       merkidentiteit<br>
       campagne<br>
       art direction<br>
@@ -43,10 +43,12 @@ content_blokken:
       tentoonstellingsontwerp
   - title: print
     content: |-
-      redactioneel<br>
-      poster<br>
-      give-away<br>
-      & meer
+      magazines<br>
+      boeken<br>
+      merkmateriaal<br>
+      posters<br>
+      merchandise<br>
+      verpakkingen
 - title: Werkwijze
   content: Om tot een goede oplossing op jouw ontwerpvraag te komen leren we de organisatie
     eerst graag goed kennen. We gaan in gesprek, stellen vragen en kaderen samen de
