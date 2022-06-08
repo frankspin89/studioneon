@@ -20,20 +20,21 @@ content_blokken:
   list:
   - title: strategie & ontwerp
     content: |-
-      naamgeving<br>
       brainstormsessies<br>
       conceptontwikkeling<br>
+      naamgeving<br>
+      design structuur en richtlijnen<br>
       merkidentiteit<br>
       campagne<br>
-      art-direction<br>
+      art direction<br>
       brandguide
   - title: digitaal
     content: |-
-      UX/UI<br>
+      UX/UI design<br>
       website<br>
-      animatie<br>
       app<br>
-      social
+      social media<br>
+      motion design
   - title: ruimtelijk
     content: |-
       tentoonstelling ontwerp<br>
