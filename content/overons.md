@@ -37,8 +37,10 @@ content_blokken:
       motion design
   - title: ruimtelijk
     content: |-
-      tentoonstelling ontwerp<br>
-      bewegwijzering
+      signing<br>
+      bewegwijzering<br>
+      evenement design<br>
+      tentoonstellingsontwerp
   - title: print
     content: |-
       redactioneel<br>
