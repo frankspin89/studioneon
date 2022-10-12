@@ -23,7 +23,7 @@ content_blokken:
       brainstormsessies<br>
       conceptontwikkeling<br>
       naamgeving<br>
-      design structuur<br>
+      design systemen<br>
       merkidentiteit<br>
       campagne<br>
       art direction<br>
