@@ -5,9 +5,9 @@ layout: overons
 background: orange
 hero: "/uploads/studioneon09543.jpg"
 images_top:
-- "/uploads/MARIA-BANK.jpg"
-- "/uploads/DANCE.jpg"
-image_bottom: "/uploads/ANOUK-MARIJE.jpg"
+- "/uploads/neon-001.psd"
+- "/uploads/studioneon09642.jpg"
+image_bottom: "/uploads/studioneon09688.jpg"
 content_blokken:
 - title: Wie zijn wij?
   content: |-
