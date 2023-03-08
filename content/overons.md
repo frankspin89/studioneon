@@ -11,7 +11,7 @@ image_bottom: "/uploads/ANOUK-MARIJE.jpg"
 content_blokken:
 - title: Wie zijn wij?
   content: |-
-    Maria Bos, Anouk Sinke en Marije Esselink vormen samen Studio Neon*. Vanuit de studio’s in Zwolle en Antwerpen werken we aan campagnes, visuele identiteiten en on- en offline middelen. We delen de drive om opvallend werk te maken. Het complexe te vatten in een helder en doeltreffend ontwerp.
+    Maria Bos en Marije Esselink vormen samen Studio Neon*. Vanuit de studio in Zwolle werken we aan campagnes, visuele identiteiten en on- en offline middelen. We delen de drive om opvallend werk te maken. Het complexe te vatten in een helder en doeltreffend ontwerp.
 
     *Ne(derlands) on(twerp)
   list: []
@@ -20,14 +20,14 @@ content_blokken:
   list:
   - title: strategie & ontwerp
     content: |-
-      brainstormsessies<br>
-      conceptontwikkeling<br>
       naamgeving<br>
       design systemen<br>
       merkidentiteit<br>
       campagne<br>
       art direction<br>
-      brandguide
+      brandguide<br>
+      brainstormsessies<br>
+      conceptontwikkeling
   - title: digitaal
     content: |-
       UX/UI design<br>
@@ -39,8 +39,8 @@ content_blokken:
     content: |-
       signing<br>
       bewegwijzering<br>
-      evenement design<br>
-      tentoonstellingsontwerp
+      event design<br>
+      exposities
   - title: print
     content: |-
       magazines<br>
