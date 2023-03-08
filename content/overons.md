@@ -30,7 +30,6 @@ content_blokken:
       conceptontwikkeling
   - title: digitaal
     content: |-
-      UX/UI design<br>
       website<br>
       app<br>
       social media<br>
