@@ -7,7 +7,7 @@ hero: "/uploads/studioneon09543.jpg"
 images_top:
 - "/uploads/neon-001.psd"
 - "/uploads/studioneon09642.jpg"
-image_bottom: "/uploads/studioneon09688.jpg"
+image_bottom: "/uploads/studioneon09628.jpg"
 content_blokken:
 - title: Wie zijn wij?
   content: |-
