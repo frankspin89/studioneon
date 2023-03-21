@@ -87,7 +87,6 @@ menu:
   main:
     title: Over Ons
     weight: 1
-draft: true
 
 ---
 Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes. We ontwerpen visuele identiteiten en doordachte on- en offline uitingen. 
