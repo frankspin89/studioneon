@@ -1,80 +1,73 @@
 {{ define "main" }}
 <div class="lg:px-4 mb-8 md:mb-16 mx-auto site-wrapper">
   {{ with .Params.hero }}
-    {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-    {{ with $imageResource }}
-      {{ $src1x := (.Fill "1100x700 Center") }}
-      {{ $src2x := (.Fill "2200x1400 Center") }}
-      <picture class="block w-full">
-          <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
-      </picture>
-  {{  end  }}
-{{ end }}
-
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ with $imageResource }}
+  {{ $src1x := (.Fill "1100x700 Center") }}
+  {{ $src2x := (.Fill "2200x1400 Center") }}
+  <picture class="block w-full">
+    <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="block w-full" style="object-fit:cover;" />
+  </picture>
+  {{ end  }}
+  {{ end }}
 </div>
 <article class="px-4 pt-6">
   <div class="container">
-  <div class=" mx-auto max-w-xl main-content text-xl md:text-2xl  lg:text-4xl xl:text-4xl mb-24 leading-tight">
-    {{.Content}}
-  </div>
-</div>
-<div class="mx-auto site-wrapper">
-  {{  with .Params.images_top }}
-  <div class="md:flex md:flex-row max-auto  mb-16">
-  {{ range . }}
-   <div class="md:w-1/2">
-     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-     {{ with $imageResource }}
-       {{ $src1x := (.Fill "550x700 Center") }}
-       {{ $src2x := (.Fill "1100x1400 Center") }}
-       <picture class="block w-full h-full mb-2">
-           <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
-       </picture>
-     {{ end }}
-   </div>
-   {{  end  }}
-  </div>
-{{  end  }}
-
-  {{ range .Params.content_blokken }}
-  <div class="lg:flex lg:flex-row  mb-16 lg:mb-8">
-    <div class="lg:w-1/2">
-      <h2 class="text-xl md:text-2xl lg:text-4xl mb-4 font-superbold leading-tight -mt-2">{{ .title | markdownify }}</h2>
+    <div class=" mx-auto max-w-xl main-content text-xl md:text-2xl  lg:text-4xl xl:text-4xl mb-24 leading-tight">
+      {{.Content}}
     </div>
-    <div class="lg:w-1/2 main-content text-xl mb-6">
-      {{ .content | markdownify }}
-
-      {{ with .list }}
-      <div class="flex flex-row flex-wrap">
-
-        {{ range . }}
-        <div class="w-full md:w-1/2 mb-6 lg:mb-12">
-          <span class="font-superbold">{{.title}}</span>
-          <div class="leading-sm">
-            {{.content | markdownify}}
+  </div>
+  <div class="mx-auto site-wrapper">
+    {{ with .Params.images_top }}
+    <div class="md:flex md:flex-row max-auto  mb-16">
+      {{ range . }}
+      <div class="md:w-1/2">
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ with $imageResource }}
+        {{ $src1x := (.Fill "550x700 Center") }}
+        {{ $src2x := (.Fill "1100x1400 Center") }}
+        <picture class="block w-full h-full mb-2">
+          <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="block w-full" style="object-fit:cover;" />
+        </picture>
+        {{ end }}
+      </div>
+      {{ end  }}
+    </div>
+    {{ end  }}
+    {{ range .Params.content_blokken }}
+    <div class="lg:flex lg:flex-row  mb-16 lg:mb-8">
+      <div class="lg:w-1/2">
+        <h2 class="text-xl md:text-2xl lg:text-4xl mb-4 font-superbold leading-tight -mt-2">{{ .title | markdownify }}</h2>
+      </div>
+      <div class="lg:w-1/2 main-content text-xl mb-6">
+        {{ .content | markdownify }}
+        {{ with .list }}
+        <div class="flex flex-row flex-wrap">
+          {{ range . }}
+          <div class="w-full md:w-1/2 mb-6 lg:mb-12">
+            <span class="font-superbold">{{.title}}</span>
+            <div class="leading-sm">
+              {{.content | markdownify}}
+            </div>
           </div>
+          {{ end }}
         </div>
         {{ end }}
       </div>
+    </div>
+    {{ end }}
+    <div class="mb-16 pt-6">
+      {{ with .Params.image_bottom }}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+      {{ with $imageResource }}
+      {{ $src1x := (.Fill "1100x700 Center") }}
+      {{ $src2x := (.Fill "2200x1400 Center") }}
+      <picture class="block w-full">
+        <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="block w-full" style="object-fit:cover;" />
+      </picture>
+      {{ end  }}
       {{ end }}
-
     </div>
   </div>
-  {{ end }}
-
-  <div class="mb-16 pt-6">
-    {{ with .Params.image_bottom }}
-        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-        {{ with $imageResource }}
-          {{ $src1x := (.Fill "1100x700 Center") }}
-          {{ $src2x := (.Fill "2200x1400 Center") }}
-          <picture class="block w-full">
-              <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
-          </picture>
-      {{  end  }}
-    {{ end }}
-  </div>
-</div>
 </article>
-
 {{ end }}
