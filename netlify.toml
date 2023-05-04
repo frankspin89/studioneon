@@ -1,11 +1,13 @@
 [build]
-command = "npm run tinacms build && hugo"
+command = "tinacms build && hugo"
 publish = "public"
 
 HUGO_VERSION = "0.110.0"
+NODE_VERSION = "16.15.0"
 
 [context.production.environment]
 HUGO_VERSION = "0.110.0"
+NODE_VERSION = "16.15.0"
 
 [context.deploy-preview]
 command = "npm run build:preview"
