@@ -13,7 +13,7 @@ meta:
 social:
   title: Studio Neon — Zwolle / Antwerpen
   description: Ontwerpstudio voor creatieve merkconcepten en campagnes
-  image: "/uploads/ANOUK-MARIA-MARIJE.jpg"
+  image: "/images/ANOUK-MARIA-MARIJE.jpg"
 contact_block:
   title: Ook een doeltreffend ontwerp?
   buttontext: Neem contact op

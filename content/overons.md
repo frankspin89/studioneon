@@ -3,10 +3,10 @@ title: Over ons
 type: page
 layout: overons
 background: orange
-hero: "/uploads/studioneon09543.jpg"
+hero: "/images/studioneon09543.jpg"
 images_top:
-- "/uploads/studioneon09642.jpg"
-image_bottom: "/uploads/studioneon09628.jpg"
+  - "/images/studioneon09642.jpg"
+image_bottom: "/images/studioneon09628.jpg"
 content_blokken:
 - title: Wie zijn wij?
   content: |-

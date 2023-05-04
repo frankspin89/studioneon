@@ -3,10 +3,19 @@ languageCode = "en-us"
 title = "Studio Neon"
 theme = "neon"
 [markup.goldmark.renderer]
-   unsafe = true
+unsafe = true
 
 [taxonomies]
-   tag = "tags"
-   category = "categories"
+tag = "tags"
+category = "categories"
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
+
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'static/images'
+target = 'assets/images'

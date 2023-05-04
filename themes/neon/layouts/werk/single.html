@@ -1,17 +1,17 @@
-{{ define "header" }} {{- partial "header-werk.html" . -}}  {{ end }}
+{{ define "header" }} {{- partial "header-werk.html" . -}} {{ end }}
 {{ define "main" }}
 {{ $page := .Page }}
 <article class="overflow-hidden">
   <header class="w-screen h-64 md:h-screen mb-12">
     {{ with .Params.hero}}
-      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-      {{ with $imageResource }}
-        {{ $src1x := (.Fill "1920x1200 Center") }}
-        {{ $src2x := (.Fill "3840x2400 Center") }}
-        <picture class="block w-full h-full">
-            <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full h-full" style="object-fit:cover;" />
-        </picture>
-      {{ end }}
+    {{ $imageResource := resources.Get . }}
+    {{ with $imageResource }}
+    {{ $src1x := (.Fill "1920x1200 Center") }}
+    {{ $src2x := (.Fill "3840x2400 Center") }}
+    <picture class="block w-full h-full">
+      <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="block w-full h-full" style="object-fit:cover;" />
+    </picture>
+    {{ end }}
     {{ end }}
   </header>
   <div class="container px-4 md:pt-12 md:pt-20">
@@ -19,10 +19,10 @@
       <div id="contentBoxToggle" class="flex items-baseline mb-4 cursor-pointer">
         <div class="w-4 h-4 mr-6 mb-1 relative">
           <svg id="contentBox-open" class="hidden absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8">
-            <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
+            <path style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)" />
           </svg>
-          <svg class="block absolute" id="contentBox-close"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8" style="transform: rotate(45deg);">
-            <path  style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)"/>
+          <svg class="block absolute" id="contentBox-close" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.8 12.8" style="transform: rotate(45deg);">
+            <path style="fill: #ff3901;" d="M13.8,6.5H8.5V1.2H6.2V6.5H1V8.8H6.2V14H8.5V8.8h5.3Z" transform="translate(-1 -1.2)" />
           </svg>
         </div>
         <h1 class="text-xl md:text-2xl font-medium ">{{.Title}}</h1>
@@ -46,109 +46,62 @@
           </div>
         </div>
       </div>
-
-      <div class="mb-6">
-      {{ with .Params.werk }}
-        {{ range . }}
-          {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-            {{ with $imageResource }}
-              {{ $src1x := (.Fill "1100x700 Center") }}
-              {{ $src2x := (.Fill "2200x1400 Center") }}
-              {{ if $src1x.RelPermalink }}
-              <picture class="block w-full h-full mb-2">
-                  <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
-              </picture>
-              {{ end }}
-            {{ end }}
-          {{ end }}
+      {{ with .Params.work }}
+      {{ range . }}
+      {{ if .images }}
+      {{ $imagesLength := len .images }}
+      {{ if eq $imagesLength 1 }}
+      {{/* Render div for a single item */}}
+      <div>
+        {{ range .images }}
+        {{ $imageResource := resources.Get . }}
+        {{ with $imageResource }}
+        {{ $src1x := (.Fill "1100x700 Center") }}
+        {{ $src2x := (.Fill "2200x1400 Center") }}
+        {{ if $src1x.RelPermalink }}
+        <picture class="block w-full h-full mb-2">
+          <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="block w-full" style="object-fit:cover;" />
+        </picture>
+        {{ end }}
+        {{end }}
         {{ end }}
       </div>
-
-      <div class="mb-6">
-
-        {{ with .Params.work }}
-          {{ range . }}
-
-            {{  with .double }}
-               {{ range . }}
-                <div class="flex">
-                {{ range . }}
-                <div class="w-1/2">
-                  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-                  {{ with $imageResource }}
-                    {{ $src1x := (.Fill "550x700 Center") }}
-                    {{ $src2x := (.Fill "1100x1400 Center") }}
-                    {{ if $src1x.RelPermalink }}
-                    <picture class="block w-full h-full mb-2">
-                        <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
-                    </picture>
-                    {{ end }}
-                  {{ end }}
-                </div>
-                {{  end  }}
-                </div>
-               {{ end }}
-            {{  end  }}
-
-            {{ with .gif  }}
-            {{  range .  }}
-                  {{ if . }}
-                  <img src="{{ . }}" class="block w-full h-full mb-2">
-                  {{ end }}
-                {{ end }}
-
-            {{ end  }}
-
-            {{ with .double_gif  }}
-            {{  range .  }}
-            <div class="flex">
-                {{  range .  }}
-                <div class="w-1/2  mb-2">
-                  <img src="{{ . }}" class="block w-full h-full">
-                </div>
-                {{ end }}
-            </div>
-            {{ end }}
-            {{ end  }}
-
-            {{ with .single }}
-                {{ range .  }}
-                {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-                {{ with $imageResource }}
-                  {{ $src1x := (.Fill "1100x700 Center") }}
-                  {{ $src2x := (.Fill "2200x1400 Center") }}
-                  {{ if $src1x.RelPermalink }}
-                  <picture class="block w-full h-full mb-2">
-                      <img src="{{ $src1x.RelPermalink }}"  srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x"  class="block w-full" style="object-fit:cover;" />
-                  </picture>
-                  {{ end }}
-                {{ end }}
-                {{ end }}
-            {{ end }}
-
-          {{  end  }}
+      {{ else }}
+      {{/* Render div for multiple items */}}
+      <div class="flex">
+        {{ range .images }}
+        {{ $imageResource := resources.Get . }}
+        {{ with $imageResource }}
+        {{ $src1x := (.Fill "550x700 Center") }}
+        {{ $src2x := (.Fill "1100x1400 Center") }}
+        {{ if $src1x.RelPermalink }}
+        <div class="w-1/2">
+          <picture class="block w-full h-full mb-2">
+            <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="block w-full" style="object-fit:cover;" />
+          </picture>
+        </div>
+        {{ end }}
+        {{end }}
         {{ end }}
       </div>
-
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
       {{ with $page.GetPage "settings" }}
-
-      <div class="bg-orange mb-8 px-4 -mt-4 flex flex-col md:flex-row justify-center text-white items-center py-12">
-
+      <div class="bg-orange mb-8 px-4 mt-6 flex flex-col md:flex-row justify-center text-white items-center py-12">
         {{ with .Params.cta }}
         <span class="text-2xl md:text-3xl xl:text-4xl leading-none text-white text-center" style="max-width: 400px;">{{.title}}</span>
         <a href="{{.button_url}}" class="text-white text-uppercase border-4 border-white py-2 mt-6 md:mt-0 px-4 md:ml-8  text-center uppercase  hover:bg-white hover:text-orange font-superbold tracking-wide">{{.button_text}}</a>
         {{ end }}
-
       </div>
-
       {{ end }}
-
       <div class="md:flex md:flex-row justify-between mb-6 md:mb-12 text-xl md:text-2xl">
         {{ with .NextInSection }}
         <a href="{{.RelPermalink}}" class="flex flex-col items-center">
           <span class="block ">{{.Params.klant}}</span>
           <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.2 16.6">
-            <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M8.9.4,1,8.4v.7L8.9,17l1.6-1.6L4.9,9.8H22.2V7.6H4.9l5.6-5.5Z" transform="translate(-1 -0.4)"/>
+            <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M8.9.4,1,8.4v.7L8.9,17l1.6-1.6L4.9,9.8H22.2V7.6H4.9l5.6-5.5Z" transform="translate(-1 -0.4)" />
           </svg>
         </a>
         {{ end }}
@@ -156,14 +109,12 @@
         <a href="{{.RelPermalink}}" class="flex flex-col items-center">
           <span class="block">{{.Params.klant}}</span>
           <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.2 16.6">
-            <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M14.3,17l7.9-7.9V8.4L14.3.4,12.7,2.1l5.6,5.5H1V9.8H18.3l-5.6,5.6Z" transform="translate(-1 -0.4)"/>
+            <path id="pijl_links" data-name="pijl links" style="fill: #ff3901;" d="M14.3,17l7.9-7.9V8.4L14.3.4,12.7,2.1l5.6,5.5H1V9.8H18.3l-5.6,5.6Z" transform="translate(-1 -0.4)" />
           </svg>
         </a>
         {{ end }}
       </div>
-
     </div>
   </div>
 </article>
-
 {{ end }}

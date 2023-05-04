@@ -1,139 +1,65 @@
-+++
-date = "2019-01-02T14:04:38+00:00"
-hero = "/uploads/hero-ico.png"
-klant = "ICO"
-tags = ["print", "brochure", "lesmateriaal", "online", "poster", "website"]
-title = "Tools voor onderwijs en amateurkunst"
-weight = 1
-[meta]
-description = ""
-title = ""
-[social]
-description = ""
-image = ""
-title = ""
-[[work]]
-name = "Website"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post13.png"
-[[work]]
-name = "Website 2"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post14.png"
-[[work]]
-name = "Mobiel"
-[work.double]
-image = ["/uploads/post16-1.png", "/uploads/post15-2.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = "KBW lesmateriaal"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post.png"
-[[work]]
-name = "Jaarberslag"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post3.png"
-[[work]]
-name = "Kaarten"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post2.png"
-[[work]]
-name = "Tas + VK"
-[work.double]
-image = ["/uploads/post4.png", "/uploads/post5.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = "Kaart - bijen"
-[work.double]
-image = ["/uploads/post6.png", "/uploads/post7.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = "Stickers"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post8.png"
-[[work]]
-name = "Posters"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post9.png"
-[[work]]
-name = "Vlaggen"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/post10.png"
-[[work]]
-name = "Naambutton"
-[work.double]
-image = ["/uploads/post11.png", "/uploads/post12.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-
-+++
+---
+date: '2019-01-02T14:04:38+00:00'
+hero: /images/hero-ico.png
+klant: ICO
+tags:
+  - print
+  - brochure
+  - lesmateriaal
+  - online
+  - poster
+  - website
+title: Tools voor onderwijs en amateurkunst
+weight: 1
+meta:
+  description: ''
+  title: ''
+social:
+  description: ''
+  image: ''
+  title: ''
+work:
+  - name: Website
+    images:
+      - /images/post13.png
+  - name: Website 2
+    images:
+      - /images/post14.png
+  - name: Mobiel
+    images:
+      - /images/post16-1.png
+      - /images/post15-2.png
+  - name: KBW lesmateriaal
+    images:
+      - /images/post.png
+  - name: Jaarberslag
+    images:
+      - /images/post3.png
+  - name: Kaarten
+    images:
+      - /images/post2.png
+  - name: Tas + VK
+    images:
+      - /images/post4.png
+      - /images/post5.png
+  - name: Kaart - bijen
+    images:
+      - /images/post6.png
+      - /images/post7.png
+  - name: Stickers
+    images:
+      - /images/post8.png
+  - name: Posters
+    images:
+      - /images/post9.png
+  - name: Vlaggen
+    images:
+      - /images/post10.png
+  - name: Naambutton
+    images:
+      - /images/post11.png
+      - /images/post12.png
+---
 Het ICO is een partner voor onderwijs en amateurkunst in verschillende Drentse gemeenten. Gericht op cultuureducatie.
 
 ICO is continu in beweging. Op zoek naar innovatieve onderwijsmethodes. Het logo kon niet achterblijven en verandert daarom telkens van vorm. Zonder zijn herkenbaarheid te verliezen. Het kunstencentrum werkt samen met gemeenten, culturele organisaties, onderwijs en kunstprofessionals. Die samenwerking is vertaald in een tweedeling van kleuren. Het ICO aan de ene kant, samen met de partner aan de andere kant.

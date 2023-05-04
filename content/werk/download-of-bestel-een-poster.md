@@ -1,69 +1,42 @@
-+++
-draft = true
-hero = "/uploads/hero header-2.png"
-klant = "get bored"
-tags = ["#getboredandcreate", "-", "credits", "Zalsman Groningen (drukwerk)", "Wiebe Brandsema (online)"]
-title = "Download of bestel de poster"
-weight = 1
-[meta]
-description = ""
-title = ""
-[social]
-description = ""
-image = ""
-title = ""
-[[work]]
-name = "Download poster"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/work - download poster.png"
-[[work]]
-name = "Resultaat posters"
-[work.double]
-image = ["/uploads/work - double - poster2.jpg", "/uploads/work - double - poster.jpg"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = "Instagram"
-[work.double]
-image = []
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = "/uploads/work - instagram.png"
-[[work]]
-name = "Making of - Maria"
-[work.double]
-image = ["/uploads/work - double - tekst2.png", "/uploads/work - single - making of-1.jpg"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-[[work]]
-name = "Making of - stapel posters"
-[work.double]
-image = ["/uploads/work - single - making of2.jpg", "/uploads/work - double - tekst.png"]
-[work.double_gif]
-images = []
-[work.gif]
-image = ""
-[work.single]
-image = ""
-
-+++
+---
+draft: true
+hero: /images/hero header-2.png
+klant: get bored
+tags:
+  - '#getboredandcreate'
+  - '-'
+  - credits
+  - Zalsman Groningen (drukwerk)
+  - Wiebe Brandsema (online)
+title: Download of bestel de poster
+weight: 1
+meta:
+  description: ''
+  title: ''
+social:
+  description: ''
+  image: ''
+  title: ''
+work:
+  - name: Download poster
+    images:
+      - /images/work - download poster.png
+  - name: Resultaat posters
+    images:
+      - /images/work - double - poster2.jpg
+      - /images/work - double - poster.jpg
+  - name: Instagram
+    images:
+      - /images/work - instagram.png
+  - name: Making of - Maria
+    images:
+      - /images/work - double - tekst2.png
+      - /images/work - single - making of-1.jpg
+  - name: Making of - stapel posters
+    images:
+      - /images/work - single - making of2.jpg
+      - /images/work - double - tekst.png
+---
 [**Download**](https://wiebebrandsema.nl/studio-neon/ "Download de poster") de digitale poster of [**bestel**](https://www.wiebebrandsema.nl/studio-neon/ "Bestel de poster") de papieren versie.
 
 Vanwege alle coronamaatregelen blijven we met ze allen zoveel mogelijk binnen. We doen er alles aan om ons niet te vervelen, toch? Of is het juist de verveling die aanzet tot creativiteit?

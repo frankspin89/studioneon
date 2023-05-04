@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="lg:px-4 mb-8 md:mb-16 mx-auto site-wrapper">
   {{ with .Params.hero }}
-  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ $imageResource := resources.Get . }}
   {{ with $imageResource }}
   {{ $src1x := (.Fill "1100x700 Center") }}
   {{ $src2x := (.Fill "2200x1400 Center") }}
@@ -22,7 +22,7 @@
     <div class="md:flex md:flex-row max-auto  mb-16">
       {{ range . }}
       <div class="md:w-1/2">
-        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $imageResource := resources.Get . }}
         {{ with $imageResource }}
         {{ $src1x := (.Fill "550x700 Center") }}
         {{ $src2x := (.Fill "1100x1400 Center") }}
@@ -58,7 +58,7 @@
     {{ end }}
     <div class="mb-16 pt-6">
       {{ with .Params.image_bottom }}
-      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+      {{ $imageResource := resources.Get . }}
       {{ with $imageResource }}
       {{ $src1x := (.Fill "1100x700 Center") }}
       {{ $src2x := (.Fill "2200x1400 Center") }}

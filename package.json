@@ -8,11 +8,13 @@
     "start": "npm run build",
     "hugo": "hugo server --disableFastRender -p 1330",
     "build:production": "rm -rf ./public && webpack -p && hugo && html-minifier --input-dir ./public --output-dir ./public --collapse-whitespace --file-ext html",
-    "build": "webpack --progress --colors --watch"
+    "build": "webpack --progress --colors --watch",
+    "tina": "npx tinacms dev -c \"hugo server -D -p 1313\""
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tinacms/cli": "^1.5.10",
     "css-loader": "^1.0.0",
     "html-minifier": "^3.5.20",
     "mini-css-extract-plugin": "^0.4.3",
@@ -21,6 +23,7 @@
     "postcss-loader": "^3.0.0",
     "style-loader": "^0.23.0",
     "tailwindcss": "^0.7.4",
+    "tinacms": "^1.5.3",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
   },
