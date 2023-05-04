@@ -1,5 +1,5 @@
 [build]
-command = "pm run tinacms build && hugo"
+command = "npm run tinacms build && hugo"
 publish = "public"
 
 HUGO_VERSION = "0.110.0"
