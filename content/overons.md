@@ -1,6 +1,14 @@
 ---
 title: Over ons
 hero: /images/2023_10_STUDIO NEON_07 2_liggend.jpg
+slug: overons
+layout: overons
+type: page
+background: orange
+menu:
+  main:
+    title: Over ons
+    weight: 1
 images_top:
   - /images/2023_10_STUDIO NEON_02.jpg
   - /images/2023_10_STUDIO NEON_03.jpg
@@ -16,7 +24,7 @@ content_blokken:
       *Ne(derlands) on(twerp)
     list: []
   - title: Wat doen wij
-    content: ''
+    content: ""
     list:
       - title: strategie & ontwerp
         content: |-
@@ -100,9 +108,9 @@ meta:
     Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes.
     We ontwerpen visuele identiteiten en doordachte on- en offline uitingen.
 social:
-  title: ''
-  description: ''
-  image: ''
+  title: ""
+  description: ""
+  image: ""
 ---
 
 Studio Neon is een ontwerpstudio voor creatieve merkconcepten en campagnes. We ontwerpen visuele identiteiten en doordachte on- en offline uitingen.

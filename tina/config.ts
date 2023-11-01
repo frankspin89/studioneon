@@ -23,9 +23,33 @@ const social = {
       name: "image",
       label: "Image",
     },
-  ]
-}
+  ],
+};
 
+const menu = {
+  label: "Menu informatie",
+  name: "menu",
+  type: "object",
+  fields: [
+    {
+      label: "main",
+      name: "main",
+      type: "object",
+      fields: [
+        {
+          type: "string",
+          name: "title",
+          label: "Title",
+        },
+        {
+          type: "number",
+          name: "weight",
+          label: "Weight",
+        },
+      ],
+    },
+  ],
+};
 
 const meta = {
   label: "Meta informatie",
@@ -42,9 +66,8 @@ const meta = {
       name: "description",
       label: "Description",
     },
-  ]
-}
-
+  ],
+};
 
 export default defineConfig({
   branch,
@@ -86,13 +109,13 @@ export default defineConfig({
             required: true,
           },
           {
-            type: 'rich-text',
-            label: 'Content',
-            name: 'body',
+            type: "rich-text",
+            label: "Content",
+            name: "body",
             isBody: true,
           },
           meta,
-          social
+          social,
         ],
       },
       {
@@ -120,41 +143,41 @@ export default defineConfig({
           {
             type: "string",
             name: "klant",
-            label: "Klant"
+            label: "Klant",
           },
           {
             type: "number",
             name: "weight",
-            label: "Weight"
+            label: "Weight",
           },
 
           {
-            label: 'Tags',
-            name: 'tags',
-            type: 'string',
+            label: "Tags",
+            name: "tags",
+            type: "string",
             list: true,
           },
           {
-            type: 'rich-text',
-            label: 'Content',
-            name: 'body',
+            type: "rich-text",
+            label: "Content",
+            name: "body",
             isBody: true,
           },
           {
-            type: 'object',
-            label: 'Work',
-            name: 'work',
+            type: "object",
+            label: "Work",
+            name: "work",
             list: true,
             ui: {
               itemProps: (item) => {
-                return { label: `${item?.name}   ` }
-              }
+                return { label: `${item?.name}   ` };
+              },
             },
             fields: [
               {
                 type: "string",
                 name: "name",
-                label: "Naam"
+                label: "Naam",
               },
               {
                 type: "image",
@@ -162,14 +185,13 @@ export default defineConfig({
                 label: "Afbeeldingen",
                 list: true,
                 ui: {
-                  max: 2
-                }
+                  max: 2,
+                },
               },
-
-            ]
+            ],
           },
           meta,
-          social
+          social,
         ],
       },
       {
@@ -195,14 +217,32 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "type",
+            label: "Type",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "background",
+            label: "Background",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+            required: true,
+          },
+          {
             type: "image",
             name: "hero",
             label: "Hero afbeelding",
           },
           {
-            type: 'rich-text',
-            label: 'Content',
-            name: 'body',
+            type: "rich-text",
+            label: "Content",
+            name: "body",
             isBody: true,
           },
           {
@@ -211,8 +251,8 @@ export default defineConfig({
             label: "Afbeeldingen",
             list: true,
             ui: {
-              max: 2
-            }
+              max: 2,
+            },
           },
           {
             type: "object",
@@ -221,8 +261,8 @@ export default defineConfig({
             list: true,
             ui: {
               itemProps: (item) => {
-                return { label: `${item?.title}   ` }
-              }
+                return { label: `${item?.title}   ` };
+              },
             },
             fields: [
               {
@@ -235,8 +275,8 @@ export default defineConfig({
                 name: "content",
                 label: "Content",
                 ui: {
-                  component: "textarea"
-                }
+                  component: "textarea",
+                },
               },
               {
                 type: "object",
@@ -245,8 +285,8 @@ export default defineConfig({
                 list: true,
                 ui: {
                   itemProps: (item) => {
-                    return { label: `${item?.title}   ` }
-                  }
+                    return { label: `${item?.title}   ` };
+                  },
                 },
                 fields: [
                   {
@@ -259,12 +299,12 @@ export default defineConfig({
                     name: "content",
                     label: "Content",
                     ui: {
-                      component: "textarea"
-                    }
+                      component: "textarea",
+                    },
                   },
-                ]
+                ],
               },
-            ]
+            ],
           },
           {
             type: "image",
@@ -272,7 +312,8 @@ export default defineConfig({
             label: "Afbeelding onderzijde pagina",
           },
           meta,
-          social
+          social,
+          menu,
         ],
       },
 
@@ -300,6 +341,18 @@ export default defineConfig({
           },
           {
             type: "string",
+            name: "type",
+            label: "Type",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+            required: true,
+          },
+          {
+            type: "string",
             name: "contact_informatie",
             label: "Contact informatie",
             required: true,
@@ -310,8 +363,8 @@ export default defineConfig({
             label: "Adres 1",
             required: true,
             ui: {
-              component: "textarea"
-            }
+              component: "textarea",
+            },
           },
           {
             type: "object",
@@ -334,8 +387,8 @@ export default defineConfig({
                 type: "image",
                 name: "afbeelding",
                 label: "Afbeelding",
-              }
-            ]
+              },
+            ],
           },
           {
             type: "rich-text",
@@ -345,7 +398,8 @@ export default defineConfig({
             isBody: true,
           },
           meta,
-          social
+          social,
+          menu,
         ],
       },
       {
@@ -353,6 +407,7 @@ export default defineConfig({
         name: "legal",
         path: "content",
         format: "md",
+
         ui: {
           allowedActions: {
             create: false,
@@ -363,6 +418,18 @@ export default defineConfig({
           include: "legal",
         },
         fields: [
+          {
+            type: "string",
+            name: "type",
+            label: "Type",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+            required: true,
+          },
           {
             type: "string",
             name: "title",
@@ -378,7 +445,7 @@ export default defineConfig({
             isBody: true,
           },
           meta,
-          social
+          social,
         ],
       },
     ],

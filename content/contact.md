@@ -17,6 +17,12 @@ social:
   title: ''
   description: ''
   image: ''
+layout: contact
+type: page
+menu:
+  main:
+    title: Contact
+    weight: 2
 ---
 
 Wil je eens kennismaken? We bespreken graag samen jouw ideeën, aankomende projecten en nieuwe kansen. Schuif aan bij Studio Neon.
